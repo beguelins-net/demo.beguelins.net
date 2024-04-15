@@ -1,6 +1,6 @@
 {
-  "commit": "83acd869c452c18a26bbd08581612dca363772b3",
-  "generated": "2024-04-15T15:25:52.639Z",
+  "commit": "1e3b27f024d87e5099c1fda712acecd7a920246a",
+  "generated": "2024-04-15T15:26:20.181Z",
   "metadata": [
     {
       "__outstatic": {
@@ -83,23 +83,6 @@
       "slug": "couple-pizza",
       "status": "published",
       "title": "Couple Pizza"
-    },
-    {
-      "__outstatic": {
-        "commit": "caeb954ea1579e04b6b74c80ddf718e56c60a67d",
-        "hash": "1076515129",
-        "path": "/outstatic/content/projects/bearbnb.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "projects",
-      "coverImage": "/images/bearbnb.png",
-      "description": "Amazing rental locations for your teddy bear.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "bearbnb",
-      "status": "published",
-      "title": " 🧸 Bearbnb"
     },
     {
       "__outstatic": {
