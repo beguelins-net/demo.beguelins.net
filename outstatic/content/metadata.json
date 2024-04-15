@@ -1,6 +1,6 @@
 {
-  "commit": "599d9efff85154698859d0e5e075bb9d255afed7",
-  "generated": "2024-04-15T15:23:26.227Z",
+  "commit": "83acd869c452c18a26bbd08581612dca363772b3",
+  "generated": "2024-04-15T15:25:52.639Z",
   "metadata": [
     {
       "__outstatic": {
@@ -136,6 +136,24 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "83acd869c452c18a26bbd08581612dca363772b3",
+        "hash": "81618743",
+        "path": "outstatic/content/pages/exposition.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/167098926?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-22T16:35:30.000Z",
+      "slug": "exposition",
+      "status": "published",
+      "title": "Exposition"
     }
   ]
 }
