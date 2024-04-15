@@ -1,6 +1,6 @@
 {
-  "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-  "generated": "2024-04-15T15:18:51.488Z",
+  "commit": "117643445f11111ba86b059fd227f8ed67feb2e0",
+  "generated": "2024-04-15T15:21:47.514Z",
   "metadata": [
     {
       "__outstatic": {
@@ -121,12 +121,12 @@
     },
     {
       "__outstatic": {
-        "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-        "hash": "4148321646",
+        "commit": "117643445f11111ba86b059fd227f8ed67feb2e0",
+        "hash": "2879526230",
         "path": "outstatic/content/pages/home.md"
       },
       "author": {
-        "name": "Andre Vitorio",
+        "name": "geneb",
         "picture": ""
       },
       "collection": "pages",
