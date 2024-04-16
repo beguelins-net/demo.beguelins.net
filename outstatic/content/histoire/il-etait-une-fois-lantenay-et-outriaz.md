@@ -4,7 +4,7 @@ author:
   picture: ''
 coverImage: ''
 title: 'IL ÉTAIT UNE FOIS LANTENAY ET OUTRIAZ'
-status: 'draft'
+status: 'published'
 slug: 'il-etait-une-fois-lantenay-et-outriaz'
 description: ''
 publishedAt: '2011-11-08T16:55:24.000Z'
@@ -22,13 +22,9 @@ La construction d’un pont sur le ravin, en amont du moulin Davar, pour faire u
 
 Courage, habitants d’Outriaz, des jours heureux se lèveront pour vous, n’en doutez pas ; ils seront la récompense de vos misères des temps passés. *(Extraits du mémoire pour la séparation d’Outriaz)*
 
- 
-
-[*![clip_image002\[6\]](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image002_6__thumb.jpg "clip_image002[6]")*](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image002_6_.jpg)
+[*![clip_image0026](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image002_6__thumb.jpg "clip_image002[6]")*](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image002_6_.jpg)
 
 [![clip_image004](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image004_thumb.jpg "clip_image004")](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image004_2.jpg)
-
- 
 
 … parce que la commune d’Outriaz… n’étant pas séparée de Lantenay pour le culte… elles doivent contribuer à toutes les dépenses.
 
@@ -42,8 +38,6 @@ Courage, habitants d’Outriaz, des jours heureux se lèveront pour vous, n’en
 
 *Archives départementales de l’Ain*
 
- 
+[*![clip_image010](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image010_thumb.jpg "clip_image010")*](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image010_2.jpg)                                                                                                                                     [*![clip_image014](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image014_thumb.jpg "clip_image014")*](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image014_2.jpg)
 
-[*![clip_image010](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image010_thumb.jpg "clip_image010")*](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image010_2.jpg)                                                                                                                                     *[![clip_image014](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image014_thumb.jpg "clip_image014")](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image014_2.jpg)* 
-
- [![clip_image012](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image012_thumb.jpg "clip_image012")](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image012_2.jpg)
+[![clip_image012](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image012_thumb.jpg "clip_image012")](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image012_2.jpg)
