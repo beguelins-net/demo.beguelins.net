@@ -5,7 +5,7 @@ author:
   name: 'geneb'
   picture: ''
 slug: 'home'
-description: 'This is my blog.'
+description: 'Page d''accueil'
 coverImage: ''
 publishedAt: '2022-03-17T05:35:07.322Z'
 ---

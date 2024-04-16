@@ -1,25 +1,7 @@
 {
-  "commit": "aae36fc52112775e4ffe9a910668b8c26507203e",
-  "generated": "2024-04-16T15:38:58.589Z",
+  "commit": "c99d1e5922d371724b57804967e44f13c69c1a59",
+  "generated": "2024-04-16T15:39:17.653Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "493325c277b5f5c94e4e32229336625db333dc2d",
-        "hash": "2879526230",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "This is my blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
     {
       "__outstatic": {
         "commit": "90b1e97dbbff972872bf6eafe71ed655005e7550",
@@ -37,6 +19,24 @@
       "slug": "cartes-postales-et-vues-du-ciel",
       "status": "published",
       "title": "CARTES POSTALES ET VUES DU CIEL"
+    },
+    {
+      "__outstatic": {
+        "commit": "c99d1e5922d371724b57804967e44f13c69c1a59",
+        "hash": "3731660449",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "Page d'accueil",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }
