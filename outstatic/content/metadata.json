@@ -1,6 +1,6 @@
 {
-  "commit": "ff6ebf4367e587405bf824437dacc0f9d60c7349",
-  "generated": "2024-04-16T15:42:15.017Z",
+  "commit": "aa215d8f6f34349a4e8cc2b7c3e1a12a14b576d7",
+  "generated": "2024-04-16T15:44:59.455Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,6 +55,24 @@
       "slug": "les-sires-de-lantenay",
       "status": "published",
       "title": "LES SIRES DE LANTENAY"
+    },
+    {
+      "__outstatic": {
+        "commit": "aa215d8f6f34349a4e8cc2b7c3e1a12a14b576d7",
+        "hash": "3225499522",
+        "path": "outstatic/content/histoire/il-etait-une-fois-lantenay-et-outriaz.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "histoire",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-08T16:55:24.000Z",
+      "slug": "il-etait-une-fois-lantenay-et-outriaz",
+      "status": "draft",
+      "title": "IL ÉTAIT UNE FOIS LANTENAY ET OUTRIAZ"
     }
   ]
 }
