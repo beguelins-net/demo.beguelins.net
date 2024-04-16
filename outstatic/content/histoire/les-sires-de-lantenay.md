@@ -2,8 +2,8 @@
 title: 'LES SIRES DE LANTENAY'
 status: 'published'
 author:
-  name: 't-chab'
-  picture: 'https://avatars.githubusercontent.com/u/2120966?v=4'
+  name: 'geneb'
+  picture: ''
 slug: 'les-sires-de-lantenay'
 description: ''
 coverImage: ''

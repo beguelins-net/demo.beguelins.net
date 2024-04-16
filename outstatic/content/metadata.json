@@ -1,6 +1,6 @@
 {
   "commit": "ff6ebf4367e587405bf824437dacc0f9d60c7349",
-  "generated": "2024-04-16T15:42:03.805Z",
+  "generated": "2024-04-16T15:42:15.017Z",
   "metadata": [
     {
       "__outstatic": {
@@ -41,12 +41,12 @@
     {
       "__outstatic": {
         "commit": "ff6ebf4367e587405bf824437dacc0f9d60c7349",
-        "hash": "1630638376",
+        "hash": "1271785622",
         "path": "outstatic/content/histoire/les-sires-de-lantenay.md"
       },
       "author": {
-        "name": "t-chab",
-        "picture": "https://avatars.githubusercontent.com/u/2120966?v=4"
+        "name": "geneb",
+        "picture": ""
       },
       "collection": "histoire",
       "coverImage": "",
