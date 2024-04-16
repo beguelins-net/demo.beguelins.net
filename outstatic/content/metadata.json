@@ -1,6 +1,6 @@
 {
-  "commit": "dca1eac86af1be342b904cf7fe08cb4158df4b08",
-  "generated": "2024-04-16T15:47:09.939Z",
+  "commit": "9e9cdce646e0543dedd4f21dc77cbd40849be4b9",
+  "generated": "2024-04-16T15:48:31.344Z",
   "metadata": [
     {
       "__outstatic": {
@@ -91,6 +91,24 @@
       "slug": "les-groupements-agricoles",
       "status": "published",
       "title": "LES GROUPEMENTS AGRICOLES"
+    },
+    {
+      "__outstatic": {
+        "commit": "9e9cdce646e0543dedd4f21dc77cbd40849be4b9",
+        "hash": "118850099",
+        "path": "outstatic/content/la-vie-agricole/le-remembrement-intercommunal.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-agricole",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-13T16:59:36.000Z",
+      "slug": "le-remembrement-intercommunal",
+      "status": "published",
+      "title": "LE REMEMBREMENT INTERCOMMUNAL"
     }
   ]
 }
