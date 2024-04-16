@@ -2,8 +2,8 @@
 title: 'CARTES POSTALES ET VUES DU CIEL'
 status: 'published'
 author:
-  name: 't-chab'
-  picture: 'https://avatars.githubusercontent.com/u/2120966?v=4'
+  name: 'geneb'
+  picture: ''
 slug: 'cartes-postales-et-vues-du-ciel'
 description: ''
 coverImage: ''
