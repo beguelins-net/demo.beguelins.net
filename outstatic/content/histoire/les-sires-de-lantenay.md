@@ -1,13 +1,13 @@
 ---
 title: 'LES SIRES DE LANTENAY'
-status: 'draft'
+status: 'published'
 author:
   name: 't-chab'
   picture: 'https://avatars.githubusercontent.com/u/2120966?v=4'
 slug: 'les-sires-de-lantenay'
 description: ''
 coverImage: ''
-publishedAt: '2024-04-16T15:51:53.037Z'
+publishedAt: '2011-11-08T16:51:53.000Z'
 ---
 
 *Le 8 novembre 2011, 12 h 31*
@@ -55,8 +55,6 @@ publishedAt: '2024-04-16T15:51:53.037Z'
 ## [LANTENAY VU PAR](https://beguelins.net/blog/index.php/post/2011/11/08/LANTENAY-VU-PAR)
 
 le 8 novembre, 2011, 12h22
-
- 
 
 ***Le Préfet BOSSI -1808***
 

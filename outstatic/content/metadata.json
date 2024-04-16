@@ -1,6 +1,6 @@
 {
-  "commit": "6348170bd6a1bd55e7ff6e201b0cdcdc24157337",
-  "generated": "2024-04-16T15:41:46.348Z",
+  "commit": "ff6ebf4367e587405bf824437dacc0f9d60c7349",
+  "generated": "2024-04-16T15:42:03.805Z",
   "metadata": [
     {
       "__outstatic": {
@@ -40,8 +40,8 @@
     },
     {
       "__outstatic": {
-        "commit": "6348170bd6a1bd55e7ff6e201b0cdcdc24157337",
-        "hash": "1039363197",
+        "commit": "ff6ebf4367e587405bf824437dacc0f9d60c7349",
+        "hash": "1630638376",
         "path": "outstatic/content/histoire/les-sires-de-lantenay.md"
       },
       "author": {
@@ -51,9 +51,9 @@
       "collection": "histoire",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2024-04-16T15:51:53.037Z",
+      "publishedAt": "2011-11-08T16:51:53.000Z",
       "slug": "les-sires-de-lantenay",
-      "status": "draft",
+      "status": "published",
       "title": "LES SIRES DE LANTENAY"
     }
   ]
