@@ -1,6 +1,6 @@
 {
-  "commit": "846b07a1e7fab9cf13efb71c46c65b1e44078453",
-  "generated": "2024-04-16T15:34:28.868Z",
+  "commit": "90b1e97dbbff972872bf6eafe71ed655005e7550",
+  "generated": "2024-04-16T15:38:13.244Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,6 +37,24 @@
       "slug": "exposition",
       "status": "published",
       "title": "Exposition"
+    },
+    {
+      "__outstatic": {
+        "commit": "90b1e97dbbff972872bf6eafe71ed655005e7550",
+        "hash": "1592088824",
+        "path": "outstatic/content/exposition/cartes-postales-et-vues-du-ciel.md"
+      },
+      "author": {
+        "name": "t-chab",
+        "picture": "https://avatars.githubusercontent.com/u/2120966?v=4"
+      },
+      "collection": "exposition",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-16T15:49:46.303Z",
+      "slug": "cartes-postales-et-vues-du-ciel",
+      "status": "published",
+      "title": "CARTES POSTALES ET VUES DU CIEL"
     }
   ]
 }
