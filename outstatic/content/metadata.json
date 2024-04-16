@@ -1,10 +1,10 @@
 {
-  "commit": "9e9cdce646e0543dedd4f21dc77cbd40849be4b9",
-  "generated": "2024-04-16T15:48:31.344Z",
+  "commit": "2455b0620a564dda05cfea465c575be37d10c559",
+  "generated": "Tue, 16 Apr 2024 16:10:18 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "90b1e97dbbff972872bf6eafe71ed655005e7550",
+        "commit": "1627e7b82dbb7b51b799fbbb27cf2234cf778d09",
         "hash": "1592088824",
         "path": "outstatic/content/exposition/cartes-postales-et-vues-du-ciel.md"
       },
@@ -22,7 +22,7 @@
     },
     {
       "__outstatic": {
-        "commit": "c99d1e5922d371724b57804967e44f13c69c1a59",
+        "commit": "10af312b9239034b1a5c5db193ef2a91e23296ef",
         "hash": "3731660449",
         "path": "outstatic/content/pages/home.md"
       },
@@ -40,25 +40,7 @@
     },
     {
       "__outstatic": {
-        "commit": "ff6ebf4367e587405bf824437dacc0f9d60c7349",
-        "hash": "1271785622",
-        "path": "outstatic/content/histoire/les-sires-de-lantenay.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "histoire",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-08T16:51:53.000Z",
-      "slug": "les-sires-de-lantenay",
-      "status": "published",
-      "title": "LES SIRES DE LANTENAY"
-    },
-    {
-      "__outstatic": {
-        "commit": "69e9d1718ae5357ba52afdbb4ab8457091feba39",
+        "commit": "0c344d17007cdcb178bcb6e9725b5024a8ee0319",
         "hash": "2525253977",
         "path": "outstatic/content/histoire/il-etait-une-fois-lantenay-et-outriaz.md"
       },
@@ -76,7 +58,7 @@
     },
     {
       "__outstatic": {
-        "commit": "dca1eac86af1be342b904cf7fe08cb4158df4b08",
+        "commit": "82802f2abe907c269c38e25913c578e2dbdf2f89",
         "hash": "2554163930",
         "path": "outstatic/content/la-vie-agricole/les-groupements-agricoles.md"
       },
@@ -94,7 +76,25 @@
     },
     {
       "__outstatic": {
-        "commit": "9e9cdce646e0543dedd4f21dc77cbd40849be4b9",
+        "commit": "59d47ffe69e0bced9ee1302774079f6eb76c0646",
+        "hash": "1271785622",
+        "path": "outstatic/content/histoire/les-sires-de-lantenay.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "histoire",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-08T16:51:53.000Z",
+      "slug": "les-sires-de-lantenay",
+      "status": "published",
+      "title": "LES SIRES DE LANTENAY"
+    },
+    {
+      "__outstatic": {
+        "commit": "d042d93070763c0c06809a346af9493abbce9ad5",
         "hash": "118850099",
         "path": "outstatic/content/la-vie-agricole/le-remembrement-intercommunal.md"
       },
