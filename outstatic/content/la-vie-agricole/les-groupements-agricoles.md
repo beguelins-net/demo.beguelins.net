@@ -1,6 +1,6 @@
 ---
 title: 'LES GROUPEMENTS AGRICOLES'
-status: 'draft'
+status: 'published'
 author:
   name: 'geneb'
   picture: ''
@@ -36,15 +36,13 @@ Dans les années 60/70 à Lantenay les pâturages collectifs accueillaient les g
 
 [![clip_image010](https://beguelins.net/blog/public/Windows-Live-Writer/97d350d174e5_14A3C/clip_image010_thumb.jpg "clip_image010")](https://beguelins.net/blog/public/Windows-Live-Writer/97d350d174e5_14A3C/clip_image010_2.jpg) [![clip_image012](https://beguelins.net/blog/public/Windows-Live-Writer/97d350d174e5_14A3C/clip_image012_thumb.jpg "clip_image012")](https://beguelins.net/blog/public/Windows-Live-Writer/97d350d174e5_14A3C/clip_image012_2.jpg)
 
-Une trentaine de bêtes se partageaient l’herbe sous les Queues ou en Chaleyriat.      
+Une trentaine de bêtes se partageaient l’herbe sous les Queues ou en Chaleyriat.
 
 A tour de rôle, les 12 éleveurs les alimentaient en eau à l’aide d’un un bac construit sous les Queues ; en Chaleyriat, les bêtes s’abreuvaient à un trop plein.
 
 ## [LA FRUITIERE](https://beguelins.net/blog/index.php/post/2011/11/13/LA-FRUITIERE)
 
 le 13 novembre, 2011, 11h21
-
- 
 
 L'origine du mot est sujet à controverse : pour les uns, fruitière vient de *fruit* : il est le lieu où les paysans mettent le ***fruit de leur travail*** en commun, ou alors font *fructifier* leur bien; pour d'autres, il serait dérivé du médiaval ou du fribourgeois "**fretière", de la même famille que "fromage**".
 

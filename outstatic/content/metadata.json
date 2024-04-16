@@ -1,6 +1,6 @@
 {
-  "commit": "d3c678cac98f1f3a0e953185bc3af1b887027083",
-  "generated": "2024-04-16T15:47:02.255Z",
+  "commit": "dca1eac86af1be342b904cf7fe08cb4158df4b08",
+  "generated": "2024-04-16T15:47:09.939Z",
   "metadata": [
     {
       "__outstatic": {
@@ -76,8 +76,8 @@
     },
     {
       "__outstatic": {
-        "commit": "d3c678cac98f1f3a0e953185bc3af1b887027083",
-        "hash": "527693536",
+        "commit": "dca1eac86af1be342b904cf7fe08cb4158df4b08",
+        "hash": "2554163930",
         "path": "outstatic/content/la-vie-agricole/les-groupements-agricoles.md"
       },
       "author": {
@@ -89,7 +89,7 @@
       "description": "",
       "publishedAt": "2011-11-13T16:57:58.000Z",
       "slug": "les-groupements-agricoles",
-      "status": "draft",
+      "status": "published",
       "title": "LES GROUPEMENTS AGRICOLES"
     }
   ]
