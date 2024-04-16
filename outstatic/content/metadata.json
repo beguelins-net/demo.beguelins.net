@@ -1,6 +1,6 @@
 {
-  "commit": "69e9d1718ae5357ba52afdbb4ab8457091feba39",
-  "generated": "2024-04-16T15:45:04.701Z",
+  "commit": "d3c678cac98f1f3a0e953185bc3af1b887027083",
+  "generated": "2024-04-16T15:47:02.255Z",
   "metadata": [
     {
       "__outstatic": {
@@ -73,6 +73,24 @@
       "slug": "il-etait-une-fois-lantenay-et-outriaz",
       "status": "published",
       "title": "IL ÉTAIT UNE FOIS LANTENAY ET OUTRIAZ"
+    },
+    {
+      "__outstatic": {
+        "commit": "d3c678cac98f1f3a0e953185bc3af1b887027083",
+        "hash": "527693536",
+        "path": "outstatic/content/la-vie-agricole/les-groupements-agricoles.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-agricole",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-13T16:57:58.000Z",
+      "slug": "les-groupements-agricoles",
+      "status": "draft",
+      "title": "LES GROUPEMENTS AGRICOLES"
     }
   ]
 }
