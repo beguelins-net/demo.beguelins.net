@@ -2,7 +2,7 @@
 title: 'Exposition'
 status: 'published'
 author:
-  name: ''
+  name: 'geneb'
   picture: 'https://avatars.githubusercontent.com/u/167098926?v=4'
 slug: 'exposition'
 description: ''
@@ -12,11 +12,11 @@ publishedAt: '2011-11-22T16:35:30.000Z'
 
 ## CARTES POSTALES ET VUES DU CIEL
 
-*le 22 novembre, 2011, 06h29*
+*le 22 novembre 2011, 06 h 29*  
 
 [![clip_image002](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image002_thumb.jpg "clip_image002")](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image002_2.jpg)
 
- [![clip_image004](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image004_thumb.jpg "clip_image004")](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image004_2.jpg)
+[![clip_image004](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image004_thumb.jpg "clip_image004")](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image004_2.jpg)
 
 [![clip_image006](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image006_thumb.jpg "clip_image006")](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image006_2.jpg)[![clip_image008](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image008_thumb.jpg "clip_image008")](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image008_2.jpg)
 
@@ -28,7 +28,7 @@ publishedAt: '2011-11-22T16:35:30.000Z'
 
 [![clip_image014](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image014_thumb.jpg "clip_image014")](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image014_2.jpg)
 
- [![clip_image016](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image016_thumb.jpg "clip_image016")](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image016_2.jpg)
+[![clip_image016](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image016_thumb.jpg "clip_image016")](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image016_2.jpg)
 
 ***Dans les années 1970***
 
@@ -46,13 +46,11 @@ publishedAt: '2011-11-22T16:35:30.000Z'
 
 [![clip_image030](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image030_thumb.jpg "clip_image030")](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image030_2.jpg)
 
- [![clip_image034](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image034_thumb.jpg "clip_image034")](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image034_2.jpg)
+[![clip_image034](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image034_thumb.jpg "clip_image034")](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image034_2.jpg)
 
 [![clip_image042](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image042_thumb.jpg "clip_image042")](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image042_2.jpg)[![clip_image044](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image044_thumb.jpg "clip_image044")](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image044_2.jpg)
 
- 
-
- [![clip_image040](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image040_thumb.jpg "clip_image040")](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image040_2.jpg)
+[![clip_image040](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image040_thumb.jpg "clip_image040")](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image040_2.jpg)
 
 ![clip_image046](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image046_thumb.jpg "clip_image046")
 
@@ -64,15 +62,11 @@ publishedAt: '2011-11-22T16:35:30.000Z'
 
 [![clip_image056](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image056_thumb.jpg "clip_image056")](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image056_2.jpg)
 
- 
-
- 
-
 [![clip_image062](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image062_thumb.jpg "clip_image062")](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image062_2.jpg)[![clip_image060](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image060_thumb.jpg "clip_image060")](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image060_2.jpg)
 
 [![clip_image066](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image066_thumb.jpg "clip_image066")](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image066_2.jpg)
 
- ![clip_image052](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image052_thumb.jpg "clip_image052")![clip_image054](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image054_thumb.jpg "clip_image054")
+![clip_image052](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image052_thumb.jpg "clip_image052")![clip_image054](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image054_thumb.jpg "clip_image054")
 
 [![clip_image068](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image068_thumb.jpg "clip_image068")](https://beguelins.net/blog/public/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image068_2.jpg)
 

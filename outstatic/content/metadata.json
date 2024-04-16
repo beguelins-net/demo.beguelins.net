@@ -1,6 +1,6 @@
 {
-  "commit": "8b2938353e0e7597ff88650d49d52d8fe4a01578",
-  "generated": "2024-04-15T15:28:34.736Z",
+  "commit": "3647e5dec2c27bf01a03853644d941780ec81523",
+  "generated": "2024-04-16T15:32:53.402Z",
   "metadata": [
     {
       "__outstatic": {
@@ -22,12 +22,12 @@
     },
     {
       "__outstatic": {
-        "commit": "3cbf8159007603662c80289d0acfd3f27b8e3d9b",
-        "hash": "81618743",
+        "commit": "3647e5dec2c27bf01a03853644d941780ec81523",
+        "hash": "3352296529",
         "path": "outstatic/content/pages/exposition.md"
       },
       "author": {
-        "name": "",
+        "name": "geneb",
         "picture": "https://avatars.githubusercontent.com/u/167098926?v=4"
       },
       "collection": "pages",
