@@ -1,6 +1,6 @@
 {
-  "commit": "c99d1e5922d371724b57804967e44f13c69c1a59",
-  "generated": "2024-04-16T15:39:17.653Z",
+  "commit": "6348170bd6a1bd55e7ff6e201b0cdcdc24157337",
+  "generated": "2024-04-16T15:41:46.348Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,6 +37,24 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "6348170bd6a1bd55e7ff6e201b0cdcdc24157337",
+        "hash": "1039363197",
+        "path": "outstatic/content/histoire/les-sires-de-lantenay.md"
+      },
+      "author": {
+        "name": "t-chab",
+        "picture": "https://avatars.githubusercontent.com/u/2120966?v=4"
+      },
+      "collection": "histoire",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-04-16T15:51:53.037Z",
+      "slug": "les-sires-de-lantenay",
+      "status": "draft",
+      "title": "LES SIRES DE LANTENAY"
     }
   ]
 }
