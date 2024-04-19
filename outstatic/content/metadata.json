@@ -1,6 +1,6 @@
 {
-  "commit": "2dd4c3187138f5a28b2e77d5c4bb4774a0e920d0",
-  "generated": "2024-04-19T12:19:19.870Z",
+  "commit": "77164fcf590be3effa6b13c6b6593236fdc6629b",
+  "generated": "2024-04-19T12:19:42.394Z",
   "metadata": [
     {
       "__outstatic": {
@@ -184,8 +184,8 @@
     },
     {
       "__outstatic": {
-        "commit": "2dd4c3187138f5a28b2e77d5c4bb4774a0e920d0",
-        "hash": "1011803224",
+        "commit": "77164fcf590be3effa6b13c6b6593236fdc6629b",
+        "hash": "2636069000",
         "path": "outstatic/content/la-vie-du-village/association-familiale.md"
       },
       "author": {

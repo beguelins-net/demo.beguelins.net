@@ -10,7 +10,7 @@ coverImage: ''
 publishedAt: '2011-11-15T13:30:38.000Z'
 ---
 
-Le 15 novembre 2011, 12 h 37  
+Le 15 novembre 2011, 12 h 37
 
 [![clip_image002](https://beguelins.net/blog/public/Windows-Live-Writer/b53b344f7f9e_AF7F/clip_image002_thumb.jpg "clip_image002")](https://beguelins.net/blog/public/Windows-Live-Writer/b53b344f7f9e_AF7F/clip_image002_2.jpg)[![clip_image004](https://beguelins.net/blog/public/Windows-Live-Writer/b53b344f7f9e_AF7F/clip_image004_thumb.jpg "clip_image004")](https://beguelins.net/blog/public/Windows-Live-Writer/b53b344f7f9e_AF7F/clip_image004_2.jpg)
 
@@ -23,8 +23,6 @@ Soit une moyenne de 1900 heures de travail par an pour **45 familles** aidées.
 **La cassette Lorientaise**
 
 [![clip_image010](https://beguelins.net/blog/public/Windows-Live-Writer/b53b344f7f9e_AF7F/clip_image010_thumb.jpg "clip_image010")](https://beguelins.net/blog/public/Windows-Live-Writer/b53b344f7f9e_AF7F/clip_image010_2.jpg)[![clip_image008](https://beguelins.net/blog/public/Windows-Live-Writer/b53b344f7f9e_AF7F/clip_image008_thumb.jpg "clip_image008")](https://beguelins.net/blog/public/Windows-Live-Writer/b53b344f7f9e_AF7F/clip_image008_2.jpg)
-
- 
 
 A la fin des années 50, pendant deux ou trois ans, chaque vendredi matin le car de 10 heures apportait une cassette de bois bourrée de glace et de poissons qui alimentaient une partie des familles du village en poissons frais.
 
@@ -40,4 +38,4 @@ MACHINES AGRICOLES
 
 **Tél.1**
 
-Pendant deux ans la machine « Laden » a sillonné dans les rues de Lantenay sur son charriot sur mesure, réalisé par Monsieur MONNEY de La Balme. Elle a permis de libérer de la corvée « lessive » **sept familles** du village.
+Durant deux ans, la machine « Laden » a sillonné dans les rues de Lantenay sur son charriot sur mesure, réalisé par Monsieur MONNEY de La Balme. Elle a permis de libérer de la corvée « lessive » **sept familles** du village.
