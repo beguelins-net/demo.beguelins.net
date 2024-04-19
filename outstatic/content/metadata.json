@@ -1,6 +1,6 @@
 {
-  "commit": "83dba9f7df9b6d3b52fb6d8a226218fda231ea10",
-  "generated": "2024-04-19T12:29:18.399Z",
+  "commit": "1d1c517e5d27c172da84ba620ce0792cf527182d",
+  "generated": "2024-04-19T12:30:07.987Z",
   "metadata": [
     {
       "__outstatic": {
@@ -235,6 +235,24 @@
       "slug": "le-remembrement-intercommunal",
       "status": "published",
       "title": "Le remembrement intercommunal"
+    },
+    {
+      "__outstatic": {
+        "commit": "1d1c517e5d27c172da84ba620ce0792cf527182d",
+        "hash": "284251188",
+        "path": "outstatic/content/la-vie-agricole/travailler-la-terre.md"
+      },
+      "author": {
+        "name": "t-chab",
+        "picture": "https://avatars.githubusercontent.com/u/2120966?v=4"
+      },
+      "collection": "la-vie-agricole",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-13T13:41:28.000Z",
+      "slug": "travailler-la-terre",
+      "status": "published",
+      "title": "Travailler la terre"
     }
   ]
 }
