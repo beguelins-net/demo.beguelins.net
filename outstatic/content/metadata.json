@@ -1,6 +1,6 @@
 {
-  "commit": "d9d0345085f64c04c9602602b9b663e01a456304",
-  "generated": "2024-04-19T12:20:04.177Z",
+  "commit": "589d1f01cbf4a1337f994606cefa75802ee2dc6a",
+  "generated": "2024-04-19T12:24:20.314Z",
   "metadata": [
     {
       "__outstatic": {
@@ -73,24 +73,6 @@
       "slug": "le-remembrement-intercommunal",
       "status": "published",
       "title": "LE REMEMBREMENT INTERCOMMUNAL"
-    },
-    {
-      "__outstatic": {
-        "commit": "59d47ffe69e0bced9ee1302774079f6eb76c0646",
-        "hash": "1271785622",
-        "path": "outstatic/content/histoire/les-sires-de-lantenay.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "histoire",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-08T16:51:53.000Z",
-      "slug": "les-sires-de-lantenay",
-      "status": "published",
-      "title": "LES SIRES DE LANTENAY"
     },
     {
       "__outstatic": {
@@ -199,6 +181,24 @@
       "slug": "histoire-des-ecoles",
       "status": "published",
       "title": "Histoire des Écoles"
+    },
+    {
+      "__outstatic": {
+        "commit": "589d1f01cbf4a1337f994606cefa75802ee2dc6a",
+        "hash": "823655274",
+        "path": "outstatic/content/histoire/les-sires-de-lantenay.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "histoire",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-08T16:51:53.000Z",
+      "slug": "les-sires-de-lantenay",
+      "status": "published",
+      "title": "Les sires de Lantenay"
     }
   ]
 }
