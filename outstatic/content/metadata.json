@@ -1,6 +1,6 @@
 {
-  "commit": "418540490759de7cbbdb8d8eb2c14ef05f81f0b5",
-  "generated": "2024-04-19T12:11:59.124Z",
+  "commit": "c92beaa0b3a2f1c3879e0cf1ad54974b0358d9a7",
+  "generated": "2024-04-19T12:12:13.557Z",
   "metadata": [
     {
       "__outstatic": {
@@ -112,8 +112,8 @@
     },
     {
       "__outstatic": {
-        "commit": "418540490759de7cbbdb8d8eb2c14ef05f81f0b5",
-        "hash": "1195359247",
+        "commit": "c92beaa0b3a2f1c3879e0cf1ad54974b0358d9a7",
+        "hash": "159319290",
         "path": "outstatic/content/la-vie-du-village/la-poste.md"
       },
       "author": {
