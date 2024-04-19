@@ -1,6 +1,6 @@
 {
-  "commit": "dfcdebc03ca58647321d9bdecaa195cb4813e5f7",
-  "generated": "2024-04-19T12:13:29.322Z",
+  "commit": "af8a57115fe6afccc05ee0d3bee7e07577c136e5",
+  "generated": "2024-04-19T12:15:26.240Z",
   "metadata": [
     {
       "__outstatic": {
@@ -145,6 +145,24 @@
       "slug": "le-batiment-mairie-ecole",
       "status": "published",
       "title": "Le bâtiment Mairie - École"
+    },
+    {
+      "__outstatic": {
+        "commit": "af8a57115fe6afccc05ee0d3bee7e07577c136e5",
+        "hash": "4083905370",
+        "path": "outstatic/content/la-vie-du-village/histoire-des-ecoles.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-du-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-17T13:26:07.000Z",
+      "slug": "histoire-des-ecoles",
+      "status": "published",
+      "title": "HISTOIRE DES ÉCOLES"
     }
   ]
 }
