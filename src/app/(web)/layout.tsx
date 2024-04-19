@@ -9,25 +9,24 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   metadataBase: new URL("https://outstatic.com"),
   title: {
-    default: "Andre Vitorio - Design. Develop. Deploy.",
-    template: "%s | Andre Vitorio",
+    default: "Association Béguelins - Béguelines",
+    template: "%s | Association Béguelines - Béguelines",
   },
-  description:
-    "Design engineer from Maceió, Brazil. I write about web development, software engineering, and more.",
+  description: "Association Béguelins - Béguelines",
   openGraph: {
-    title: "Andre Vitorio - Design. Develop. Deploy.",
+    title: "Association Béguelins - Béguelines",
     description:
-      "Design engineer from Maceió, Brazil. I write about web development, software engineering, and more.",
+      "Association Béguelins - Béguelines",
     url: absoluteUrl("/"),
-    siteName: "AndreVitorio.com",
+    siteName: "beguelins.net",
     images: [
       {
-        url: ogUrl("Andre Vitorio - Design. Develop. Deploy."),
+        url: ogUrl("Association Béguelins - Béguelines"),
         width: 1200,
         height: 630,
       },
     ],
-    locale: "en_US",
+    locale: "fr_FR",
     type: "website",
   },
   icons: {

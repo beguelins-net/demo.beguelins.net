@@ -19,12 +19,6 @@ const Header = async () => {
   return (
     <header className="py-4 fixed bottom-0 border-t md:bottom-auto md:top-0 w-full z-20 border-b bg-background">
       <nav className="max-w-6xl mx-auto w-full layout flex items-center justify-between">
-        <Link
-          href="/"
-          className="hover:text-slate-900 hover:dark:text-blue-200 px-5 underline-offset-2 font-semibold transition-all hover:scale-105"
-        >
-          Andre Vitorio
-        </Link>
         <ul className="hidden md:flex items-center justify-between space-x-3 text-xs md:space-x-4 md:text-base">
           {pages.map(({ title, slug }) => (
             <li key={slug}>
