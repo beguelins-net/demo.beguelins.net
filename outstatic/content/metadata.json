@@ -1,6 +1,6 @@
 {
-  "commit": "0ce6247ce594c53dde2dfe950587168760be93fe",
-  "generated": "Fri, 19 Apr 2024 12:07:06 GMT",
+  "commit": "418540490759de7cbbdb8d8eb2c14ef05f81f0b5",
+  "generated": "2024-04-19T12:11:59.124Z",
   "metadata": [
     {
       "__outstatic": {
@@ -109,6 +109,24 @@
       "slug": "il-etait-une-fois-lantenay-et-outriaz",
       "status": "published",
       "title": "IL ÉTAIT UNE FOIS LANTENAY ET OUTRIAZ"
+    },
+    {
+      "__outstatic": {
+        "commit": "418540490759de7cbbdb8d8eb2c14ef05f81f0b5",
+        "hash": "1195359247",
+        "path": "outstatic/content/la-vie-du-village/la-poste.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-du-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-17T13:22:27.000Z",
+      "slug": "la-poste",
+      "status": "published",
+      "title": "La Poste"
     }
   ]
 }
