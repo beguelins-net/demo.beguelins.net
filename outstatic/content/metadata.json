@@ -1,6 +1,6 @@
 {
-  "commit": "ef7c9c4eea9eb20f63a34c6d0bb7e1e8becc614a",
-  "generated": "2024-04-19T12:40:48.609Z",
+  "commit": "ab35b3decf8492a89aa83b1bfa5387e0e18c8796",
+  "generated": "2024-04-19T12:46:21.651Z",
   "metadata": [
     {
       "__outstatic": {
@@ -310,7 +310,7 @@
     },
     {
       "__outstatic": {
-        "commit": "ef7c9c4eea9eb20f63a34c6d0bb7e1e8becc614a",
+        "commit": "ab35b3decf8492a89aa83b1bfa5387e0e18c8796",
         "hash": "2955266488",
         "path": "outstatic/content/la-vie-du-village/les-noms-de-famille.md"
       },
