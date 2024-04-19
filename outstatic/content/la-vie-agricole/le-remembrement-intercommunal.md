@@ -1,5 +1,5 @@
 ---
-title: 'LE REMEMBREMENT INTERCOMMUNAL'
+title: 'Le remembrement intercommunal'
 status: 'published'
 author:
   name: 'geneb'
@@ -26,7 +26,7 @@ Les initiateurs de cette réunion trouvant le résultat insuffisant… ont préf
 
 [![clip_image002](https://beguelins.net/blog/public/Windows-Live-Writer/LE-REMEMBREMENT_13F6F/clip_image002_thumb.jpg "clip_image002")](https://beguelins.net/blog/public/Windows-Live-Writer/LE-REMEMBREMENT_13F6F/clip_image002_2.jpg)           [![clip_image004](https://beguelins.net/blog/public/Windows-Live-Writer/LE-REMEMBREMENT_13F6F/clip_image004_thumb.jpg "clip_image004")](https://beguelins.net/blog/public/Windows-Live-Writer/LE-REMEMBREMENT_13F6F/clip_image004_2.jpg)
 
-    *Propriété avant remembrement                Propriété après remembrement*
+*Propriété avant remembrement                Propriété après remembrement*
 
 ## [TRAVAILLER LA TERRE](https://beguelins.net/blog/index.php/post/2011/11/13/TRAVAILLER-LA-TERRE)
 
@@ -52,15 +52,15 @@ LES FOINS
 
 « Considérant que la sècheresse détruit les pâturages et que la récolte de foin sera vite épuisée puisque les habitants sont obligés de nourrir le bétail comme s’il n’allait pas aux champs – pour ces motifs le Conseil demande que les habitants soient autorisés à faire paître le bétail dans les bois communaux et prie l’administration forestière d’autoriser ce pâturage pendant le sècheresse. » (*Extrait de délibération du 10 août 1876)*
 
-[![clip_image002\[4\]](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image002_4__thumb.jpg "clip_image002[4]")](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image002_4_.jpg)[![clip_image004\[4\]](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image004_4__thumb.jpg "clip_image004[4]")](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image004_4_.jpg)
+[![clip_image0024](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image002_4__thumb.jpg "clip_image002[4]")](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image002_4_.jpg)[![clip_image0044](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image004_4__thumb.jpg "clip_image004[4]")](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image004_4_.jpg)
 
-[![clip_image006\[4\]](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image006_4__thumb.jpg "clip_image006[4]")](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image006_4_.jpg)
+[![clip_image0064](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image006_4__thumb.jpg "clip_image006[4]")](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image006_4_.jpg)
 
 C’est important le foin, si on veut du bon fromage !
 
 Et il faut le réussir, toute une technique : commencer par regarder la météo… pas de pluie, pas d’orages, on peut faucher. Après, il faut laisser sécher l’herbe et la retourner pour qu’elle sèche bien, puis regrouper le foin en ligne : faire les andains et pour passer la nuit ou si l’orage menace on met en cuchons. Le foin sec, on fait le chemin devant le char ; à la fourche il faut bien alterner les chargeurs pour avoir un char équilibré. Le ou les cogneurs chauchent pour mettre plus de foin et éviter qu’il ne glisse. Devant, derrière le char les râteleuses s’activent pour laisser le champ propre. De retour à la ferme, il faut monter à la déchargeuse et ranger le foin, bien sec, au fenil pour l’hiver. l
 
-[![clip_image010\[4\]](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image010_4__thumb.jpg "clip_image010[4]")](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image010_4_.jpg)[![clip_image008\[4\]](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image008_4__thumb.jpg "clip_image008[4]")](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image008_4_.jpg)
+[![clip_image0104](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image010_4__thumb.jpg "clip_image010[4]")](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image010_4_.jpg)[![clip_image0084](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image008_4__thumb.jpg "clip_image008[4]")](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image008_4_.jpg)
 
 [![clip_image012](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image012_thumb.jpg "clip_image012")](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image012_2.jpg)
 
@@ -70,15 +70,15 @@ LA POMME DE TERRE…
 
 *(Statistiques du Préfet Bossi – 1808)*
 
-[![clip_image002\[6\]](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image002_6__thumb.jpg "clip_image002[6]")](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image002_6_.jpg)
+[![clip_image0026](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image002_6__thumb.jpg "clip_image002[6]")](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image002_6_.jpg)
 
 Qu’elle soit cultivée au jardin ou en plein champ, la pomme de terre a été longtemps la base de l’alimentation des hommes et des animaux.
 
-[![clip_image004\[6\]](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image004_6__thumb.jpg "clip_image004[6]")](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image004_6_.jpg)[![clip_image006\[6\]](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image006_6__thumb.jpg "clip_image006[6]")](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image006_6_.jpg)
+[![clip_image0046](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image004_6__thumb.jpg "clip_image004[6]")](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image004_6_.jpg)[![clip_image0066](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image006_6__thumb.jpg "clip_image006[6]")](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image006_6_.jpg)
 
 Plantée en ligne quand les lilas fleurissent, les semences sont souvent sélectionnées d’une année sur l’autre. Lorsque le plan est sorti de 15 à 20 cm, il est butté au bigot, il faut alors surveiller les parasites.
 
-[![clip_image008\[6\]](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image008_6__thumb.jpg "clip_image008[6]")](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image008_6_.jpg)
+[![clip_image0086](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image008_6__thumb.jpg "clip_image008[6]")](https://beguelins.net/blog/public/Windows-Live-Writer/85de6aeade0c_139E9/clip_image008_6_.jpg)
 
 Le ramassage manuel des doryphores occupait les loisirs des enfants pendant l’été et le ramassage de la pomme de terre par toute la famille marquait le temps de la rentrée des classes.
 
