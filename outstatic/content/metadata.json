@@ -1,6 +1,6 @@
 {
-  "commit": "b5e99598999a9d04eeab59ae40fd57c2e805e599",
-  "generated": "2024-04-19T12:30:33.575Z",
+  "commit": "d28ee1cf2e9a4318824b1748f73dc0ba6999b858",
+  "generated": "2024-04-19T12:33:32.789Z",
   "metadata": [
     {
       "__outstatic": {
@@ -253,6 +253,24 @@
       "slug": "travailler-la-terre",
       "status": "published",
       "title": "Travailler la terre"
+    },
+    {
+      "__outstatic": {
+        "commit": "d28ee1cf2e9a4318824b1748f73dc0ba6999b858",
+        "hash": "3557854367",
+        "path": "outstatic/content/la-vie-du-village/la-population.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-du-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-14T13:44:51.000Z",
+      "slug": "la-population",
+      "status": "published",
+      "title": "La population"
     }
   ]
 }
