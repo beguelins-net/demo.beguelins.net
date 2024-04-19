@@ -1,6 +1,6 @@
 {
-  "commit": "af8a57115fe6afccc05ee0d3bee7e07577c136e5",
-  "generated": "2024-04-19T12:15:26.240Z",
+  "commit": "d5d7b2894fddbe66e4d3f608d80fcb7e0744aab4",
+  "generated": "2024-04-19T12:17:30.370Z",
   "metadata": [
     {
       "__outstatic": {
@@ -163,6 +163,24 @@
       "slug": "histoire-des-ecoles",
       "status": "published",
       "title": "HISTOIRE DES ÉCOLES"
+    },
+    {
+      "__outstatic": {
+        "commit": "d5d7b2894fddbe66e4d3f608d80fcb7e0744aab4",
+        "hash": "3902582780",
+        "path": "outstatic/content/la-vie-du-village/histoire-sociale.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-du-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-17T13:28:13.000Z",
+      "slug": "histoire-sociale",
+      "status": "published",
+      "title": "Histoire sociale"
     }
   ]
 }
