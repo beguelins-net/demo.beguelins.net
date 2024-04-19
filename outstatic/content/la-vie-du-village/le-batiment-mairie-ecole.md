@@ -10,13 +10,11 @@ coverImage: ''
 publishedAt: '2011-11-17T13:24:35.000Z'
 ---
 
-17 novembre 2011, 09 h 37  
-
- 
+*17 novembre 2011, 09 h 37*
 
 Le bâtiment mairie-école est situé en haut du village, il est en pierre de taille à un étage avec un balcon en fer forgé au centre. Sa construction remonte à 1902 (architecte Moinat et Guillot entrepreneur).
 
- [![clip_image003](https://beguelins.net/blog/public/Windows-Live-Writer/dfa60d436474_12EA6/clip_image003_thumb.jpg "clip_image003")](https://beguelins.net/blog/public/Windows-Live-Writer/dfa60d436474_12EA6/clip_image003_2.jpg)
+[![clip_image003](https://beguelins.net/blog/public/Windows-Live-Writer/dfa60d436474_12EA6/clip_image003_thumb.jpg "clip_image003")](https://beguelins.net/blog/public/Windows-Live-Writer/dfa60d436474_12EA6/clip_image003_2.jpg)
 
 En 1841, la maison bourgeoise Revoux est rétrocédée à la commune pour l’établissement de l’enseignement public. La dite maison est assez spacieuse, bien éclairée et à la portée de toute la commune.
 

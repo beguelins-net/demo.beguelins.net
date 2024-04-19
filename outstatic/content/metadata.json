@@ -1,6 +1,6 @@
 {
-  "commit": "cd4dcd7a403dc146f1fbf2926c4d4402c54c0e41",
-  "generated": "2024-04-19T12:13:18.074Z",
+  "commit": "dfcdebc03ca58647321d9bdecaa195cb4813e5f7",
+  "generated": "2024-04-19T12:13:29.322Z",
   "metadata": [
     {
       "__outstatic": {
@@ -130,8 +130,8 @@
     },
     {
       "__outstatic": {
-        "commit": "cd4dcd7a403dc146f1fbf2926c4d4402c54c0e41",
-        "hash": "552649846",
+        "commit": "dfcdebc03ca58647321d9bdecaa195cb4813e5f7",
+        "hash": "398395423",
         "path": "outstatic/content/la-vie-du-village/le-batiment-mairie-ecole.md"
       },
       "author": {
