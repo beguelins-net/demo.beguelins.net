@@ -1,6 +1,6 @@
 {
-  "commit": "589d1f01cbf4a1337f994606cefa75802ee2dc6a",
-  "generated": "2024-04-19T12:24:20.314Z",
+  "commit": "e10d6fdb9c795e5edb897f74fe6d0436bb5d2eb9",
+  "generated": "2024-04-19T12:25:13.236Z",
   "metadata": [
     {
       "__outstatic": {
@@ -199,6 +199,24 @@
       "slug": "les-sires-de-lantenay",
       "status": "published",
       "title": "Les sires de Lantenay"
+    },
+    {
+      "__outstatic": {
+        "commit": "e10d6fdb9c795e5edb897f74fe6d0436bb5d2eb9",
+        "hash": "3184765574",
+        "path": "outstatic/content/histoire/lantenay-vu-par.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "histoire",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-08T13:36:30.000Z",
+      "slug": "lantenay-vu-par",
+      "status": "published",
+      "title": "Lantenay vu par ..."
     }
   ]
 }
