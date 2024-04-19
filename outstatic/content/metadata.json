@@ -1,6 +1,6 @@
 {
-  "commit": "d5d7b2894fddbe66e4d3f608d80fcb7e0744aab4",
-  "generated": "2024-04-19T12:17:30.370Z",
+  "commit": "6162b1faa8a53a916422ccfdd956d7a3820e5198",
+  "generated": "2024-04-19T12:18:08.087Z",
   "metadata": [
     {
       "__outstatic": {
@@ -166,8 +166,8 @@
     },
     {
       "__outstatic": {
-        "commit": "d5d7b2894fddbe66e4d3f608d80fcb7e0744aab4",
-        "hash": "3902582780",
+        "commit": "6162b1faa8a53a916422ccfdd956d7a3820e5198",
+        "hash": "955399098",
         "path": "outstatic/content/la-vie-du-village/histoire-sociale.md"
       },
       "author": {
