@@ -1,6 +1,6 @@
 {
-  "commit": "ccc97aa7546ac8153544f2e7a1665cdc81877ba0",
-  "generated": "2024-04-19T12:35:39.276Z",
+  "commit": "9b6ef05d46e8f7271695de49537ee90efa65d64c",
+  "generated": "2024-04-19T12:37:40.503Z",
   "metadata": [
     {
       "__outstatic": {
@@ -289,6 +289,24 @@
       "slug": "evolution-des-metiers",
       "status": "draft",
       "title": "Évolution des métiers"
+    },
+    {
+      "__outstatic": {
+        "commit": "9b6ef05d46e8f7271695de49537ee90efa65d64c",
+        "hash": "4111823950",
+        "path": "outstatic/content/la-vie-du-village/courrier-a-paul-beguelin.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-du-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-10T13:48:31.000Z",
+      "slug": "courrier-a-paul-beguelin",
+      "status": "published",
+      "title": "Courrier à Paul Béguèlin"
     }
   ]
 }
