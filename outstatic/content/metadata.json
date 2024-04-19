@@ -1,6 +1,6 @@
 {
-  "commit": "d28ee1cf2e9a4318824b1748f73dc0ba6999b858",
-  "generated": "2024-04-19T12:33:32.789Z",
+  "commit": "ccc97aa7546ac8153544f2e7a1665cdc81877ba0",
+  "generated": "2024-04-19T12:35:39.276Z",
   "metadata": [
     {
       "__outstatic": {
@@ -271,6 +271,24 @@
       "slug": "la-population",
       "status": "published",
       "title": "La population"
+    },
+    {
+      "__outstatic": {
+        "commit": "ccc97aa7546ac8153544f2e7a1665cdc81877ba0",
+        "hash": "1121019569",
+        "path": "outstatic/content/la-vie-du-village/evolution-des-metiers.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-du-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-14T13:46:35.000Z",
+      "slug": "evolution-des-metiers",
+      "status": "draft",
+      "title": "Évolution des métiers"
     }
   ]
 }
