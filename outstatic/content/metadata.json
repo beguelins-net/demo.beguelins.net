@@ -1,6 +1,6 @@
 {
-  "commit": "6ebf4eb72fb5b03e53e2825c26b7e148e3ba588e",
-  "generated": "2024-04-19T12:26:52.682Z",
+  "commit": "3d1d5a9180dea156f17c39b12613542eb6d843e3",
+  "generated": "2024-04-19T12:27:59.767Z",
   "metadata": [
     {
       "__outstatic": {
@@ -217,6 +217,24 @@
       "slug": "les-groupements-agricoles",
       "status": "published",
       "title": "Les groupements agricoles"
+    },
+    {
+      "__outstatic": {
+        "commit": "3d1d5a9180dea156f17c39b12613542eb6d843e3",
+        "hash": "466722791",
+        "path": "outstatic/content/la-vie-agricole/la-fruitiere.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-agricole",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-13T13:39:09.000Z",
+      "slug": "la-fruitiere",
+      "status": "published",
+      "title": "La Fruitière"
     }
   ]
 }
