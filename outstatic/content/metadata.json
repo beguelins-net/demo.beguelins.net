@@ -1,6 +1,6 @@
 {
-  "commit": "6162b1faa8a53a916422ccfdd956d7a3820e5198",
-  "generated": "2024-04-19T12:18:08.087Z",
+  "commit": "2dd4c3187138f5a28b2e77d5c4bb4774a0e920d0",
+  "generated": "2024-04-19T12:19:19.870Z",
   "metadata": [
     {
       "__outstatic": {
@@ -181,6 +181,24 @@
       "slug": "histoire-sociale",
       "status": "published",
       "title": "Histoire sociale"
+    },
+    {
+      "__outstatic": {
+        "commit": "2dd4c3187138f5a28b2e77d5c4bb4774a0e920d0",
+        "hash": "1011803224",
+        "path": "outstatic/content/la-vie-du-village/association-familiale.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-du-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-15T13:30:38.000Z",
+      "slug": "association-familiale",
+      "status": "published",
+      "title": "Association familiale"
     }
   ]
 }
