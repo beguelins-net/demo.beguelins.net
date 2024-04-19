@@ -1,6 +1,6 @@
 {
-  "commit": "e10d6fdb9c795e5edb897f74fe6d0436bb5d2eb9",
-  "generated": "2024-04-19T12:25:13.236Z",
+  "commit": "b1f12f34b2df38644d58632a8737228323b0e767",
+  "generated": "2024-04-19T12:25:18.681Z",
   "metadata": [
     {
       "__outstatic": {
@@ -202,8 +202,8 @@
     },
     {
       "__outstatic": {
-        "commit": "e10d6fdb9c795e5edb897f74fe6d0436bb5d2eb9",
-        "hash": "3184765574",
+        "commit": "b1f12f34b2df38644d58632a8737228323b0e767",
+        "hash": "1907474072",
         "path": "outstatic/content/histoire/lantenay-vu-par.md"
       },
       "author": {
@@ -216,7 +216,7 @@
       "publishedAt": "2011-11-08T13:36:30.000Z",
       "slug": "lantenay-vu-par",
       "status": "published",
-      "title": "Lantenay vu par ..."
+      "title": "Lantenay vu par…"
     }
   ]
 }

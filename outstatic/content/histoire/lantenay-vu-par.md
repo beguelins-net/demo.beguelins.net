@@ -1,5 +1,5 @@
 ---
-title: 'Lantenay vu par ...'
+title: 'Lantenay vu par…'
 status: 'published'
 author:
   name: 'geneb'
@@ -10,7 +10,7 @@ coverImage: ''
 publishedAt: '2011-11-08T13:36:30.000Z'
 ---
 
-Le 8 novembre 2011, 12 h 22  
+Le 8 novembre 2011, 12 h 22
 
 ***Le Préfet BOSSI -1808***
 
