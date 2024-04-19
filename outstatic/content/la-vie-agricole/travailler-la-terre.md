@@ -10,7 +10,7 @@ coverImage: ''
 publishedAt: '2011-11-13T13:41:28.000Z'
 ---
 
-Le 13 novembre 2011, 10 h 27  
+*Le 13 novembre 2011, 10 h 27*
 
 LES MOISSONS
 
