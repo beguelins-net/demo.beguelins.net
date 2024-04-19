@@ -1,16 +1,16 @@
 {
-  "commit": "024b00fa2ad24f1157505c074e5bbe36060f8cbb",
-  "generated": "2024-04-19T12:07:00.577Z",
+  "commit": "0ce6247ce594c53dde2dfe950587168760be93fe",
+  "generated": "Fri, 19 Apr 2024 12:07:06 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "1627e7b82dbb7b51b799fbbb27cf2234cf778d09",
-        "hash": "1592088824",
+        "commit": "cf0b3d2a9cbd126c587b41f90ea817be1183f962",
+        "hash": "1433490185",
         "path": "outstatic/content/exposition/cartes-postales-et-vues-du-ciel.md"
       },
       "author": {
-        "name": "t-chab",
-        "picture": "https://avatars.githubusercontent.com/u/2120966?v=4"
+        "name": "geneb",
+        "picture": ""
       },
       "collection": "exposition",
       "coverImage": "",
@@ -19,42 +19,6 @@
       "slug": "cartes-postales-et-vues-du-ciel",
       "status": "published",
       "title": "CARTES POSTALES ET VUES DU CIEL"
-    },
-    {
-      "__outstatic": {
-        "commit": "10af312b9239034b1a5c5db193ef2a91e23296ef",
-        "hash": "3731660449",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "Page d'accueil",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "0c344d17007cdcb178bcb6e9725b5024a8ee0319",
-        "hash": "2525253977",
-        "path": "outstatic/content/histoire/il-etait-une-fois-lantenay-et-outriaz.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "histoire",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-08T16:55:24.000Z",
-      "slug": "il-etait-une-fois-lantenay-et-outriaz",
-      "status": "published",
-      "title": "IL ÉTAIT UNE FOIS LANTENAY ET OUTRIAZ"
     },
     {
       "__outstatic": {
@@ -76,21 +40,21 @@
     },
     {
       "__outstatic": {
-        "commit": "59d47ffe69e0bced9ee1302774079f6eb76c0646",
-        "hash": "1271785622",
-        "path": "outstatic/content/histoire/les-sires-de-lantenay.md"
+        "commit": "10af312b9239034b1a5c5db193ef2a91e23296ef",
+        "hash": "3731660449",
+        "path": "outstatic/content/pages/home.md"
       },
       "author": {
         "name": "geneb",
         "picture": ""
       },
-      "collection": "histoire",
+      "collection": "pages",
       "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-08T16:51:53.000Z",
-      "slug": "les-sires-de-lantenay",
+      "description": "Page d'accueil",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
       "status": "published",
-      "title": "LES SIRES DE LANTENAY"
+      "title": "Home"
     },
     {
       "__outstatic": {
@@ -109,6 +73,42 @@
       "slug": "le-remembrement-intercommunal",
       "status": "published",
       "title": "LE REMEMBREMENT INTERCOMMUNAL"
+    },
+    {
+      "__outstatic": {
+        "commit": "59d47ffe69e0bced9ee1302774079f6eb76c0646",
+        "hash": "1271785622",
+        "path": "outstatic/content/histoire/les-sires-de-lantenay.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "histoire",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-08T16:51:53.000Z",
+      "slug": "les-sires-de-lantenay",
+      "status": "published",
+      "title": "LES SIRES DE LANTENAY"
+    },
+    {
+      "__outstatic": {
+        "commit": "0c344d17007cdcb178bcb6e9725b5024a8ee0319",
+        "hash": "2525253977",
+        "path": "outstatic/content/histoire/il-etait-une-fois-lantenay-et-outriaz.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "histoire",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-08T16:55:24.000Z",
+      "slug": "il-etait-une-fois-lantenay-et-outriaz",
+      "status": "published",
+      "title": "IL ÉTAIT UNE FOIS LANTENAY ET OUTRIAZ"
     }
   ]
 }
