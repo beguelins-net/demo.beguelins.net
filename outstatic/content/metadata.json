@@ -1,6 +1,6 @@
 {
-  "commit": "77164fcf590be3effa6b13c6b6593236fdc6629b",
-  "generated": "2024-04-19T12:19:42.394Z",
+  "commit": "d9d0345085f64c04c9602602b9b663e01a456304",
+  "generated": "2024-04-19T12:20:04.177Z",
   "metadata": [
     {
       "__outstatic": {
@@ -148,24 +148,6 @@
     },
     {
       "__outstatic": {
-        "commit": "af8a57115fe6afccc05ee0d3bee7e07577c136e5",
-        "hash": "4083905370",
-        "path": "outstatic/content/la-vie-du-village/histoire-des-ecoles.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "la-vie-du-village",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-17T13:26:07.000Z",
-      "slug": "histoire-des-ecoles",
-      "status": "published",
-      "title": "HISTOIRE DES ÉCOLES"
-    },
-    {
-      "__outstatic": {
         "commit": "6162b1faa8a53a916422ccfdd956d7a3820e5198",
         "hash": "955399098",
         "path": "outstatic/content/la-vie-du-village/histoire-sociale.md"
@@ -199,6 +181,24 @@
       "slug": "association-familiale",
       "status": "published",
       "title": "Association familiale"
+    },
+    {
+      "__outstatic": {
+        "commit": "d9d0345085f64c04c9602602b9b663e01a456304",
+        "hash": "3528080385",
+        "path": "outstatic/content/la-vie-du-village/histoire-des-ecoles.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-du-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-17T13:26:07.000Z",
+      "slug": "histoire-des-ecoles",
+      "status": "published",
+      "title": "Histoire des Écoles"
     }
   ]
 }

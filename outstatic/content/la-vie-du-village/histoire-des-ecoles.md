@@ -1,5 +1,5 @@
 ---
-title: 'HISTOIRE DES ÉCOLES'
+title: 'Histoire des Écoles'
 status: 'published'
 author:
   name: 'geneb'
@@ -62,23 +62,15 @@ Nous sommes donc dans une salle de classe, quelque part dans la France rurale, l
 
 ***Livre de morale – 1937***
 
- 
-
 [![clip_image022](https://beguelins.net/blog/public/Windows-Live-Writer/888fca015dd0_F7ED/clip_image022_thumb.jpg "clip_image022")](https://beguelins.net/blog/public/Windows-Live-Writer/888fca015dd0_F7ED/clip_image022_2.jpg)
 
 **Les écoliers de Lantenay en 1930**
 
- 
-
 [![numérisation0012](https://beguelins.net/blog/public/Windows-Live-Writer/888fca015dd0_F7ED/numerisation0012_thumb.jpg "numérisation0012")](https://beguelins.net/blog/public/Windows-Live-Writer/888fca015dd0_F7ED/numerisation0012_2.jpg)
-
- 
 
 [![clip_image024](https://beguelins.net/blog/public/Windows-Live-Writer/888fca015dd0_F7ED/clip_image024_thumb.jpg "clip_image024")](https://beguelins.net/blog/public/Windows-Live-Writer/888fca015dd0_F7ED/clip_image024_2.jpg)
 
 [![clip_image028](https://beguelins.net/blog/public/Windows-Live-Writer/888fca015dd0_F7ED/clip_image028_thumb.jpg "clip_image028")](https://beguelins.net/blog/public/Windows-Live-Writer/888fca015dd0_F7ED/clip_image028_2.jpg)
-
- 
 
 [![clip_image030](https://beguelins.net/blog/public/Windows-Live-Writer/888fca015dd0_F7ED/clip_image030_thumb.jpg "clip_image030")](https://beguelins.net/blog/public/Windows-Live-Writer/888fca015dd0_F7ED/clip_image030_2.jpg)
 
@@ -97,9 +89,7 @@ Nous sommes donc dans une salle de classe, quelque part dans la France rurale, l
 
 **Classe début années 1950    Classe de Mr Allombert**
 
-                                **(1958)**
-
- 
+**(1958)**
 
 [![clip_image042](https://beguelins.net/blog/public/Windows-Live-Writer/888fca015dd0_F7ED/clip_image042_thumb.gif "clip_image042")](https://beguelins.net/blog/public/Windows-Live-Writer/888fca015dd0_F7ED/clip_image042_2.gif)
 
