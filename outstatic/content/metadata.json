@@ -1,6 +1,6 @@
 {
-  "commit": "c92beaa0b3a2f1c3879e0cf1ad54974b0358d9a7",
-  "generated": "2024-04-19T12:12:13.557Z",
+  "commit": "cd4dcd7a403dc146f1fbf2926c4d4402c54c0e41",
+  "generated": "2024-04-19T12:13:18.074Z",
   "metadata": [
     {
       "__outstatic": {
@@ -127,6 +127,24 @@
       "slug": "la-poste",
       "status": "published",
       "title": "La Poste"
+    },
+    {
+      "__outstatic": {
+        "commit": "cd4dcd7a403dc146f1fbf2926c4d4402c54c0e41",
+        "hash": "552649846",
+        "path": "outstatic/content/la-vie-du-village/le-batiment-mairie-ecole.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-du-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-17T13:24:35.000Z",
+      "slug": "le-batiment-mairie-ecole",
+      "status": "published",
+      "title": "Le bâtiment Mairie - École"
     }
   ]
 }
