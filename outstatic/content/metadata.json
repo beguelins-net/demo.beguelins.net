@@ -1,6 +1,6 @@
 {
-  "commit": "9b6ef05d46e8f7271695de49537ee90efa65d64c",
-  "generated": "2024-04-19T12:37:40.503Z",
+  "commit": "3867100c1299480d28c360f399301c6d8683f8d7",
+  "generated": "2024-04-19T12:39:03.553Z",
   "metadata": [
     {
       "__outstatic": {
@@ -307,6 +307,24 @@
       "slug": "courrier-a-paul-beguelin",
       "status": "published",
       "title": "Courrier à Paul Béguèlin"
+    },
+    {
+      "__outstatic": {
+        "commit": "3867100c1299480d28c360f399301c6d8683f8d7",
+        "hash": "1796755640",
+        "path": "outstatic/content/la-vie-du-village/les-noms-de-famille.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-du-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-08T13:50:23.000Z",
+      "slug": "les-noms-de-famille",
+      "status": "published",
+      "title": "Les noms de famille"
     }
   ]
 }
