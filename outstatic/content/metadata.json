@@ -1,6 +1,6 @@
 {
   "commit": "b5e99598999a9d04eeab59ae40fd57c2e805e599",
-  "generated": "2024-04-19T12:30:28.049Z",
+  "generated": "2024-04-19T12:30:33.575Z",
   "metadata": [
     {
       "__outstatic": {
@@ -239,12 +239,12 @@
     {
       "__outstatic": {
         "commit": "b5e99598999a9d04eeab59ae40fd57c2e805e599",
-        "hash": "1573553073",
+        "hash": "2201630210",
         "path": "outstatic/content/la-vie-agricole/travailler-la-terre.md"
       },
       "author": {
-        "name": "t-chab",
-        "picture": "https://avatars.githubusercontent.com/u/2120966?v=4"
+        "name": "geneb",
+        "picture": ""
       },
       "collection": "la-vie-agricole",
       "coverImage": "",
