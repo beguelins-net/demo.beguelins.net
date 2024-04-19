@@ -1,6 +1,6 @@
 {
-  "commit": "b1f12f34b2df38644d58632a8737228323b0e767",
-  "generated": "2024-04-19T12:25:18.681Z",
+  "commit": "6ebf4eb72fb5b03e53e2825c26b7e148e3ba588e",
+  "generated": "2024-04-19T12:26:52.682Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,24 +19,6 @@
       "slug": "cartes-postales-et-vues-du-ciel",
       "status": "published",
       "title": "CARTES POSTALES ET VUES DU CIEL"
-    },
-    {
-      "__outstatic": {
-        "commit": "82802f2abe907c269c38e25913c578e2dbdf2f89",
-        "hash": "2554163930",
-        "path": "outstatic/content/la-vie-agricole/les-groupements-agricoles.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "la-vie-agricole",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-13T16:57:58.000Z",
-      "slug": "les-groupements-agricoles",
-      "status": "published",
-      "title": "LES GROUPEMENTS AGRICOLES"
     },
     {
       "__outstatic": {
@@ -217,6 +199,24 @@
       "slug": "lantenay-vu-par",
       "status": "published",
       "title": "Lantenay vu par…"
+    },
+    {
+      "__outstatic": {
+        "commit": "6ebf4eb72fb5b03e53e2825c26b7e148e3ba588e",
+        "hash": "2377804718",
+        "path": "outstatic/content/la-vie-agricole/les-groupements-agricoles.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-agricole",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-13T16:57:58.000Z",
+      "slug": "les-groupements-agricoles",
+      "status": "published",
+      "title": "Les groupements agricoles"
     }
   ]
 }
