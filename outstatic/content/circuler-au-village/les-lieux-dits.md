@@ -31,3 +31,4 @@ Les noms de lieux de l’Ain laissent apparaitre aussi tout un vocabulaire gaulo
 [![numérisation0001](https://beguelins.net/blog/public/Windows-Live-Writer/495173d45c60_FCF4/numerisation0001_thumb.jpg "numérisation0001")](https://beguelins.net/blog/public/Windows-Live-Writer/495173d45c60_FCF4/numerisation0001_2.jpg)
 
 [table]
+
