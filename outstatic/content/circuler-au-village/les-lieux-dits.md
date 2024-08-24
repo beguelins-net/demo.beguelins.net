@@ -10,9 +10,7 @@ description: ''
 publishedAt: '2011-11-09T13:06:56.000Z'
 ---
 
-le 9 novembre, 2011, 06h17
-
- 
+Le 9 novembre, 2011, 06 h 17  
 
 *La plupart des définitions sont extraites du site :*
 
@@ -37,9 +35,5 @@ Les noms de lieux de l’Ain laissent apparaitre aussi tout un vocabulaire gaulo
  
 
 [![numérisation0001](https://beguelins.net/blog/public/Windows-Live-Writer/495173d45c60_FCF4/numerisation0001_thumb.jpg "numérisation0001")](https://beguelins.net/blog/public/Windows-Live-Writer/495173d45c60_FCF4/numerisation0001_2.jpg)
-
- 
-
- 
 
 [table]
