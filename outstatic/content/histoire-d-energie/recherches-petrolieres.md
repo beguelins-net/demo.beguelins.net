@@ -76,7 +76,7 @@ En fin de forage une pollution est arrivée aux sources de la Moule à Outriaz a
 
 Mr le Maire précise que les communes d’Outriaz et de Vieu-d'Izenave connaissent des difficultés d’alimentation en eau potable à la suite des perturbations provoquées par la réalisation du forage pétrolier en Chaleyriat sur le territoire de la commune. Suite à un accident sur le débit et la qualité de l’eau de la source du Flon, ces communes sont contraintes d’opter pour une solution de substitution à mettre en place avant l’hiver prochain.
 
-La seule solution possible consiste à assurer le raccordement des réservoirs de Vieu d’Izenave et d’Outriaz au réseau du syndicat de Valromey.
+La seule solution possible consiste à assurer le raccordement des réservoirs de Vieu-d'Izenave et d’Outriaz au réseau du syndicat de Valromey.
 
 Le comité du syndicat du Valromey a fait connaitre son accord de principe sur ce projet.
 
