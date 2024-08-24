@@ -3,7 +3,7 @@ title: 'Les orchidées'
 status: 'published'
 author:
   name: 'geneb'
-  picture: 'https://avatars.githubusercontent.com/u/2120966?v=4'
+  picture: ''
 slug: 'les-orchidees'
 description: ''
 coverImage: ''
@@ -184,7 +184,7 @@ La pollinisation :
 Localisation sur la commune :
 
 ```
-         Orchis à deux feuilles (platanthera bifolia) 
+         Orchis à deux feuilles (platanthera bifolia)
 ```
 
 Floraison : mi-mai
