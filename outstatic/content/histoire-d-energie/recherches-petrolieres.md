@@ -20,13 +20,13 @@ Suite à la décision d’ESSO REP d’implanter un forage en Chaleyriat, il a �
 
 **13/01/1989 :**
 
-Le Conseil municipal autorise la société ESSO REP, bénéficiaire par application du décret du 1er octobre 1979 et renouvelé par décret du 23 octobre 1985, d’un permis exclusif de recherches d’hydrocarbures, liquides ou gazeux, à occuper le terrain communal cadastré :
+Le Conseil municipal autorise la société ESSO REP, bénéficiaire par application du décret du 1ᵉʳ octobre 1979 et renouvelé par décret du 23 octobre 1985, d’un permis exclusif de recherches d’hydrocarbures, liquides ou gazeux, à occuper le terrain communal cadastré :
 
 Section AD : - N°15 : 20 ares 90 et N°18 : 16 ares 80 sur une superficie de 37 ares 70, afin qu’elle puisse procéder à tous les travaux nécessaires, tant en surface que souterrains pour la recherche ou l’exploitation éventuelle d’hydrocarbures liquides ou gazeux.
 
 M. le Maire est autorisé à signer avec cette société - convention d’occupation de terrains prévue à cet effet dont les termes sont acceptés par le Conseil Municipal - ainsi que procuration au bénéfice d’ESSO REP pour déposer une demande de défrichement auprès de la Direction départementale de l’Agriculture et de la Forêt.
 
-Le Conseil Municipal charge M. le Maire et la commission de voierie de procéder à un état des lieux préalable.
+Le conseil municipal charge M. le Maire et la commission de voierie de procéder à un état des lieux préalable.
 
 [![clip_image002](https://beguelins.net/blog/public/Windows-Live-Writer/e6d276593cef_F031/clip_image002_thumb.jpg "clip_image002")](https://beguelins.net/blog/public/Windows-Live-Writer/e6d276593cef_F031/clip_image002_2.jpg)
 
