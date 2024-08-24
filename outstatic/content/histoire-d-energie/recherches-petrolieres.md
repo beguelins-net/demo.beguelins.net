@@ -10,7 +10,7 @@ coverImage: ''
 publishedAt: '2011-11-22T13:34:01.000Z'
 ---
 
-Le 22 novembre, 2011, 05 h 43  
+Le 22 novembre, 2011, 05 h 43
 
 **Départ de l’opération :**
 
@@ -18,7 +18,7 @@ Suite à la décision d’ESSO REP d’implanter un forage en Chaleyriat, il a �
 
 *\* Le B.R.G.M. est l'établissement public de référence dans le domaine des sciences de la Terre pour gérer les ressources et les risques du sol et du sous-sol.*
 
-**13.01.1989 :**
+**13/01/1989 :**
 
 Le Conseil municipal autorise la société ESSO REP, bénéficiaire par application du décret du 1er octobre 1979 et renouvelé par décret du 23 octobre 1985, d’un permis exclusif de recherches d’hydrocarbures, liquides ou gazeux, à occuper le terrain communal cadastré :
 
