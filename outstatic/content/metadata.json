@@ -1,6 +1,6 @@
 {
-  "commit": "6024f789b4d6a80a94b29eb728ee2d3795c64e29",
-  "generated": "2024-08-24T11:54:23.754Z",
+  "commit": "a7be5b119c10a722a03cec1f7b628518f11bcd56",
+  "generated": "2024-08-24T11:56:13.829Z",
   "metadata": [
     {
       "__outstatic": {
@@ -361,6 +361,24 @@
       "slug": "les-orchidees",
       "status": "published",
       "title": "Les orchidées"
+    },
+    {
+      "__outstatic": {
+        "commit": "a7be5b119c10a722a03cec1f7b628518f11bcd56",
+        "hash": "718737225",
+        "path": "outstatic/content/circuler-au-village/les-lieux-dits.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": "https://avatars.githubusercontent.com/u/2120966?v=4"
+      },
+      "collection": "circuler-au-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-09T13:06:56.000Z",
+      "slug": "les-lieux-dits",
+      "status": "published",
+      "title": "Les lieux dits"
     }
   ]
 }
