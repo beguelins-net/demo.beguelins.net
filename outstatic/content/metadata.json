@@ -1,6 +1,6 @@
 {
-  "commit": "cfe621427cec76c7abacc2545b5af6978ab53f7a",
-  "generated": "2024-08-24T11:36:42.175Z",
+  "commit": "1e86ba235a77d43e6ad08c6504f12491a2143d85",
+  "generated": "2024-08-24T11:46:30.560Z",
   "metadata": [
     {
       "__outstatic": {
@@ -325,6 +325,24 @@
       "slug": "il-etait-une-fois-lantenay-et-outriaz",
       "status": "published",
       "title": "Il était une fois Lantenay et Outriaz"
+    },
+    {
+      "__outstatic": {
+        "commit": "1e86ba235a77d43e6ad08c6504f12491a2143d85",
+        "hash": "451428430",
+        "path": "outstatic/content/le-village-et-son-patrimoine/les-orchidees.md"
+      },
+      "author": {
+        "name": "t-chab",
+        "picture": "https://avatars.githubusercontent.com/u/2120966?v=4"
+      },
+      "collection": "le-village-et-son-patrimoine",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-08-24T11:52:56.087Z",
+      "slug": "les-orchidees",
+      "status": "draft",
+      "title": "Les orchidées"
     }
   ]
 }
