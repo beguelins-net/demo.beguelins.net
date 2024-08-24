@@ -1,6 +1,6 @@
 {
-  "commit": "6caf0ec82b352b1cc97e014fc1c2ca1d6d0051b4",
-  "generated": "2024-08-24T12:31:23.684Z",
+  "commit": "569e26ed23577c36cb35bb8dbbb336df764be65e",
+  "generated": "2024-08-24T12:33:28.799Z",
   "metadata": [
     {
       "__outstatic": {
@@ -451,6 +451,24 @@
       "slug": "que-la-lumiere-soit",
       "status": "published",
       "title": "Que la lumière soit"
+    },
+    {
+      "__outstatic": {
+        "commit": "569e26ed23577c36cb35bb8dbbb336df764be65e",
+        "hash": "3067385012",
+        "path": "outstatic/content/eglise-et-vie-paroissiale/eglise-paroissiale-lantenay-outriaz.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "eglise-et-vie-paroissiale",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-17T13:44:04.000Z",
+      "slug": "eglise-paroissiale-lantenay-outriaz",
+      "status": "published",
+      "title": "Église paroissiale Lantenay-Outriaz"
     }
   ]
 }
