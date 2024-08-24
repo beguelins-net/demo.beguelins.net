@@ -1,6 +1,6 @@
 {
-  "commit": "92ad0ea51c0c1fb7174b3d8ae3b83f1d3bd05b13",
-  "generated": "2024-08-24T12:33:57.696Z",
+  "commit": "22a694850ad59f2a3436c9b7d96bb3e99a85f675",
+  "generated": "2024-08-24T12:35:51.252Z",
   "metadata": [
     {
       "__outstatic": {
@@ -469,6 +469,24 @@
       "slug": "eglise-paroissiale-lantenay-outriaz",
       "status": "published",
       "title": "Église paroissiale Lantenay-Outriaz"
+    },
+    {
+      "__outstatic": {
+        "commit": "22a694850ad59f2a3436c9b7d96bb3e99a85f675",
+        "hash": "2897010453",
+        "path": "outstatic/content/eglise-et-vie-paroissiale/la-vie-paroissiale.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "eglise-et-vie-paroissiale",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-15T13:46:43.000Z",
+      "slug": "la-vie-paroissiale",
+      "status": "published",
+      "title": "La vie paroissiale"
     }
   ]
 }
