@@ -1,6 +1,6 @@
 {
-  "commit": "d876b4239d776ccedb8e85e3e1b13d18b00ccf45",
-  "generated": "2024-08-24T12:39:40.842Z",
+  "commit": "edd8042f837c6c64ab4e8b67c92471f5ecf70090",
+  "generated": "2024-08-24T12:42:16.466Z",
   "metadata": [
     {
       "__outstatic": {
@@ -505,6 +505,24 @@
       "slug": "le-creusot-11-09-2021",
       "status": "published",
       "title": "Le creusot - 11/09/2021"
+    },
+    {
+      "__outstatic": {
+        "commit": "edd8042f837c6c64ab4e8b67c92471f5ecf70090",
+        "hash": "3922893290",
+        "path": "outstatic/content/la-vie-de-l-association/les-vide-greniers.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-de-l-association",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2015-06-11T12:52:52.000Z",
+      "slug": "les-vide-greniers",
+      "status": "published",
+      "title": "Les vide-greniers"
     }
   ]
 }
