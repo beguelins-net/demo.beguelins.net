@@ -1,6 +1,6 @@
 {
-  "commit": "44d1c2330d3531346696816c4ebc905955a75144",
-  "generated": "2024-08-24T11:54:04.492Z",
+  "commit": "6024f789b4d6a80a94b29eb728ee2d3795c64e29",
+  "generated": "2024-08-24T11:54:23.754Z",
   "metadata": [
     {
       "__outstatic": {
@@ -328,24 +328,6 @@
     },
     {
       "__outstatic": {
-        "commit": "70c23c503da4639719f63c0d25e1254e631ec9f8",
-        "hash": "4084014461",
-        "path": "outstatic/content/le-village-et-son-patrimoine/les-orchidees.md"
-      },
-      "author": {
-        "name": "t-chab",
-        "picture": "https://avatars.githubusercontent.com/u/2120966?v=4"
-      },
-      "collection": "le-village-et-son-patrimoine",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2014-03-21T12:52:56.000Z",
-      "slug": "les-orchidees",
-      "status": "draft",
-      "title": "Les orchidées"
-    },
-    {
-      "__outstatic": {
         "commit": "44d1c2330d3531346696816c4ebc905955a75144",
         "hash": "2278207470",
         "path": "outstatic/content/circuler-au-village/le-tacot.md"
@@ -361,6 +343,24 @@
       "slug": "le-tacot",
       "status": "published",
       "title": "Le tacot"
+    },
+    {
+      "__outstatic": {
+        "commit": "6024f789b4d6a80a94b29eb728ee2d3795c64e29",
+        "hash": "3329588188",
+        "path": "outstatic/content/le-village-et-son-patrimoine/les-orchidees.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": "https://avatars.githubusercontent.com/u/2120966?v=4"
+      },
+      "collection": "le-village-et-son-patrimoine",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2014-03-21T12:52:56.000Z",
+      "slug": "les-orchidees",
+      "status": "published",
+      "title": "Les orchidées"
     }
   ]
 }
