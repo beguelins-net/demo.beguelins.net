@@ -10,13 +10,13 @@ coverImage: ''
 publishedAt: '2014-03-21T12:52:56.000Z'
 ---
 
-le 21 mars, 2014, 03h12 - [LE VILLAGE ET SON PATRIMOINE](https://beguelins.net/blog/index.php/category/LE-VILLAGE-ET-SON-PATRIMOINE) - [Lien permanent](https://beguelins.net/blog/index.php/post/2014/03/21/LES-ORCHIDEES)
+le 21 mars, 2014, 03h12
 
 **LES ORCHIDÉES DE LANTENAY**
 
 ![2960.01-Copie.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2960.01_-_Copie_m.jpg "2960.01_-_Copie.JPG, mar. 2014")
 
-*Exposition proposée par Jacques Marchas – Juin 2011*
+*Exposition proposée par Jacques Marchas – juin 2011*
 
 ```
      Les orchidées forment une des plus grandes familles
@@ -29,16 +29,16 @@ La plupart :
 - sont grimpantes ou épiphytes
 - ont une floraison spectaculaire
 
-Les orchidées ont:
+Les orchidées ont :  
 
 - 3 pétales
 
-Le pétale inférieur est plus grand et plus coloré: c'est le labelle.
+Le pétale inférieur est plus grand et plus coloré : c'est le labelle.  
 
-- 3 sépales qui ressemble un peu aux deux pétales latéraux (sépales pétaloïdes)
-- Les parties mâle et femelle sont regroupées: c'est le gynostème
+- 3 sépales qui ressemblent un peu aux deux pétales latéraux (sépales pétaloïdes)
+- Les parties mâle et femelle sont regroupées : c'est le gynostème  
 - L'ovaire est torsadé et rattache la fleur à la tige (la fleur n'a pas de pétiole)
-- Les grains de pollen sont réunis en 2 boules: les pollinies
+- Les grains de pollen sont réunis en 2 boules : les pollinies  
 - Une masse gluante, le viscidium, empêche le contact entre le pollen et le stigmate.
 
 C'est lui qui fixera les pollinies sur l'insecte pollinisateur.
@@ -51,7 +51,7 @@ C'est lui qui fixera les pollinies sur l'insecte pollinisateur.
 
 Bien que beaucoup moins spectaculaires, elles ont la même structure que leurs cousines exotiques.
 
-Une reproduction aléatoire:
+Une reproduction aléatoire :  
 
 - Les graines minuscules ne possèdent pas de réserves et sont recouvertes d'une
 
@@ -60,7 +60,7 @@ enveloppe très dure. Pour germer, il faut qu'une graine soit en contact avec un
 - Le mycélium dissout l'enveloppe et nourrit la plantule.
 - Lorsque la plante est grande, l'association avec le champignon (mycorhize) reste indispensable. Les orchidées n'ont pas ou très peu de radicelles et c'est le mycélium qui puise les sels minéraux dans le sol.
 
-Les principaux facteurs de raréfaction des orchidées sont:
+Les principaux facteurs de raréfaction des orchidées sont :  
 
 - La cueillette qui empêche les plantes de finir leur cycle de vie (graine et tubercule)
 - Les désherbants et les engrais qui brûlent le mycélium dans le sol.
@@ -73,8 +73,8 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
     CEPHALANTHERE PALE (Cephalanthera damasonium)
 ```
 
-- Floraison: fin mai
-- Localisation: on peut la trouver en nombre assez important dans quelques bois de résineux.
+- Floraison : fin mai  
+- Localisation : on peut la trouver en nombre assez important dans quelques bois de résineux.  
 - Les fleurs sont d'un blanc jaunâtre et les feuilles sont larges.
 
 ![2935.03.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2935.03_m.jpg "2935.03.JPG, mar. 2014")
@@ -121,7 +121,7 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
 ```
 
 - Floraison : mi-juillet
-- Localisation : plante très rare sur la commune (1 seule station d'une dizaine de pieds) ; on la trouve dans les endroits très sombres.
+- Localisation : plante très rare sur la commune (une seule station d'une dizaine de pieds) ; on la trouve dans les endroits très sombres.
 
 ![2942.04.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2942.04_m.jpg "2942.04.JPG, mar. 2014")
 
@@ -131,7 +131,7 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
      EPIPACTIS A FEUILLES LARGES (Epipactis helleborine)
 ```
 
-- Floraison: début août
+- Floraison : début août  
 - Localisation : Plante relativement courante
 - Contrairement à la précédente, ses feuilles sont larges et en spirales.
 
@@ -143,7 +143,7 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
      NEOTTIE NID D'OISEAU (Neottia nidus-avis)
 ```
 
-- Floraison: mi-mai
+- Floraison : mi-mai  
 - Localisation : plante sans chlorophylle, elle vit en symbiose avec le hêtre.
 
 ![2946.03.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2946.03_m.jpg "2946.03.JPG, mar. 2014")
@@ -154,8 +154,8 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
        GOODYERE RAMPANTE (Goodyera repens)
 ```
 
-- Floraison: début août
-- Localisation: rare et minuscule, on la trouve sous les pins.
+- Floraison : début août  
+- Localisation : rare et minuscule, on la trouve sous les pins.  
 
 ![2953.02.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2953.02_m.jpg "2953.02.JPG, mar. 2014")
 
@@ -207,7 +207,7 @@ Floraison : début juin
           Orchis pyramidal (Anacamptis pyramidalis)
 ```
 
-Floraison: mi-juin
+Floraison : mi-juin  
 
 ![2960.02.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2960.02_m.jpg "2960.02.JPG, mar. 2014")
 
@@ -271,7 +271,7 @@ Floraison : fin avril Plante disséminée sur les talus.
              ORCHIS BOUC (Himantglossum hircinum)
 ```
 
-- Floraison: mi-juin
+- Floraison : mi-juin  
 - Localisation : quelques pieds par-ci par-là
 - Orchidée à odeur très forte. Elle peut atteindre 80 cm de haut.
 
