@@ -4,7 +4,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/2120966?v=4'
 coverImage: ''
 title: 'Le tacot'
-status: 'draft'
+status: 'published'
 slug: 'le-tacot'
 description: ''
 publishedAt: '2011-11-15T13:04:22.000Z'
@@ -78,8 +78,6 @@ En 1899, le préfet demande une subvention de 6 000 francs à la commune, mais l
 
 [![clip_image009](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/clip_image009_thumb.gif "clip_image009")](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/clip_image009_2.gif)![Tram à la Chenalette 2](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/Tram_a_la_Chenalette_2_thumb.jpg "Tram à la Chenalette 2")
 
- 
-
 Le 14 novembre 1900, le conseil municipal insiste pour que la ligne du tramway passe par le tunnel de la Chenalette, ce qui diminue le parcours de 4 km et Le Cruchon où il tombe beaucoup de neige et où la circulation serait interrompue pendant au moins 4 mois de l’hiver ainsi que la traversée de la forêt où l’exploitation des bois serait difficile et dangereuse pour le tramway.
 
 Cette ligne serait un peu plus coûteuse pour la construction, mais plus économique et plus sûre.
@@ -100,8 +98,6 @@ Le percement a duré 3 ans… Puis vint l’établissement de la voie de 1909 à
 
 [![gare 3](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/gare_3_thumb.jpg "gare 3")](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/gare_3_2.jpg)[![clip_image018](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/clip_image018_thumb.gif "clip_image018")](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/clip_image018_2.gif)
 
- 
-
 **Ouverture au trafic**
 
 [![Tram à la Chenalette 2](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/Tram_a_la_Chenalette_2_thumb_1.jpg "Tram à la Chenalette 2")](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/Tram_a_la_Chenalette_2_4.jpg)
@@ -112,8 +108,6 @@ En 1928, le conseil municipal décide la construction **du pont du Terray** pour
 
 [![clip_image022](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/clip_image022_thumb.jpg "clip_image022")](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/clip_image022_2.jpg)[![clip_image024](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/clip_image024_thumb.jpg "clip_image024")](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/clip_image024_2.jpg)
 
- 
-
 **Mai 1933 : la ligne est électrifiée**
 
 [![img360](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/img360_thumb.jpg "img360")](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/img360_2.jpg)[![numérisation0008](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/numerisation0008_thumb.jpg "numérisation0008") ](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/numerisation0008_2.jpg)
@@ -122,7 +116,7 @@ En 1928, le conseil municipal décide la construction **du pont du Terray** pour
 
 Les locomotives à vapeur sont remplacées par des tracteurs et automotrices électriques, qui portaient des noms évocateurs : les premiers furent baptisés : l’Oignin, l’Ain et la Valserine.
 
- [![numérisation0004](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/numerisation0004_thumb.jpg "numérisation0004")](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/numerisation0004_2.jpg)[![Image27](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/Image27_thumb.png "Image27")](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/Image27_2.png)
+[![numérisation0004](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/numerisation0004_thumb.jpg "numérisation0004")](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/numerisation0004_2.jpg)[![Image27](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/Image27_thumb.png "Image27")](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/Image27_2.png)
 
 Les deuxièmes des noms des sommets : le Colombier, l’Avocat, le Credo, la Faucille, le Crêt de la neige et le Reculet. Cette dernière voiture possédait une suspension plus souple que les autres, ce qui la fit dérailler sur la commune en 1936 peu après sa mise en service.
 
@@ -149,8 +143,6 @@ Aujourd’hui, le tracé de la voie du tram reliant l’entrée du village de La
 [![clip_image038](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/clip_image038_thumb.jpg "clip_image038")](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/clip_image038_2.jpg)
 
 *L’entrée du tunnel est fermée pour risques d’éboulements.*
-
- 
 
 **Adieu à notre tramway**
 
@@ -258,4 +250,4 @@ Que la route soit ouverte, en hiver, et favorable en toutes saisons !
 
 *Echo paroissial – juillet 1954*
 
-[![clip_image022\[4\]](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/clip_image022_4__thumb.jpg "clip_image022[4]")](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/clip_image022_4_.jpg)[![clip_image020](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/clip_image020_thumb.jpg "clip_image020")](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/clip_image020_2.jpg)
+[![clip_image0224](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/clip_image022_4__thumb.jpg "clip_image022[4]")](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/clip_image022_4_.jpg)[![clip_image020](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/clip_image020_thumb.jpg "clip_image020")](https://beguelins.net/blog/public/Windows-Live-Writer/eeafa2df8a37_F9D6/clip_image020_2.jpg)

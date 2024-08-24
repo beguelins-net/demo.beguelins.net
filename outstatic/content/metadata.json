@@ -1,6 +1,6 @@
 {
-  "commit": "c3b84d63e35163e407eedfc3e0566159d266fe14",
-  "generated": "2024-08-24T11:53:57.026Z",
+  "commit": "44d1c2330d3531346696816c4ebc905955a75144",
+  "generated": "2024-08-24T11:54:04.492Z",
   "metadata": [
     {
       "__outstatic": {
@@ -346,8 +346,8 @@
     },
     {
       "__outstatic": {
-        "commit": "c3b84d63e35163e407eedfc3e0566159d266fe14",
-        "hash": "32489687",
+        "commit": "44d1c2330d3531346696816c4ebc905955a75144",
+        "hash": "2278207470",
         "path": "outstatic/content/circuler-au-village/le-tacot.md"
       },
       "author": {
@@ -359,7 +359,7 @@
       "description": "",
       "publishedAt": "2011-11-15T13:04:22.000Z",
       "slug": "le-tacot",
-      "status": "draft",
+      "status": "published",
       "title": "Le tacot"
     }
   ]
