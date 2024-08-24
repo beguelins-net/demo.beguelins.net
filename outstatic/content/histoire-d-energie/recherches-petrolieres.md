@@ -50,7 +50,7 @@ Le point d’implantation a été choisi à proximité de la culmination de la s
 
 Après avoir passé une convention avec les propriétaires des parcelles sur le site du forage, les travaux du Génie Civil ont commencé :
 
-- route d’accès à la plate forme
+- route d’accès à la plate-forme
 - installation du téléphone
 - installation des éléments de forage
 
@@ -68,13 +68,13 @@ Après avoir passé une convention avec les propriétaires des parcelles sur le 
 
 [![clip_image024](https://beguelins.net/blog/public/Windows-Live-Writer/e6d276593cef_F031/clip_image024_thumb.jpg "clip_image024")](https://beguelins.net/blog/public/Windows-Live-Writer/e6d276593cef_F031/clip_image024_2.jpg)
 
-**Le 20 juin 1989,** le couchage du mât a eu lieu laissant à la Société SLUMBERGER le soin d’évaluer les possibilités de pomper les premières gouttes de pétrole et de faire un diagnostic sur les possibilités de forage !!!
+**Le 20 juin 1989,** le couchage du mât a eu lieu, laissant à la Société SLUMBERGER le soin d’évaluer les possibilités de pomper les premières gouttes de pétrole et de faire un diagnostic sur les possibilités de forage !!!
 
 En fin de forage une pollution est arrivée aux sources de la Moule à Outriaz arrêtant net l’utilisation de cette eau, alors que les sources à proximité du forage n’ont pas été affectées ; un jumelage des réseaux respectifs de Lantenay et d’Outriaz, à l’aide des tuyaux de pompiers, a pu momentanément dépanner.
 
 **1er septembre 1989** :
 
-Mr le Maire précise que les communes d’Outriaz et de Vieu d’Izenave connaissent des difficultés d’alimentation en eau potable à la suite des perturbations provoquées par la réalisation du forage pétrolier en Chaleyriat sur le territoire de la commune. Suite à un accident sur le débit et la qualité de l’eau de la source du Flon, ces communes sont contraintes d’opter pour une solution de substitution à mettre en place avant l’hiver prochain.
+Mr le Maire précise que les communes d’Outriaz et de Vieu-d'Izenave connaissent des difficultés d’alimentation en eau potable à la suite des perturbations provoquées par la réalisation du forage pétrolier en Chaleyriat sur le territoire de la commune. Suite à un accident sur le débit et la qualité de l’eau de la source du Flon, ces communes sont contraintes d’opter pour une solution de substitution à mettre en place avant l’hiver prochain.
 
 La seule solution possible consiste à assurer le raccordement des réservoirs de Vieu d’Izenave et d’Outriaz au réseau du syndicat de Valromey.
 

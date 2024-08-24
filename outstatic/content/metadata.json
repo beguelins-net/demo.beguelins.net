@@ -1,6 +1,6 @@
 {
   "commit": "3f6fd57fb841211f337a1e5809fbce6eb693c179",
-  "generated": "2024-08-24T12:25:55.253Z",
+  "generated": "2024-08-24T12:27:08.511Z",
   "metadata": [
     {
       "__outstatic": {
@@ -401,7 +401,7 @@
     {
       "__outstatic": {
         "commit": "3f6fd57fb841211f337a1e5809fbce6eb693c179",
-        "hash": "1274020137",
+        "hash": "1543542553",
         "path": "outstatic/content/histoire-d-energie/recherches-petrolieres.md"
       },
       "author": {
