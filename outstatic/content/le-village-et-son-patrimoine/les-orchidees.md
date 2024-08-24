@@ -283,8 +283,8 @@ Floraison : fin avril Plante disséminée sur les talus.
            HOMME PENDU (Orchis anthropophorum)
 ```
 
-- Floraison: mi-mai
-- Localisation: plante assez localisée
+- Floraison : mi-mai  
+- Localisation : plante assez localisée  
 - La forme de ses fleurs rappelle la silhouette d'un homme pendu.
 
 ![2964.02.jpg](https://beguelins.net/blog/public/images/ORCHIDEES/.2964.02_m.jpg "2964.02.jpg, mar. 2014")
@@ -363,7 +363,7 @@ Bien que les orchidées sélectionnent leurs pollinisateurs, il peut arriver qu'
 
 ![Ophrys_hybride.jpg](https://beguelins.net/blog/public/images/ORCHIDEES/.Ophrys_hybride_m.jpg "Ophrys_hybride.jpg, mar. 2014")
 
-Les parents de cette fleur sont : une ophrys mouche et une ophrys araignée
+Les parents de cette fleur sont : un ophrys mouche et un ophrys araignée
 
 ![2973.04.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2973.04_m.jpg "2973.04.JPG, mar. 2014")
 
