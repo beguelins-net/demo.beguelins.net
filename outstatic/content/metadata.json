@@ -1,7 +1,43 @@
 {
-  "commit": "ab35b3decf8492a89aa83b1bfa5387e0e18c8796",
-  "generated": "2024-04-19T12:46:21.651Z",
+  "commit": "790340291bd576cc62e20d96f78233527063ebb5",
+  "generated": "Sat, 24 Aug 2024 11:33:28 GMT",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "0c344d17007cdcb178bcb6e9725b5024a8ee0319",
+        "hash": "2525253977",
+        "path": "outstatic/content/histoire/il-etait-une-fois-lantenay-et-outriaz.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "histoire",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-08T16:55:24.000Z",
+      "slug": "il-etait-une-fois-lantenay-et-outriaz",
+      "status": "published",
+      "title": "IL ÉTAIT UNE FOIS LANTENAY ET OUTRIAZ"
+    },
+    {
+      "__outstatic": {
+        "commit": "a2d6e4b07447fc9bbb4d446b774ad3b62d0e1264",
+        "hash": "1907474072",
+        "path": "outstatic/content/histoire/lantenay-vu-par.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "histoire",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-08T13:36:30.000Z",
+      "slug": "lantenay-vu-par",
+      "status": "published",
+      "title": "Lantenay vu par…"
+    },
     {
       "__outstatic": {
         "commit": "cf0b3d2a9cbd126c587b41f90ea817be1183f962",
@@ -19,6 +55,186 @@
       "slug": "cartes-postales-et-vues-du-ciel",
       "status": "published",
       "title": "CARTES POSTALES ET VUES DU CIEL"
+    },
+    {
+      "__outstatic": {
+        "commit": "5d9149558f67bf7b7ab36a20fe1b8465b533830a",
+        "hash": "2201630210",
+        "path": "outstatic/content/la-vie-agricole/travailler-la-terre.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-agricole",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-13T13:41:28.000Z",
+      "slug": "travailler-la-terre",
+      "status": "published",
+      "title": "Travailler la terre"
+    },
+    {
+      "__outstatic": {
+        "commit": "118163e922a309b29984c172afd2265726e72e04",
+        "hash": "1285859658",
+        "path": "outstatic/content/la-vie-agricole/la-fruitiere.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-agricole",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-13T13:39:09.000Z",
+      "slug": "la-fruitiere",
+      "status": "published",
+      "title": "La Fruitière"
+    },
+    {
+      "__outstatic": {
+        "commit": "82b4fa9e67f03ff88c23a1ea8167fe638cd8c643",
+        "hash": "2377804718",
+        "path": "outstatic/content/la-vie-agricole/les-groupements-agricoles.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-agricole",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-13T16:57:58.000Z",
+      "slug": "les-groupements-agricoles",
+      "status": "published",
+      "title": "Les groupements agricoles"
+    },
+    {
+      "__outstatic": {
+        "commit": "43bfd1e074779451f075b29ebac6a4eef2a67312",
+        "hash": "2869691861",
+        "path": "outstatic/content/la-vie-agricole/le-remembrement-intercommunal.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-agricole",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-13T16:59:36.000Z",
+      "slug": "le-remembrement-intercommunal",
+      "status": "published",
+      "title": "Le remembrement intercommunal"
+    },
+    {
+      "__outstatic": {
+        "commit": "1213ad85dddcc2aa056f934202efa1649a1b883e",
+        "hash": "823655274",
+        "path": "outstatic/content/histoire/les-sires-de-lantenay.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "histoire",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-08T16:51:53.000Z",
+      "slug": "les-sires-de-lantenay",
+      "status": "published",
+      "title": "Les sires de Lantenay"
+    },
+    {
+      "__outstatic": {
+        "commit": "2976bc08b15f7077a07d51fd273cf2ab0c9d9b39",
+        "hash": "955399098",
+        "path": "outstatic/content/la-vie-du-village/histoire-sociale.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-du-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-17T13:28:13.000Z",
+      "slug": "histoire-sociale",
+      "status": "published",
+      "title": "Histoire sociale"
+    },
+    {
+      "__outstatic": {
+        "commit": "a3752a6951baf4f5e26896e84025b812e51afb18",
+        "hash": "1121019569",
+        "path": "outstatic/content/la-vie-du-village/evolution-des-metiers.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-du-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-14T13:46:35.000Z",
+      "slug": "evolution-des-metiers",
+      "status": "draft",
+      "title": "Évolution des métiers"
+    },
+    {
+      "__outstatic": {
+        "commit": "c60c83cf98db636e6788c2ac62cc75ef0c41c1ba",
+        "hash": "3528080385",
+        "path": "outstatic/content/la-vie-du-village/histoire-des-ecoles.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-du-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-17T13:26:07.000Z",
+      "slug": "histoire-des-ecoles",
+      "status": "published",
+      "title": "Histoire des Écoles"
+    },
+    {
+      "__outstatic": {
+        "commit": "13a35a8add08162e315829f71bcb2fea57048ffa",
+        "hash": "4111823950",
+        "path": "outstatic/content/la-vie-du-village/courrier-a-paul-beguelin.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-du-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-10T13:48:31.000Z",
+      "slug": "courrier-a-paul-beguelin",
+      "status": "published",
+      "title": "Courrier à Paul Béguèlin"
+    },
+    {
+      "__outstatic": {
+        "commit": "bbe317cde06386568b8ce87929fa126a06f6120c",
+        "hash": "2636069000",
+        "path": "outstatic/content/la-vie-du-village/association-familiale.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-du-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-15T13:30:38.000Z",
+      "slug": "association-familiale",
+      "status": "published",
+      "title": "Association familiale"
     },
     {
       "__outstatic": {
@@ -40,25 +256,25 @@
     },
     {
       "__outstatic": {
-        "commit": "0c344d17007cdcb178bcb6e9725b5024a8ee0319",
-        "hash": "2525253977",
-        "path": "outstatic/content/histoire/il-etait-une-fois-lantenay-et-outriaz.md"
+        "commit": "5bb59d0233bdd4c9dd9b4b8f73cc4453624d88f4",
+        "hash": "3812162732",
+        "path": "outstatic/content/la-vie-du-village/les-noms-de-famille.md"
       },
       "author": {
         "name": "geneb",
         "picture": ""
       },
-      "collection": "histoire",
+      "collection": "la-vie-du-village",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2011-11-08T16:55:24.000Z",
-      "slug": "il-etait-une-fois-lantenay-et-outriaz",
+      "publishedAt": "2011-11-08T13:50:23.000Z",
+      "slug": "les-noms-de-famille",
       "status": "published",
-      "title": "IL ÉTAIT UNE FOIS LANTENAY ET OUTRIAZ"
+      "title": "Les noms de famille"
     },
     {
       "__outstatic": {
-        "commit": "c92beaa0b3a2f1c3879e0cf1ad54974b0358d9a7",
+        "commit": "fb63413e05a871c6398068c55888d3dadb660aa0",
         "hash": "159319290",
         "path": "outstatic/content/la-vie-du-village/la-poste.md"
       },
@@ -76,187 +292,7 @@
     },
     {
       "__outstatic": {
-        "commit": "dfcdebc03ca58647321d9bdecaa195cb4813e5f7",
-        "hash": "398395423",
-        "path": "outstatic/content/la-vie-du-village/le-batiment-mairie-ecole.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "la-vie-du-village",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-17T13:24:35.000Z",
-      "slug": "le-batiment-mairie-ecole",
-      "status": "published",
-      "title": "Le bâtiment Mairie - École"
-    },
-    {
-      "__outstatic": {
-        "commit": "6162b1faa8a53a916422ccfdd956d7a3820e5198",
-        "hash": "955399098",
-        "path": "outstatic/content/la-vie-du-village/histoire-sociale.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "la-vie-du-village",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-17T13:28:13.000Z",
-      "slug": "histoire-sociale",
-      "status": "published",
-      "title": "Histoire sociale"
-    },
-    {
-      "__outstatic": {
-        "commit": "77164fcf590be3effa6b13c6b6593236fdc6629b",
-        "hash": "2636069000",
-        "path": "outstatic/content/la-vie-du-village/association-familiale.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "la-vie-du-village",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-15T13:30:38.000Z",
-      "slug": "association-familiale",
-      "status": "published",
-      "title": "Association familiale"
-    },
-    {
-      "__outstatic": {
-        "commit": "d9d0345085f64c04c9602602b9b663e01a456304",
-        "hash": "3528080385",
-        "path": "outstatic/content/la-vie-du-village/histoire-des-ecoles.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "la-vie-du-village",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-17T13:26:07.000Z",
-      "slug": "histoire-des-ecoles",
-      "status": "published",
-      "title": "Histoire des Écoles"
-    },
-    {
-      "__outstatic": {
-        "commit": "589d1f01cbf4a1337f994606cefa75802ee2dc6a",
-        "hash": "823655274",
-        "path": "outstatic/content/histoire/les-sires-de-lantenay.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "histoire",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-08T16:51:53.000Z",
-      "slug": "les-sires-de-lantenay",
-      "status": "published",
-      "title": "Les sires de Lantenay"
-    },
-    {
-      "__outstatic": {
-        "commit": "b1f12f34b2df38644d58632a8737228323b0e767",
-        "hash": "1907474072",
-        "path": "outstatic/content/histoire/lantenay-vu-par.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "histoire",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-08T13:36:30.000Z",
-      "slug": "lantenay-vu-par",
-      "status": "published",
-      "title": "Lantenay vu par…"
-    },
-    {
-      "__outstatic": {
-        "commit": "6ebf4eb72fb5b03e53e2825c26b7e148e3ba588e",
-        "hash": "2377804718",
-        "path": "outstatic/content/la-vie-agricole/les-groupements-agricoles.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "la-vie-agricole",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-13T16:57:58.000Z",
-      "slug": "les-groupements-agricoles",
-      "status": "published",
-      "title": "Les groupements agricoles"
-    },
-    {
-      "__outstatic": {
-        "commit": "a4ea472a0b90c9d2baff70f24fd526629833a49c",
-        "hash": "1285859658",
-        "path": "outstatic/content/la-vie-agricole/la-fruitiere.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "la-vie-agricole",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-13T13:39:09.000Z",
-      "slug": "la-fruitiere",
-      "status": "published",
-      "title": "La Fruitière"
-    },
-    {
-      "__outstatic": {
-        "commit": "83dba9f7df9b6d3b52fb6d8a226218fda231ea10",
-        "hash": "2869691861",
-        "path": "outstatic/content/la-vie-agricole/le-remembrement-intercommunal.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "la-vie-agricole",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-13T16:59:36.000Z",
-      "slug": "le-remembrement-intercommunal",
-      "status": "published",
-      "title": "Le remembrement intercommunal"
-    },
-    {
-      "__outstatic": {
-        "commit": "b5e99598999a9d04eeab59ae40fd57c2e805e599",
-        "hash": "2201630210",
-        "path": "outstatic/content/la-vie-agricole/travailler-la-terre.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "la-vie-agricole",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-13T13:41:28.000Z",
-      "slug": "travailler-la-terre",
-      "status": "published",
-      "title": "Travailler la terre"
-    },
-    {
-      "__outstatic": {
-        "commit": "d28ee1cf2e9a4318824b1748f73dc0ba6999b858",
+        "commit": "9993e0f1bd91ad5b1d9d701552bdadb3fc3486d3",
         "hash": "3557854367",
         "path": "outstatic/content/la-vie-du-village/la-population.md"
       },
@@ -274,9 +310,9 @@
     },
     {
       "__outstatic": {
-        "commit": "ccc97aa7546ac8153544f2e7a1665cdc81877ba0",
-        "hash": "1121019569",
-        "path": "outstatic/content/la-vie-du-village/evolution-des-metiers.md"
+        "commit": "b83fe3d706d1927407f14069591c844961d7d5f9",
+        "hash": "398395423",
+        "path": "outstatic/content/la-vie-du-village/le-batiment-mairie-ecole.md"
       },
       "author": {
         "name": "geneb",
@@ -285,46 +321,10 @@
       "collection": "la-vie-du-village",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2011-11-14T13:46:35.000Z",
-      "slug": "evolution-des-metiers",
-      "status": "draft",
-      "title": "Évolution des métiers"
-    },
-    {
-      "__outstatic": {
-        "commit": "9b6ef05d46e8f7271695de49537ee90efa65d64c",
-        "hash": "4111823950",
-        "path": "outstatic/content/la-vie-du-village/courrier-a-paul-beguelin.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "la-vie-du-village",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-10T13:48:31.000Z",
-      "slug": "courrier-a-paul-beguelin",
+      "publishedAt": "2011-11-17T13:24:35.000Z",
+      "slug": "le-batiment-mairie-ecole",
       "status": "published",
-      "title": "Courrier à Paul Béguèlin"
-    },
-    {
-      "__outstatic": {
-        "commit": "ab35b3decf8492a89aa83b1bfa5387e0e18c8796",
-        "hash": "2955266488",
-        "path": "outstatic/content/la-vie-du-village/les-noms-de-famille.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "la-vie-du-village",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-08T13:50:23.000Z",
-      "slug": "les-noms-de-famille",
-      "status": "published",
-      "title": "Les noms de famille"
+      "title": "Le bâtiment Mairie - École"
     }
   ]
 }
