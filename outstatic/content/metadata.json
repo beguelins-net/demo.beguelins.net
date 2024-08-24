@@ -1,6 +1,6 @@
 {
-  "commit": "edd8042f837c6c64ab4e8b67c92471f5ecf70090",
-  "generated": "2024-08-24T12:42:16.466Z",
+  "commit": "a01ba954098b7f7bea3e1c97a9a4313ed295b5f3",
+  "generated": "2024-08-24T12:43:55.582Z",
   "metadata": [
     {
       "__outstatic": {
@@ -523,6 +523,24 @@
       "slug": "les-vide-greniers",
       "status": "published",
       "title": "Les vide-greniers"
+    },
+    {
+      "__outstatic": {
+        "commit": "a01ba954098b7f7bea3e1c97a9a4313ed295b5f3",
+        "hash": "2162966567",
+        "path": "outstatic/content/la-vie-de-l-association/la-fete-du-four.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-de-l-association",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2014-09-23T12:55:15.000Z",
+      "slug": "la-fete-du-four",
+      "status": "published",
+      "title": "La fête du four"
     }
   ]
 }
