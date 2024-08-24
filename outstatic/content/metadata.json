@@ -1,6 +1,6 @@
 {
-  "commit": "a7dc2313b8bda7242bfb5f59db9ad5d17e84f912",
-  "generated": "2024-08-24T12:16:10.885Z",
+  "commit": "24195c0ae62df162e72004920ed3870d27a05b1e",
+  "generated": "2024-08-24T12:21:17.982Z",
   "metadata": [
     {
       "__outstatic": {
@@ -379,6 +379,24 @@
       "slug": "les-lieux-dits",
       "status": "published",
       "title": "Les lieux dits"
+    },
+    {
+      "__outstatic": {
+        "commit": "24195c0ae62df162e72004920ed3870d27a05b1e",
+        "hash": "1008741543",
+        "path": "outstatic/content/circuler-au-village/les-rues-du-village.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "circuler-au-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-08T13:32:15.000Z",
+      "slug": "les-rues-du-village",
+      "status": "published",
+      "title": "Les rues du village"
     }
   ]
 }
