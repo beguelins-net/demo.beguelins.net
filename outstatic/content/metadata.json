@@ -1,6 +1,6 @@
 {
-  "commit": "22a694850ad59f2a3436c9b7d96bb3e99a85f675",
-  "generated": "2024-08-24T12:35:51.252Z",
+  "commit": "d876b4239d776ccedb8e85e3e1b13d18b00ccf45",
+  "generated": "2024-08-24T12:39:40.842Z",
   "metadata": [
     {
       "__outstatic": {
@@ -487,6 +487,24 @@
       "slug": "la-vie-paroissiale",
       "status": "published",
       "title": "La vie paroissiale"
+    },
+    {
+      "__outstatic": {
+        "commit": "d876b4239d776ccedb8e85e3e1b13d18b00ccf45",
+        "hash": "1402774690",
+        "path": "outstatic/content/la-vie-de-l-association/le-creusot-11-09-2021.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-de-l-association",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2021-09-18T12:48:46.000Z",
+      "slug": "le-creusot-11-09-2021",
+      "status": "published",
+      "title": "Le creusot - 11/09/2021"
     }
   ]
 }
