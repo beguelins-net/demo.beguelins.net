@@ -1,6 +1,6 @@
 {
-  "commit": "24195c0ae62df162e72004920ed3870d27a05b1e",
-  "generated": "2024-08-24T12:21:17.982Z",
+  "commit": "03af30bc93b814b858622196f7193580a99d4ff1",
+  "generated": "2024-08-24T12:25:12.929Z",
   "metadata": [
     {
       "__outstatic": {
@@ -397,6 +397,24 @@
       "slug": "les-rues-du-village",
       "status": "published",
       "title": "Les rues du village"
+    },
+    {
+      "__outstatic": {
+        "commit": "03af30bc93b814b858622196f7193580a99d4ff1",
+        "hash": "1606014190",
+        "path": "outstatic/content/histoire-d-energie/recherches-petrolieres.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "histoire-d-energie",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-22T13:34:01.000Z",
+      "slug": "recherches-petrolieres",
+      "status": "published",
+      "title": "Recherches pétrolières"
     }
   ]
 }
