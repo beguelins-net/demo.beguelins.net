@@ -86,13 +86,13 @@ Le comité du syndicat du Valromey a fait connaitre son accord de principe sur c
 
 **En conclusion :**
 
-La réserve d’hydrocarbures n’étant pas de grande importance il a été décidé la remise en état de la plate forme en 1993. Les parcelles qui avaient un bail de 50 ans ont été rendues aux propriétaires.
+La réserve d’hydrocarbures n’étant pas de grande importance, il a été décidé la remise en état de la plate-forme en 1993. Les parcelles qui avaient un bail de 50 ans ont été rendues aux propriétaires.
 
 Un parrainage culturel a été accordé à la commune de Lantenay par la Société ESSO REP. 10 000 francs sont offerts pour les bonnes relations entre les deux parties.
 
 [![clip_image028](https://beguelins.net/blog/public/Windows-Live-Writer/e6d276593cef_F031/clip_image028_thumb.jpg "clip_image028")](https://beguelins.net/blog/public/Windows-Live-Writer/e6d276593cef_F031/clip_image028_2.jpg)
 
-**En juin 1993**, le conseil municipal accepte la proposition d’ESSO REP de remise en état de la plate forme de CHALEYRIAT LANTENAY, mais avec les réserves suivantes :
+**En juin 1993**, le conseil municipal accepte la proposition d’ESSO REP de remise en état de la plate-forme de CHALEYRIAT LANTENAY, mais avec les réserves suivantes :
 
 - cette remise en forme comporte également le rétablissement du chemin desservant les parcelles sud avec busage pour l’écoulement des eaux et le bornage des propriétés.
 - aussi longtemps que la commune constatera des problèmes importants de turbidité dans son alimentation en eau potable, elle considèrera que la responsabilité de la société ESSO REP dans l’aggravation récente de ces phénomènes, reste engagée.
