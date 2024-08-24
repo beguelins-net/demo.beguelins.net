@@ -10,13 +10,13 @@ coverImage: ''
 publishedAt: '2011-11-17T13:44:04.000Z'
 ---
 
-Le 17 novembre, 2011, 10 h 13  
+Le 17 novembre, 2011, 10 h 13
 
 [![clip_image002](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image002_thumb.jpg "clip_image002")](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image002_2.jpg)
 
 Cette église était un ancien doyenné. La paroisse est sous le vocable de l’Assomption, elle existait déjà en 1205 et dépendait de l’abbaye d’Ambronay.
 
-[![clip_image004](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image004_thumb.jpg "clip_image004")](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image004_2.jpg) 
+[![clip_image004](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image004_thumb.jpg "clip_image004")](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image004_2.jpg)
 
 L’église actuelle a été reconstruite en 1852 à l’emplacement de l’ancien édifice. Sa construction, décidée en 1838 lorsque le clocher en bois de l’ancienne église s’écroule sur la nef, affaiblissant le mur nord, perdurera neuf années (1845-1854).
 
@@ -50,7 +50,7 @@ Le mode de retombé des **voûtes** en berceau nervuré de la nef est assuré pa
 
 [![clip_image014](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image014_thumb.jpg "clip_image014")](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image014_2.jpg)
 
- [![clip_image016](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image016_thumb.jpg "clip_image016")](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image016_2.jpg)
+[![clip_image016](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image016_thumb.jpg "clip_image016")](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image016_2.jpg)
 
 Le **parvis** de l’église est surmonté par un **tympan** triangulaire, typiquement néoclassique, reposant sur deux consoles cannelées, au dessus de la porte. Le coté sud présente deux **contreforts** qui scandent les baies, surmonté par un **entablement** qui court le long des façades.
 
@@ -66,11 +66,11 @@ Des travaux d’embellissement ont été réalisé en un siècle, depuis sa reco
 
 [![clip_image022](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image022_thumb.jpg "clip_image022")](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image022_2.jpg)
 
-A l’occasion du centenaire, le curé de la paroisse, l’abbé Louis SAINT-CYR, fait installer un nouveau baptistère, à l’extérieur de la nef, qui contient les fonds baptismaux sculptés en pierre d’Hauteville. 
+A l’occasion du centenaire, le curé de la paroisse, l’abbé Louis SAINT-CYR, fait installer un nouveau baptistère, à l’extérieur de la nef, qui contient les fonds baptismaux sculptés en pierre d’Hauteville.
 
 [![clip_image024](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image024_thumb.jpg "clip_image024")](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image024_2.jpg)
 
-*« Cette église… est bien l’image des gens de Lantenay ou d’Outriaz qui, sous leur aspect robuste cachent une belle âme… » Echo Liberté - 1952*
+*« Cette église… est bien l’image des gens de Lantenay ou d’Outriaz qui, sous leur aspect robuste, cachent une belle âme… » Écho Liberté - 1952*
 
 En 1981, un important chantier remet à neuf, la charpente et la couverture du clocher en plaques d’acier inox vieilli, financée par les deux communes de Lantenay et d’Outriaz.
 
@@ -82,7 +82,7 @@ A l’inauguration, le sénateur Ruet renouvellera son attachement aux petites c
 
 [![clip_image032](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image032_thumb.jpg "clip_image032")](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image032_2.jpg) [![clip_image034](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image034_thumb.jpg "clip_image034")](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image034_2.jpg)
 
- [![clip_image036](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image036_thumb.jpg "clip_image036")](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image036_2.jpg) [![clip_image038](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image038_thumb.jpg "clip_image038")](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image038_2.jpg)
+[![clip_image036](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image036_thumb.jpg "clip_image036")](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image036_2.jpg) [![clip_image038](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image038_thumb.jpg "clip_image038")](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image038_2.jpg)
 
 [![clip_image042](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image042_thumb.jpg "clip_image042")](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image042_2.jpg)[![clip_image040](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image040_thumb.jpg "clip_image040")](https://beguelins.net/blog/public/Windows-Live-Writer/fcdfcc9c0cf3_131F9/clip_image040_2.jpg)
 

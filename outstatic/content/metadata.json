@@ -1,6 +1,6 @@
 {
-  "commit": "569e26ed23577c36cb35bb8dbbb336df764be65e",
-  "generated": "2024-08-24T12:33:28.799Z",
+  "commit": "92ad0ea51c0c1fb7174b3d8ae3b83f1d3bd05b13",
+  "generated": "2024-08-24T12:33:57.696Z",
   "metadata": [
     {
       "__outstatic": {
@@ -454,8 +454,8 @@
     },
     {
       "__outstatic": {
-        "commit": "569e26ed23577c36cb35bb8dbbb336df764be65e",
-        "hash": "3067385012",
+        "commit": "92ad0ea51c0c1fb7174b3d8ae3b83f1d3bd05b13",
+        "hash": "1168287196",
         "path": "outstatic/content/eglise-et-vie-paroissiale/eglise-paroissiale-lantenay-outriaz.md"
       },
       "author": {
