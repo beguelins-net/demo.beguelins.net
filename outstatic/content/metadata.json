@@ -1,25 +1,7 @@
 {
-  "commit": "d63110a0cefd0ac41aeedffcf8656a57f1cd4641",
-  "generated": "2024-08-24T11:35:38.261Z",
+  "commit": "cfe621427cec76c7abacc2545b5af6978ab53f7a",
+  "generated": "2024-08-24T11:36:42.175Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "0c344d17007cdcb178bcb6e9725b5024a8ee0319",
-        "hash": "2525253977",
-        "path": "outstatic/content/histoire/il-etait-une-fois-lantenay-et-outriaz.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "histoire",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-08T16:55:24.000Z",
-      "slug": "il-etait-une-fois-lantenay-et-outriaz",
-      "status": "published",
-      "title": "IL ÉTAIT UNE FOIS LANTENAY ET OUTRIAZ"
-    },
     {
       "__outstatic": {
         "commit": "cf0b3d2a9cbd126c587b41f90ea817be1183f962",
@@ -325,6 +307,24 @@
       "slug": "lantenay-vu-par",
       "status": "published",
       "title": "Lantenay vu par…"
+    },
+    {
+      "__outstatic": {
+        "commit": "cfe621427cec76c7abacc2545b5af6978ab53f7a",
+        "hash": "2892294430",
+        "path": "outstatic/content/histoire/il-etait-une-fois-lantenay-et-outriaz.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "histoire",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-08T16:55:24.000Z",
+      "slug": "il-etait-une-fois-lantenay-et-outriaz",
+      "status": "published",
+      "title": "Il était une fois Lantenay et Outriaz"
     }
   ]
 }

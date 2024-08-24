@@ -3,7 +3,7 @@ author:
   name: 'geneb'
   picture: ''
 coverImage: ''
-title: 'IL ÉTAIT UNE FOIS LANTENAY ET OUTRIAZ'
+title: 'Il était une fois Lantenay et Outriaz'
 status: 'published'
 slug: 'il-etait-une-fois-lantenay-et-outriaz'
 description: ''
