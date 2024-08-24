@@ -1,6 +1,6 @@
 {
-  "commit": "a01ba954098b7f7bea3e1c97a9a4313ed295b5f3",
-  "generated": "2024-08-24T12:43:55.582Z",
+  "commit": "2f0a9d5057e8892a744a8bae4fee904ffb34d72b",
+  "generated": "2024-08-24T12:44:22.135Z",
   "metadata": [
     {
       "__outstatic": {
@@ -526,8 +526,8 @@
     },
     {
       "__outstatic": {
-        "commit": "a01ba954098b7f7bea3e1c97a9a4313ed295b5f3",
-        "hash": "2162966567",
+        "commit": "2f0a9d5057e8892a744a8bae4fee904ffb34d72b",
+        "hash": "4034543783",
         "path": "outstatic/content/la-vie-de-l-association/la-fete-du-four.md"
       },
       "author": {
