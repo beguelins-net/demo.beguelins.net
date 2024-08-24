@@ -104,7 +104,9 @@ Le fromager devra se conformer strictement au règlement qui suit :
 
 \- La plus stricte impartialité devra toujours le guider pour l’inscription des pesées du lait, pour la distribution des tours de beurre aux sociétaires et la répartition journalière du petit lait aux abonnés ;
 
-[![clip_image018](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image018_thumb.jpg "clip_image018")](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image018_2.jpg) [![clip_image020](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image020_3be19010-1557-4c7b-8522-f7eb3621d523.jpg "clip_image020")](http://upload.wikimedia.org/wikipedia/commons/b/be/CaveFontain08.JPG)
+[![clip_image018](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image018_thumb.jpg "clip_image018")](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image018_2.jpg)
+
+[![clip_image020](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image020_3be19010-1557-4c7b-8522-f7eb3621d523.jpg "clip_image020")]
 
 \- Il devra tenir ses livres de comptabilités avec beaucoup de soins, faire chaque jour la balance des coulées.
 
