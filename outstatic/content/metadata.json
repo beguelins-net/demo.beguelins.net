@@ -1,11 +1,155 @@
 {
-  "commit": "2f0a9d5057e8892a744a8bae4fee904ffb34d72b",
-  "generated": "2024-08-24T12:44:22.135Z",
+  "commit": "778068f64bec330b13c87991b97d4a923fecc1a5",
+  "generated": "Sun, 25 Aug 2024 13:33:29 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "cf0b3d2a9cbd126c587b41f90ea817be1183f962",
-        "hash": "1433490185",
+        "commit": "5e7a831993982e6958cc0996bc66ace06ad92b80",
+        "hash": "2072391445",
+        "path": "outstatic/content/eglise-et-vie-paroissiale/la-vie-paroissiale.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "eglise-et-vie-paroissiale",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-15T13:46:43.000Z",
+      "slug": "la-vie-paroissiale",
+      "status": "published",
+      "title": "La vie paroissiale"
+    },
+    {
+      "__outstatic": {
+        "commit": "34e79d7d98320a1a5523957ed6cadfedeee7c771",
+        "hash": "3032729051",
+        "path": "outstatic/content/eglise-et-vie-paroissiale/eglise-paroissiale-lantenay-outriaz.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "eglise-et-vie-paroissiale",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-17T13:44:04.000Z",
+      "slug": "eglise-paroissiale-lantenay-outriaz",
+      "status": "published",
+      "title": "Église paroissiale Lantenay-Outriaz"
+    },
+    {
+      "__outstatic": {
+        "commit": "8fa89599bebf9b2e8a2686f343d8c8dba2ffd10f",
+        "hash": "3195738301",
+        "path": "outstatic/content/circuler-au-village/les-lieux-dits.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": "https://avatars.githubusercontent.com/u/2120966?v=4"
+      },
+      "collection": "circuler-au-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-09T13:06:56.000Z",
+      "slug": "les-lieux-dits",
+      "status": "published",
+      "title": "Les lieux dits"
+    },
+    {
+      "__outstatic": {
+        "commit": "7b0cf766776c70e4164a6df7c23c14b3cfc4191d",
+        "hash": "1601749024",
+        "path": "outstatic/content/circuler-au-village/le-tacot.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": "https://avatars.githubusercontent.com/u/2120966?v=4"
+      },
+      "collection": "circuler-au-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-15T13:04:22.000Z",
+      "slug": "le-tacot",
+      "status": "published",
+      "title": "Le tacot"
+    },
+    {
+      "__outstatic": {
+        "commit": "350a40183ddde777e4b5b0e91a1c1648de83f079",
+        "hash": "1110161388",
+        "path": "outstatic/content/circuler-au-village/les-rues-du-village.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "circuler-au-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-08T13:32:15.000Z",
+      "slug": "les-rues-du-village",
+      "status": "published",
+      "title": "Les rues du village"
+    },
+    {
+      "__outstatic": {
+        "commit": "cfe07f0439dfc9e397c881d07064ec50f9e42d7f",
+        "hash": "3203937307",
+        "path": "outstatic/content/histoire/il-etait-une-fois-lantenay-et-outriaz.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "histoire",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-08T16:55:24.000Z",
+      "slug": "il-etait-une-fois-lantenay-et-outriaz",
+      "status": "published",
+      "title": "Il était une fois Lantenay et Outriaz"
+    },
+    {
+      "__outstatic": {
+        "commit": "f7100412488b1e0176b99a21a4e8ea25f1fde4fd",
+        "hash": "1535413035",
+        "path": "outstatic/content/histoire-d-energie/recherches-petrolieres.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "histoire-d-energie",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-22T13:34:01.000Z",
+      "slug": "recherches-petrolieres",
+      "status": "published",
+      "title": "Recherches pétrolières"
+    },
+    {
+      "__outstatic": {
+        "commit": "4a8d8394b296764666c1aa46499fab65a32494b8",
+        "hash": "2485072615",
+        "path": "outstatic/content/histoire-d-energie/que-la-lumiere-soit.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "histoire-d-energie",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-22T13:42:25.000Z",
+      "slug": "que-la-lumiere-soit",
+      "status": "published",
+      "title": "Que la lumière soit"
+    },
+    {
+      "__outstatic": {
+        "commit": "7c76cd63eeb71008279c006c434fc65766c592fe",
+        "hash": "3303664807",
         "path": "outstatic/content/exposition/cartes-postales-et-vues-du-ciel.md"
       },
       "author": {
@@ -22,44 +166,26 @@
     },
     {
       "__outstatic": {
-        "commit": "5d9149558f67bf7b7ab36a20fe1b8465b533830a",
-        "hash": "2201630210",
-        "path": "outstatic/content/la-vie-agricole/travailler-la-terre.md"
+        "commit": "30cde3137c40595f6f657418881d4bef8bc6b3f3",
+        "hash": "2084384085",
+        "path": "outstatic/content/histoire-d-energie/eau-vive.md"
       },
       "author": {
         "name": "geneb",
         "picture": ""
       },
-      "collection": "la-vie-agricole",
+      "collection": "histoire-d-energie",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2011-11-13T13:41:28.000Z",
-      "slug": "travailler-la-terre",
+      "publishedAt": "2011-11-22T13:40:58.000Z",
+      "slug": "eau-vive",
       "status": "published",
-      "title": "Travailler la terre"
+      "title": "Eau vive"
     },
     {
       "__outstatic": {
-        "commit": "118163e922a309b29984c172afd2265726e72e04",
-        "hash": "1285859658",
-        "path": "outstatic/content/la-vie-agricole/la-fruitiere.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "la-vie-agricole",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-13T13:39:09.000Z",
-      "slug": "la-fruitiere",
-      "status": "published",
-      "title": "La Fruitière"
-    },
-    {
-      "__outstatic": {
-        "commit": "82b4fa9e67f03ff88c23a1ea8167fe638cd8c643",
-        "hash": "2377804718",
+        "commit": "6331446a090e2680079ae1932e8cab3718efc13d",
+        "hash": "1461997747",
         "path": "outstatic/content/la-vie-agricole/les-groupements-agricoles.md"
       },
       "author": {
@@ -76,8 +202,26 @@
     },
     {
       "__outstatic": {
-        "commit": "43bfd1e074779451f075b29ebac6a4eef2a67312",
-        "hash": "2869691861",
+        "commit": "f84730d97ceebccde1da3cfd73e34ee6156337f6",
+        "hash": "3817494178",
+        "path": "outstatic/content/la-vie-agricole/la-fruitiere.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-agricole",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-13T13:39:09.000Z",
+      "slug": "la-fruitiere",
+      "status": "published",
+      "title": "La Fruitière"
+    },
+    {
+      "__outstatic": {
+        "commit": "34ab6397935b23ccd61b3ca1702f4c4ba7d3b52f",
+        "hash": "2016173228",
         "path": "outstatic/content/la-vie-agricole/le-remembrement-intercommunal.md"
       },
       "author": {
@@ -94,8 +238,8 @@
     },
     {
       "__outstatic": {
-        "commit": "1213ad85dddcc2aa056f934202efa1649a1b883e",
-        "hash": "823655274",
+        "commit": "8c5c7964c0ad048e68d15a7b6deb60570698dc51",
+        "hash": "3165630005",
         "path": "outstatic/content/histoire/les-sires-de-lantenay.md"
       },
       "author": {
@@ -112,8 +256,134 @@
     },
     {
       "__outstatic": {
-        "commit": "2976bc08b15f7077a07d51fd273cf2ab0c9d9b39",
-        "hash": "955399098",
+        "commit": "b3699f9feb9b1b1ef9f54dee0a3d55cb1899df66",
+        "hash": "2082349241",
+        "path": "outstatic/content/histoire/lantenay-vu-par.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "histoire",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-08T13:36:30.000Z",
+      "slug": "lantenay-vu-par",
+      "status": "published",
+      "title": "Lantenay vu par…"
+    },
+    {
+      "__outstatic": {
+        "commit": "4ad862bcc72e275957fa827c8d37f9f5dbaed0ea",
+        "hash": "1301389536",
+        "path": "outstatic/content/la-vie-du-village/association-familiale.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-du-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-15T13:30:38.000Z",
+      "slug": "association-familiale",
+      "status": "published",
+      "title": "Association familiale"
+    },
+    {
+      "__outstatic": {
+        "commit": "8634e76086c0fcc39e96ffdfe4151f1ab112f927",
+        "hash": "2269696061",
+        "path": "outstatic/content/la-vie-de-l-association/les-vide-greniers.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-de-l-association",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2015-06-11T12:52:52.000Z",
+      "slug": "les-vide-greniers",
+      "status": "published",
+      "title": "Les vide-greniers"
+    },
+    {
+      "__outstatic": {
+        "commit": "d394f5e72045c1b36f8542ccb1c8582f657fe26b",
+        "hash": "249110747",
+        "path": "outstatic/content/la-vie-de-l-association/le-creusot-11-09-2021.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-de-l-association",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2021-09-18T12:48:46.000Z",
+      "slug": "le-creusot-11-09-2021",
+      "status": "published",
+      "title": "Le creusot - 11/09/2021"
+    },
+    {
+      "__outstatic": {
+        "commit": "bba5bf00c0a1b901974464d9b1813a6f015b7455",
+        "hash": "1353629279",
+        "path": "outstatic/content/la-vie-de-l-association/la-fete-du-four.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-de-l-association",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2014-09-23T12:55:15.000Z",
+      "slug": "la-fete-du-four",
+      "status": "published",
+      "title": "La fête du four"
+    },
+    {
+      "__outstatic": {
+        "commit": "7d18f6d90f79bab345760da68e682e833efa7395",
+        "hash": "1551620910",
+        "path": "outstatic/content/la-vie-agricole/travailler-la-terre.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-agricole",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-13T13:41:28.000Z",
+      "slug": "travailler-la-terre",
+      "status": "published",
+      "title": "Travailler la terre"
+    },
+    {
+      "__outstatic": {
+        "commit": "40e62ccee5ab854b7fe3bef164a8c4c528991aeb",
+        "hash": "2240865806",
+        "path": "outstatic/content/la-vie-du-village/la-population.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-du-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-14T13:44:51.000Z",
+      "slug": "la-population",
+      "status": "published",
+      "title": "La population"
+    },
+    {
+      "__outstatic": {
+        "commit": "0dc816653dfe8aec4a7dab98c1bf631d7521a0f3",
+        "hash": "2486581",
         "path": "outstatic/content/la-vie-du-village/histoire-sociale.md"
       },
       "author": {
@@ -130,26 +400,8 @@
     },
     {
       "__outstatic": {
-        "commit": "a3752a6951baf4f5e26896e84025b812e51afb18",
-        "hash": "1121019569",
-        "path": "outstatic/content/la-vie-du-village/evolution-des-metiers.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "la-vie-du-village",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-14T13:46:35.000Z",
-      "slug": "evolution-des-metiers",
-      "status": "draft",
-      "title": "Évolution des métiers"
-    },
-    {
-      "__outstatic": {
-        "commit": "c60c83cf98db636e6788c2ac62cc75ef0c41c1ba",
-        "hash": "3528080385",
+        "commit": "9c1828b1acd84c5d5fbec364e1dd21b551209d48",
+        "hash": "1818888205",
         "path": "outstatic/content/la-vie-du-village/histoire-des-ecoles.md"
       },
       "author": {
@@ -184,9 +436,9 @@
     },
     {
       "__outstatic": {
-        "commit": "bbe317cde06386568b8ce87929fa126a06f6120c",
-        "hash": "2636069000",
-        "path": "outstatic/content/la-vie-du-village/association-familiale.md"
+        "commit": "b4e8ddbf233ba118ad8d5f12c4378a88a0d65b37",
+        "hash": "2059644153",
+        "path": "outstatic/content/la-vie-du-village/evolution-des-metiers.md"
       },
       "author": {
         "name": "geneb",
@@ -195,10 +447,10 @@
       "collection": "la-vie-du-village",
       "coverImage": "",
       "description": "",
-      "publishedAt": "2011-11-15T13:30:38.000Z",
-      "slug": "association-familiale",
+      "publishedAt": "2011-11-14T05:40:35.000Z",
+      "slug": "evolution-des-metiers",
       "status": "published",
-      "title": "Association familiale"
+      "title": "Évolution des métiers"
     },
     {
       "__outstatic": {
@@ -220,6 +472,24 @@
     },
     {
       "__outstatic": {
+        "commit": "3649e6796c49e423109b5913a9d671155fd7ab8a",
+        "hash": "996257662",
+        "path": "outstatic/content/la-vie-du-village/le-batiment-mairie-ecole.md"
+      },
+      "author": {
+        "name": "geneb",
+        "picture": ""
+      },
+      "collection": "la-vie-du-village",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2011-11-17T13:24:35.000Z",
+      "slug": "le-batiment-mairie-ecole",
+      "status": "published",
+      "title": "Le bâtiment Mairie - École"
+    },
+    {
+      "__outstatic": {
         "commit": "5bb59d0233bdd4c9dd9b4b8f73cc4453624d88f4",
         "hash": "3812162732",
         "path": "outstatic/content/la-vie-du-village/les-noms-de-famille.md"
@@ -238,8 +508,8 @@
     },
     {
       "__outstatic": {
-        "commit": "fb63413e05a871c6398068c55888d3dadb660aa0",
-        "hash": "159319290",
+        "commit": "3f08982c76a9bad3e2486fe21638e991735c813e",
+        "hash": "827679142",
         "path": "outstatic/content/la-vie-du-village/la-poste.md"
       },
       "author": {
@@ -256,103 +526,13 @@
     },
     {
       "__outstatic": {
-        "commit": "9993e0f1bd91ad5b1d9d701552bdadb3fc3486d3",
-        "hash": "3557854367",
-        "path": "outstatic/content/la-vie-du-village/la-population.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "la-vie-du-village",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-14T13:44:51.000Z",
-      "slug": "la-population",
-      "status": "published",
-      "title": "La population"
-    },
-    {
-      "__outstatic": {
-        "commit": "b83fe3d706d1927407f14069591c844961d7d5f9",
-        "hash": "398395423",
-        "path": "outstatic/content/la-vie-du-village/le-batiment-mairie-ecole.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "la-vie-du-village",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-17T13:24:35.000Z",
-      "slug": "le-batiment-mairie-ecole",
-      "status": "published",
-      "title": "Le bâtiment Mairie - École"
-    },
-    {
-      "__outstatic": {
-        "commit": "d63110a0cefd0ac41aeedffcf8656a57f1cd4641",
-        "hash": "2082349241",
-        "path": "outstatic/content/histoire/lantenay-vu-par.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "histoire",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-08T13:36:30.000Z",
-      "slug": "lantenay-vu-par",
-      "status": "published",
-      "title": "Lantenay vu par…"
-    },
-    {
-      "__outstatic": {
-        "commit": "cfe621427cec76c7abacc2545b5af6978ab53f7a",
-        "hash": "2892294430",
-        "path": "outstatic/content/histoire/il-etait-une-fois-lantenay-et-outriaz.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "histoire",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-08T16:55:24.000Z",
-      "slug": "il-etait-une-fois-lantenay-et-outriaz",
-      "status": "published",
-      "title": "Il était une fois Lantenay et Outriaz"
-    },
-    {
-      "__outstatic": {
-        "commit": "44d1c2330d3531346696816c4ebc905955a75144",
-        "hash": "2278207470",
-        "path": "outstatic/content/circuler-au-village/le-tacot.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": "https://avatars.githubusercontent.com/u/2120966?v=4"
-      },
-      "collection": "circuler-au-village",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-15T13:04:22.000Z",
-      "slug": "le-tacot",
-      "status": "published",
-      "title": "Le tacot"
-    },
-    {
-      "__outstatic": {
-        "commit": "6024f789b4d6a80a94b29eb728ee2d3795c64e29",
-        "hash": "3329588188",
+        "commit": "2b5568a19ca17f632470627a09bd719057fe89ee",
+        "hash": "2433010471",
         "path": "outstatic/content/le-village-et-son-patrimoine/les-orchidees.md"
       },
       "author": {
         "name": "geneb",
-        "picture": "https://avatars.githubusercontent.com/u/2120966?v=4"
+        "picture": ""
       },
       "collection": "le-village-et-son-patrimoine",
       "coverImage": "",
@@ -361,186 +541,6 @@
       "slug": "les-orchidees",
       "status": "published",
       "title": "Les orchidées"
-    },
-    {
-      "__outstatic": {
-        "commit": "a7dc2313b8bda7242bfb5f59db9ad5d17e84f912",
-        "hash": "3318404251",
-        "path": "outstatic/content/circuler-au-village/les-lieux-dits.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": "https://avatars.githubusercontent.com/u/2120966?v=4"
-      },
-      "collection": "circuler-au-village",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-09T13:06:56.000Z",
-      "slug": "les-lieux-dits",
-      "status": "published",
-      "title": "Les lieux dits"
-    },
-    {
-      "__outstatic": {
-        "commit": "24195c0ae62df162e72004920ed3870d27a05b1e",
-        "hash": "1008741543",
-        "path": "outstatic/content/circuler-au-village/les-rues-du-village.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "circuler-au-village",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-08T13:32:15.000Z",
-      "slug": "les-rues-du-village",
-      "status": "published",
-      "title": "Les rues du village"
-    },
-    {
-      "__outstatic": {
-        "commit": "3f6fd57fb841211f337a1e5809fbce6eb693c179",
-        "hash": "2727552355",
-        "path": "outstatic/content/histoire-d-energie/recherches-petrolieres.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "histoire-d-energie",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-22T13:34:01.000Z",
-      "slug": "recherches-petrolieres",
-      "status": "published",
-      "title": "Recherches pétrolières"
-    },
-    {
-      "__outstatic": {
-        "commit": "eed30a3eae2661e0319919a15d9a28ffd58b407a",
-        "hash": "2793780964",
-        "path": "outstatic/content/histoire-d-energie/eau-vive.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "histoire-d-energie",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-22T13:40:58.000Z",
-      "slug": "eau-vive",
-      "status": "published",
-      "title": "Eau vive"
-    },
-    {
-      "__outstatic": {
-        "commit": "6caf0ec82b352b1cc97e014fc1c2ca1d6d0051b4",
-        "hash": "3667944512",
-        "path": "outstatic/content/histoire-d-energie/que-la-lumiere-soit.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "histoire-d-energie",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-22T13:42:25.000Z",
-      "slug": "que-la-lumiere-soit",
-      "status": "published",
-      "title": "Que la lumière soit"
-    },
-    {
-      "__outstatic": {
-        "commit": "92ad0ea51c0c1fb7174b3d8ae3b83f1d3bd05b13",
-        "hash": "1168287196",
-        "path": "outstatic/content/eglise-et-vie-paroissiale/eglise-paroissiale-lantenay-outriaz.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "eglise-et-vie-paroissiale",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-17T13:44:04.000Z",
-      "slug": "eglise-paroissiale-lantenay-outriaz",
-      "status": "published",
-      "title": "Église paroissiale Lantenay-Outriaz"
-    },
-    {
-      "__outstatic": {
-        "commit": "22a694850ad59f2a3436c9b7d96bb3e99a85f675",
-        "hash": "2897010453",
-        "path": "outstatic/content/eglise-et-vie-paroissiale/la-vie-paroissiale.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "eglise-et-vie-paroissiale",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2011-11-15T13:46:43.000Z",
-      "slug": "la-vie-paroissiale",
-      "status": "published",
-      "title": "La vie paroissiale"
-    },
-    {
-      "__outstatic": {
-        "commit": "d876b4239d776ccedb8e85e3e1b13d18b00ccf45",
-        "hash": "1402774690",
-        "path": "outstatic/content/la-vie-de-l-association/le-creusot-11-09-2021.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "la-vie-de-l-association",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2021-09-18T12:48:46.000Z",
-      "slug": "le-creusot-11-09-2021",
-      "status": "published",
-      "title": "Le creusot - 11/09/2021"
-    },
-    {
-      "__outstatic": {
-        "commit": "edd8042f837c6c64ab4e8b67c92471f5ecf70090",
-        "hash": "3922893290",
-        "path": "outstatic/content/la-vie-de-l-association/les-vide-greniers.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "la-vie-de-l-association",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2015-06-11T12:52:52.000Z",
-      "slug": "les-vide-greniers",
-      "status": "published",
-      "title": "Les vide-greniers"
-    },
-    {
-      "__outstatic": {
-        "commit": "2f0a9d5057e8892a744a8bae4fee904ffb34d72b",
-        "hash": "4034543783",
-        "path": "outstatic/content/la-vie-de-l-association/la-fete-du-four.md"
-      },
-      "author": {
-        "name": "geneb",
-        "picture": ""
-      },
-      "collection": "la-vie-de-l-association",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2014-09-23T12:55:15.000Z",
-      "slug": "la-fete-du-four",
-      "status": "published",
-      "title": "La fête du four"
     }
   ]
 }
