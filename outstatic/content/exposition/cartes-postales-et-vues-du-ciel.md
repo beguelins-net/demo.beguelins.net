@@ -12,7 +12,7 @@ publishedAt: '2024-04-16T15:49:46.303Z'
 
 *le 22 novembre 2011, 06 h 29*
 
-[![clip_image002](/images/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image002_thumb.jpg "clip_image002")](/images/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image002_2.jpg)
+![](/images/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image002_2.jpg)
 
 [![clip_image004](/images/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image004_thumb.jpg "clip_image004")](/images/Windows-Live-Writer/2226fe00f7c0_FA33/clip_image004_2.jpg)
 
