@@ -5,11 +5,17 @@ content:
     path: outstatic/content/exposition
     type: collection
     view:
-      fields: [ title ]
+      fields: [ title, publishedAt ]
     fields:
       - name: title
         label: Title
         type: string
+      - name: publishedAt
+        label: Published At
+        type: date
+      - name: body
+        label: Body
+        type: rich-text
   - name: circuler-au-village
     label: Circuler au village
     path: outstatic/content/circuler-au-village
