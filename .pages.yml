@@ -16,6 +16,11 @@ content:
       - name: body
         label: Body
         type: rich-text
+        options:
+          image:
+            input: public
+            output: /
+            path: public
   - name: circuler-au-village
     label: Circuler au village
     path: outstatic/content/circuler-au-village
