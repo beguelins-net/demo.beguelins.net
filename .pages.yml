@@ -1,0 +1,102 @@
+media: public
+content:
+  - name: exposition
+    label: Exposition
+    path: outstatic/content/exposition
+    type: collection
+    view:
+      fields: [ title ]
+    fields:
+      - name: title
+        label: Title
+        type: string
+  - name: circuler-au-village
+    label: Circuler au village
+    path: outstatic/content/circuler-au-village
+    type: collection
+    view:
+      fields: [ title ]
+    fields:
+      - name: title
+        label: Title
+        type: string
+  - name: le-village-et-son-patrimoine
+    label: Le village et son patrimoine
+    path: outstatic/content/le-village-et-son-patrimoine
+    type: collection
+    view:
+      fields: [ title ]
+    fields:
+      - name: title
+        label: Title
+        type: string
+  - name: eglise-et-vie-paroissiale
+    label: Église et vie paroissiale
+    path: outstatic/content/eglise-et-vie-paroissiale
+    type: collection
+    view:
+      fields: [ title ]
+    fields:
+      - name: title
+        label: Title
+        type: string
+  - name: histoire
+    label: Histoire
+    path: outstatic/content/histoire
+    type: collection
+    view:
+      fields: [ title ]
+    fields:
+      - name: title
+        label: Title
+        type: string
+  - name: la-vie-agricole
+    label: La vie agricole
+    path: outstatic/content/la-vie-agricole
+    type: collection
+    view:
+      fields: [ title ]
+    fields:
+      - name: title
+        label: Title
+        type: string
+  - name: histoire-d-energie
+    label: "Histoire d'énergie"
+    path: outstatic/content/histoire-d-energie
+    type: collection
+    view:
+      fields: [ title ]
+    fields:
+      - name: title
+        label: Title
+        type: string
+  - name: la-vie-de-l-association
+    label: "La vie de l'association"
+    path: outstatic/content/la-vie-de-l-association
+    type: collection
+    view:
+      fields: [ title ]
+    fields:
+      - name: title
+        label: Title
+        type: string
+  - name: la-vie-du-village
+    label: La vie du village
+    path: outstatic/content/la-vie-du-village
+    type: collection
+    view:
+      fields: [ title ]
+    fields:
+      - name: title
+        label: Title
+        type: string
+  - name: pages
+    label: Pages
+    path: outstatic/content/pages
+    type: collection
+    view:
+      fields: [ title ]
+    fields:
+      - name: title
+        label: Title
+        type: string
