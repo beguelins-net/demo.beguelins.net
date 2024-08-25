@@ -14,12 +14,12 @@ Le 23 septembre 2014, 03 h 17
 
 Pendant plusieurs années les Béguelins ont organisé **LA FÊTE DU FOUR**. Elle permettait de retrouver les gestes des anciens et de regrouper les habitants autour du four banal pour déguster le pain et faire cuire tartes, gratins et autres spécialités culinaires...
 
-![DSCN2219.JPG](https://beguelins.net/blog/public/images/FETE_DU_FOUR/.DSCN2219_s.jpg "DSCN2219.JPG, sept. 2014")
+![DSCN2219.JPG](/images/images/FETE_DU_FOUR/.DSCN2219_s.jpg "DSCN2219.JPG, sept. 2014")
 
-![DSCN2226.JPG](https://beguelins.net/blog/public/images/FETE_DU_FOUR/.DSCN2226_s.jpg "DSCN2226.JPG, sept. 2014")
+![DSCN2226.JPG](/images/images/FETE_DU_FOUR/.DSCN2226_s.jpg "DSCN2226.JPG, sept. 2014")
 
-![DSCN2222.JPG](https://beguelins.net/blog/public/images/FETE_DU_FOUR/.DSCN2222_s.jpg "DSCN2222.JPG, sept. 2014")
+![DSCN2222.JPG](/images/images/FETE_DU_FOUR/.DSCN2222_s.jpg "DSCN2222.JPG, sept. 2014")
 
-![Petrissage.jpg](https://beguelins.net/blog/public/images/FETE_DU_FOUR/.Petrissage_s.jpg "Petrissage.jpg, sept. 2014")
+![Petrissage.jpg](/images/images/FETE_DU_FOUR/.Petrissage_s.jpg "Petrissage.jpg, sept. 2014")
 
-![DSCN2221.JPG](https://beguelins.net/blog/public/images/FETE_DU_FOUR/.DSCN2221_s.jpg "DSCN2221.JPG, sept. 2014")
+![DSCN2221.JPG](/images/images/FETE_DU_FOUR/.DSCN2221_s.jpg "DSCN2221.JPG, sept. 2014")

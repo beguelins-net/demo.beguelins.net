@@ -16,7 +16,7 @@ Le 13 novembre 2011, 11 h 37
 
 (**C**oopérative d’**U**tilisation du **M**atériel **A**gricole)
 
-[![clip_image004](https://beguelins.net/blog/public/Windows-Live-Writer/97d350d174e5_14A3C/clip_image004_thumb.jpg "clip_image004")](https://beguelins.net/blog/public/Windows-Live-Writer/97d350d174e5_14A3C/clip_image004_2.jpg)[![clip_image002](https://beguelins.net/blog/public/Windows-Live-Writer/97d350d174e5_14A3C/clip_image002_thumb.jpg "clip_image002")](https://beguelins.net/blog/public/Windows-Live-Writer/97d350d174e5_14A3C/clip_image002_2.jpg)
+[![clip_image004](/images/Windows-Live-Writer/97d350d174e5_14A3C/clip_image004_thumb.jpg "clip_image004")](/images/Windows-Live-Writer/97d350d174e5_14A3C/clip_image004_2.jpg)[![clip_image002](/images/Windows-Live-Writer/97d350d174e5_14A3C/clip_image002_thumb.jpg "clip_image002")](/images/Windows-Live-Writer/97d350d174e5_14A3C/clip_image002_2.jpg)
 
 **En 1958**: 28 cultivateurs adhérent (18 de Lantenay et 10 d’Outriaz) pour l’achat d’une moissonneuse batteuse.
 
@@ -24,7 +24,7 @@ Le 13 novembre 2011, 11 h 37
 
 **En 1966 :** La 1ère moissonneuse a du être changée pour une valeur de 31 000 francs et financée par un emprunt de 20 000 F.
 
-[  ](https://beguelins.net/blog/public/Windows-Live-Writer/97d350d174e5_14A3C/clip_image006_2.jpg)[![clip_image008](https://beguelins.net/blog/public/Windows-Live-Writer/97d350d174e5_14A3C/clip_image008_thumb.jpg "clip_image008")](https://beguelins.net/blog/public/Windows-Live-Writer/97d350d174e5_14A3C/clip_image008_2.jpg)[![clip_image006](https://beguelins.net/blog/public/Windows-Live-Writer/97d350d174e5_14A3C/clip_image006_thumb.jpg "clip_image006")](https://beguelins.net/blog/public/Windows-Live-Writer/97d350d174e5_14A3C/clip_image006_2.jpg)
+[  ](/images/Windows-Live-Writer/97d350d174e5_14A3C/clip_image006_2.jpg)[![clip_image008](/images/Windows-Live-Writer/97d350d174e5_14A3C/clip_image008_thumb.jpg "clip_image008")](/images/Windows-Live-Writer/97d350d174e5_14A3C/clip_image008_2.jpg)[![clip_image006](/images/Windows-Live-Writer/97d350d174e5_14A3C/clip_image006_thumb.jpg "clip_image006")](/images/Windows-Live-Writer/97d350d174e5_14A3C/clip_image006_2.jpg)
 
 **LA SICA**
 
@@ -34,7 +34,7 @@ Elle a pour objet de créer ou de gérer des installations et équipements ou d�
 
 Dans les années 60/70 à Lantenay les pâturages collectifs accueillaient les génisses, pleines ou non, mais vaccinées contre la brucellose.
 
-[![clip_image010](https://beguelins.net/blog/public/Windows-Live-Writer/97d350d174e5_14A3C/clip_image010_thumb.jpg "clip_image010")](https://beguelins.net/blog/public/Windows-Live-Writer/97d350d174e5_14A3C/clip_image010_2.jpg) [![clip_image012](https://beguelins.net/blog/public/Windows-Live-Writer/97d350d174e5_14A3C/clip_image012_thumb.jpg "clip_image012")](https://beguelins.net/blog/public/Windows-Live-Writer/97d350d174e5_14A3C/clip_image012_2.jpg)
+[![clip_image010](/images/Windows-Live-Writer/97d350d174e5_14A3C/clip_image010_thumb.jpg "clip_image010")](/images/Windows-Live-Writer/97d350d174e5_14A3C/clip_image010_2.jpg) [![clip_image012](/images/Windows-Live-Writer/97d350d174e5_14A3C/clip_image012_thumb.jpg "clip_image012")](/images/Windows-Live-Writer/97d350d174e5_14A3C/clip_image012_2.jpg)
 
 Une trentaine de bêtes se partageaient l’herbe sous les Queues ou en Chaleyriat.
 

@@ -10,17 +10,19 @@ coverImage: ''
 publishedAt: '2011-11-08T13:32:15.000Z'
 ---
 
-*Le 8 novembre, 2011, 06 h 20*  
+*Le 8 novembre, 2011, 06 h 20*
 
-[![clip_image002](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image002_thumb.jpg "clip_image002")](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image002_2.jpg)[![clip_image004](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image004_thumb.jpg "clip_image004")](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image004_2.jpg)[![clip_image006](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image006_thumb.jpg "clip_image006")](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image006_2.jpg)
+[![clip_image002](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image002_thumb.jpg "clip_image002")](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image002_2.jpg)
+[![clip_image004](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image004_thumb.jpg "clip_image004")](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image004_2.jpg)
+[![clip_image006](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image006_thumb.jpg "clip_image006")](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image006_2.jpg)
 
 **Rue des fontaines :** elle traverse le village et doit son nom aux fontaines et bacs qui jalonnent son parcours.
 
-[![clip_image009](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image009_thumb.jpg "clip_image009")](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image009_2.jpg)[![clip_image011](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image011_thumb.jpg "clip_image011")](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image011_2.jpg)
+[![clip_image009](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image009_thumb.jpg "clip_image009")](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image009_2.jpg)[![clip_image011](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image011_thumb.jpg "clip_image011")](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image011_2.jpg)
 
 **Les Montaines :** De l´adjectif latin *montanus, montana*, « de la montagne, montagnard », ou du patronyme *Montain*. De la place du four, la rue monte vers les sapins et dessert le haut du village.
 
-[**![clip_image015](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image015_thumb.jpg "clip_image015")**](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image015_2.jpg)
+[**![clip_image015](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image015_thumb.jpg "clip_image015")**](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image015_2.jpg)
 
 **Cornette:** Pointe rocheuse, ou terrain en pointe s´enfonçant comme un coin, terrain de forme allongée.
 
@@ -30,7 +32,7 @@ publishedAt: '2011-11-08T13:32:15.000Z'
 
 **Chemin de la Combe :** il traverse le lotissement éponyme d’est en ouest.
 
-[**![100_2581](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/100_2581_thumb.jpg "100_2581")**](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/100_2581.jpg)
+[**![100_2581](/images/Windows-Live-Writer/bf69488ed664_F863/100_2581_thumb.jpg "100_2581")**](/images/Windows-Live-Writer/bf69488ed664_F863/100_2581.jpg)
 
 **Borrey :** pourrait être d'origine celte, provenant de *Borna*, signifiant cavité, dérivé ensuite en *Bour*, *Bore*, signifiant profondeur, trou, creux.
 
@@ -46,17 +48,17 @@ publishedAt: '2011-11-08T13:32:15.000Z'
 
 **Chemin de la Longeraie:** orienté d’ouest en est, il dessert le nouveau quartier au sud du village.
 
-[**![clip_image024](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image024_thumb.jpg "clip_image024")**](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image024_2.jpg)
+[**![clip_image024](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image024_thumb.jpg "clip_image024")**](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image024_2.jpg)
 
 **Chemin de la Dame** : Petit hommage au temps où Lantenay avait son château, sans doute situé au-dessus de la place du four. On peut rêver à la Dame se promenant sur son chemin de ronde.
 
-[![clip_image028](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image028_thumb.jpg "clip_image028")](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image028_2.jpg)
+[![clip_image028](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image028_thumb.jpg "clip_image028")](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image028_2.jpg)
 
 **Dernier** : Préposition et adverbe ayant le sens de « derrière, en arrière de, à l´arrière de ».
 
 **Chemin de champ dernier :** il conduit au lieu dit éponyme et dessert le terrain de foot et les jeux de boules.
 
-[**![clip_image032](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image032_thumb.jpg "clip_image032")**](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image032_2.jpg)
+[**![clip_image032](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image032_thumb.jpg "clip_image032")**](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image032_2.jpg)
 
 **Chavanier :** Ferme, ou construction le plus souvent en pierres sèches, utilisée par les bergers, notamment pour la confection de fromages. Au Moyen Age une *chavannerie* était une exploitation agricole, une métairie, une maison rustique.
 
@@ -76,13 +78,13 @@ publishedAt: '2011-11-08T13:32:15.000Z'
 
 **Chemin des Tilleuls :** à la sortie ouest du village, il démarre l’accès au Tremblay tel qu’il se faisait autrefois. Son nom vient des tilleuls qui s’y trouvent.
 
-[![clip_image040](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image040_thumb.jpg "clip_image040")](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image040_2.jpg)
+[![clip_image040](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image040_thumb.jpg "clip_image040")](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image040_2.jpg)
 
 **L’Orme** : du latin *ulmus*,  arbre du genre des Ulmacées très courant sur le sol français.
 
 **Chemin de l’orme :** il fait suite au chemin des tilleuls et débouche à l’est du Tremblay.
 
-[![clip_image043](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image043_thumb.jpg "clip_image043")](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image043_2.jpg)
+[![clip_image043](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image043_thumb.jpg "clip_image043")](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image043_2.jpg)
 
 **Bac :** Le mot *bac* a désigné dès le XIIème siècle un bateau à fond plat pour le transport de personnes ou de marchandise, le sens de récipient apparaissant plus tard. En langage régional correspond au *bachat :* auge pour l´eau, en bois ou en pierre, abreuvoir.
 
@@ -96,8 +98,8 @@ publishedAt: '2011-11-08T13:32:15.000Z'
 
 **Chemin de Champs Bérard :** Il sort du Tremblay vers le sud et rejoint Pré de But.
 
-[**![clip_image049](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image049_thumb.jpg "clip_image049")**](https://beguelins.net/blog/public/Windows-Live-Writer/bf69488ed664_F863/clip_image049_2.jpg)
+[**![clip_image049](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image049_thumb.jpg "clip_image049")**](/images/Windows-Live-Writer/bf69488ed664_F863/clip_image049_2.jpg)
 
 **Place du Hangar** : depuis 1913 le hangar est, avec le four, le cœur du village. Il a longtemps permis de protéger les récoltes et le matériel mais aussi d’abriter les festivités des Béguelins : vogue, fête de la musique et depuis quelques années le vide grenier !
 
-![RUES_JPG.jpg](https://beguelins.net/blog/public/.RUES_JPG_m.jpg "RUES_JPG.jpg, mai 2014")
+![RUES_JPG.jpg](/images/.RUES_JPG_m.jpg "RUES_JPG.jpg, mai 2014")

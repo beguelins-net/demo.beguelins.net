@@ -22,22 +22,22 @@ La construction d’un pont sur le ravin, en amont du moulin Davar, pour faire u
 
 Courage, habitants d’Outriaz, des jours heureux se lèveront pour vous, n’en doutez pas ; ils seront la récompense de vos misères des temps passés. *(Extraits du mémoire pour la séparation d’Outriaz)*
 
-[*![clip_image0026](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image002_6__thumb.jpg "clip_image002[6]")*](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image002_6_.jpg)
+[*![clip_image0026](/images/Windows-Live-Writer/lantenay-vu-par_A148/clip_image002_6__thumb.jpg "clip_image002[6]")*](/images/Windows-Live-Writer/lantenay-vu-par_A148/clip_image002_6_.jpg)
 
-[![clip_image004](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image004_thumb.jpg "clip_image004")](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image004_2.jpg)
+[![clip_image004](/images/Windows-Live-Writer/lantenay-vu-par_A148/clip_image004_thumb.jpg "clip_image004")](/images/Windows-Live-Writer/lantenay-vu-par_A148/clip_image004_2.jpg)
 
 … parce que la commune d’Outriaz… n’étant pas séparée de Lantenay pour le culte… elles doivent contribuer à toutes les dépenses.
 
 *Extrait de délibération du 15 novembre 1874*
 
-[![clip_image006](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image006_thumb.jpg "clip_image006")](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image006_2.jpg)
+[![clip_image006](/images/Windows-Live-Writer/lantenay-vu-par_A148/clip_image006_thumb.jpg "clip_image006")](/images/Windows-Live-Writer/lantenay-vu-par_A148/clip_image006_2.jpg)
 
 *Réfection du clocher 1981*
 
-[![clip_image008](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image008_thumb.jpg "clip_image008")](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image008_2.jpg)
+[![clip_image008](/images/Windows-Live-Writer/lantenay-vu-par_A148/clip_image008_thumb.jpg "clip_image008")](/images/Windows-Live-Writer/lantenay-vu-par_A148/clip_image008_2.jpg)
 
 *Archives départementales de l’Ain*
 
-[*![clip_image010](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image010_thumb.jpg "clip_image010")*](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image010_2.jpg)                                                                                                                                     [*![clip_image014](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image014_thumb.jpg "clip_image014")*](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image014_2.jpg)
+[*![clip_image010](/images/Windows-Live-Writer/lantenay-vu-par_A148/clip_image010_thumb.jpg "clip_image010")*](/images/Windows-Live-Writer/lantenay-vu-par_A148/clip_image010_2.jpg)                                                                                                                                     [*![clip_image014](/images/Windows-Live-Writer/lantenay-vu-par_A148/clip_image014_thumb.jpg "clip_image014")*](/images/Windows-Live-Writer/lantenay-vu-par_A148/clip_image014_2.jpg)
 
-[![clip_image012](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image012_thumb.jpg "clip_image012")](https://beguelins.net/blog/public/Windows-Live-Writer/lantenay-vu-par_A148/clip_image012_2.jpg)
+[![clip_image012](/images/Windows-Live-Writer/lantenay-vu-par_A148/clip_image012_thumb.jpg "clip_image012")](/images/Windows-Live-Writer/lantenay-vu-par_A148/clip_image012_2.jpg)

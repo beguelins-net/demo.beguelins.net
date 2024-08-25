@@ -10,9 +10,9 @@ coverImage: ''
 publishedAt: '2011-11-22T13:42:25.000Z'
 ---
 
-Le 22 novembre, 2011, 04 h 21   
+Le 22 novembre, 2011, 04 h 21 
 
-[![clip_image002](https://beguelins.net/blog/public/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image002_thumb.jpg "clip_image002")](https://beguelins.net/blog/public/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image002_2.jpg)
+[![clip_image002](/images/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image002_thumb.jpg "clip_image002")](/images/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image002_2.jpg)
 
 **Séance du 14/12/1913 :**
 
@@ -20,7 +20,7 @@ Le Maire présente au Conseil le traité et le cahier des charges pour la distri
 
 Le conseil, après examen des pièces du dossier, approuve ce cahier des charges et de traité tel qu’ils sont présentés.
 
-[![clip_image004](https://beguelins.net/blog/public/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image004_thumb.jpg "clip_image004")](https://beguelins.net/blog/public/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image004_2.jpg)
+[![clip_image004](/images/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image004_thumb.jpg "clip_image004")](/images/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image004_2.jpg)
 
 **L’électricité arrive au village en JUIN 1914**,
 
@@ -28,11 +28,11 @@ produite par l’usine hydro -électrique des frères Larçon.
 
  
 
-[![clip_image006](https://beguelins.net/blog/public/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image006_thumb.gif "clip_image006")](https://beguelins.net/blog/public/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image006_2.gif)
+[![clip_image006](/images/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image006_thumb.gif "clip_image006")](/images/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image006_2.gif)
 
  
 
-[![clip_image008](https://beguelins.net/blog/public/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image008_thumb.jpg "clip_image008")](https://beguelins.net/blog/public/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image008_2.jpg)
+[![clip_image008](/images/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image008_thumb.jpg "clip_image008")](/images/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image008_2.jpg)
 
  
 
@@ -40,7 +40,7 @@ produite par l’usine hydro -électrique des frères Larçon.
 
 Le Conseil appelé à délibérer sur l’éclairage des bâtiments communaux, prend les décisions suivantes : bureau de poste, fruitière, presbytère, église, école et mairie. Toutes ces installations aux frais de l’Union. Une lampe sera placée dans le four et deux sous le hangar. La lampe maison Favre sera déplacée et portée angle est.
 
-[![gare 2](https://beguelins.net/blog/public/Windows-Live-Writer/41ebb8075d6e_E3AF/gare_2_thumb.jpg "gare 2")](https://beguelins.net/blog/public/Windows-Live-Writer/41ebb8075d6e_E3AF/gare_2_2.jpg)
+[![gare 2](/images/Windows-Live-Writer/41ebb8075d6e_E3AF/gare_2_thumb.jpg "gare 2")](/images/Windows-Live-Writer/41ebb8075d6e_E3AF/gare_2_2.jpg)
 
 **Séance du 09.11.1924**
 
@@ -64,7 +64,7 @@ Le Conseil, vu la nécessité absolue de fournir une lumière suffisante aux hab
 
 **Article 2°-** Ni le décès de l’abonné, ni la cession de son industrie, ni la vente de ses immeubles, ni les changements de raison sociale n’annulent la police qui continue ses effets avec la veuve, les héritiers, les acquéreurs ou les associés…
 
-[![clip_image012](https://beguelins.net/blog/public/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image012_thumb.gif "clip_image012")](https://beguelins.net/blog/public/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image012_2.gif)
+[![clip_image012](/images/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image012_thumb.gif "clip_image012")](/images/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image012_2.gif)
 
 **Article 8° -** …Les concessionnaires se réservent le droit de suspendre le service du courant sans indemnité ni réduction de prix.
 
@@ -72,7 +72,7 @@ Le Conseil, vu la nécessité absolue de fournir une lumière suffisante aux hab
 
 2° - En cas d’avarie aux appareils et aux machines, dans le cas où l’Usine génératrice serait dans l’impossibilité de fournir l’énergie nécessaire, soit par force majeure, soit par manque d’eau ou de gelée, la suspension du service n’entraînerait pour les concessionnaires ni amende, ni indemnité quelconque à l’égard des abonnés. Toutefois si l’interruption devait dépasser 10 jours annuels, les concessionnaires n’auraient droit à aucune rétribution de la part des abonnés à partir du 10ème jour.
 
-[![clip_image014](https://beguelins.net/blog/public/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image014_thumb.jpg "clip_image014")](https://beguelins.net/blog/public/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image014_2.jpg)
+[![clip_image014](/images/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image014_thumb.jpg "clip_image014")](/images/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image014_2.jpg)
 
 **RAPPORT SUR L’INSTALLATION**
 
@@ -84,7 +84,7 @@ Le Conseil, vu la nécessité absolue de fournir une lumière suffisante aux hab
 
 …Pour m’en acquitter, je me suis rendu sur les lieux le 2 novembre 1920, j’ai visité les installations en compagnie de Mrs les Maires d’Outriaz et de Lantenay et l’un des Concessionnaires, Mr Charles Larçon…
 
-[![clip_image016](https://beguelins.net/blog/public/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image016_thumb.jpg "clip_image016")](https://beguelins.net/blog/public/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image016_2.jpg)
+[![clip_image016](/images/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image016_thumb.jpg "clip_image016")](/images/Windows-Live-Writer/41ebb8075d6e_E3AF/clip_image016_2.jpg)
 
 L’installation hydraulique comprend un barrage, un étang faisant réservoir et une conduite forcée partant de l’étang, la hauteur de chute est de 9 mètres.
 

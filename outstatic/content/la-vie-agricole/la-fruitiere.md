@@ -14,7 +14,7 @@ Le 13 novembre 2011, 11 h 21
 
 L'origine du mot est sujet à controverse : pour les uns, fruitière vient de *fruit* : il est le lieu où les paysans mettent le ***fruit de leur travail*** en commun, ou alors font *fructifier* leur bien ; pour d'autres, il serait dérivé du médiaval ou du fribourgeois "**fretière", de la même famille que "fromage**".
 
-[![clip_image002](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image002_thumb.jpg "clip_image002")](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image002_2.jpg)[![clip_image004](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image004_thumb.jpg "clip_image004")](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image004_2.jpg)
+[![clip_image002](/images/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image002_thumb.jpg "clip_image002")](/images/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image002_2.jpg)[![clip_image004](/images/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image004_thumb.jpg "clip_image004")](/images/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image004_2.jpg)
 
 La fruitière qui existait depuis **1848**, s’est constituée en société coopérative au début du siècle. Elle a évolué tout au long des années
 
@@ -30,15 +30,15 @@ Le Conseil municipal autorise Monsieur le Maire de Lantenay à passer un marché
 
 En **1922** les agriculteurs adoptent les statuts qui créent la **SOCIETE COOPERATIVE**, pour leur permettre d’écouler leur production :
 
-[![clip_image006](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image006_thumb.jpg "clip_image006")](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image006_2.jpg)
+[![clip_image006](/images/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image006_thumb.jpg "clip_image006")](/images/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image006_2.jpg)
 
 \- **la société** : elle est dirigée par un président et cinq membres élus. Cette commission se réunit tous les mois pour la vente des fromages… pour l’achat de matériel important, ou en cas de litige avec un sociétaire.
 
 **- la coopérative** : elle trouve sa raison d’être par le fait que tous les bénéfices sont redistribués aux sociétaires qui participent ainsi directement à la gestion de la société.
 
-[![clip_image008](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image008_thumb.jpg "clip_image008")](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image008_2.jpg)
+[![clip_image008](/images/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image008_thumb.jpg "clip_image008")](/images/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image008_2.jpg)
 
-[![clip_image010](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image010_thumb.jpg "clip_image010")](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image010_2.jpg)
+[![clip_image010](/images/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image010_thumb.jpg "clip_image010")](/images/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image010_2.jpg)
 
 Légende :
 
@@ -70,7 +70,7 @@ Légende :
 
 34 cultivateurs demeurant à Lantenay adhèreront aux présents statuts.
 
-[![clip_image012](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image012_thumb.jpg "clip_image012")](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image012_2.jpg)
+[![clip_image012](/images/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image012_thumb.jpg "clip_image012")](/images/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image012_2.jpg)
 
 Il est formé une Société Coopérative civile particulière qui sera régie par les articles 1832 et suivants du Code civil sur le contrat de société, par la loi du 5 août 1920 et par les dispositions qui suivent :
 
@@ -90,11 +90,11 @@ ART. 35
 
 Chaque sociétaire devra apporter en fromagerie tout le lait de ses vaches, tous les jours, matin et soir, aux heures fixées par le fromager.
 
-[![clip_image014](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image014_thumb.jpg "clip_image014")](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image014_2.jpg)Le lait devra être contenu dans des vases en fer blanc…
+[![clip_image014](/images/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image014_thumb.jpg "clip_image014")](/images/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image014_2.jpg)Le lait devra être contenu dans des vases en fer blanc…
 
 **Le Fromager**
 
-![clip_image016](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image016_thumb.jpg "clip_image016")
+![clip_image016](/images/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image016_thumb.jpg "clip_image016")
 
 ART. 27
 
@@ -104,9 +104,9 @@ Le fromager devra se conformer strictement au règlement qui suit :
 
 \- La plus stricte impartialité devra toujours le guider pour l’inscription des pesées du lait, pour la distribution des tours de beurre aux sociétaires et la répartition journalière du petit lait aux abonnés ;
 
-[![clip_image018](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image018_thumb.jpg "clip_image018")](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image018_2.jpg)
+[![clip_image018](/images/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image018_thumb.jpg "clip_image018")](/images/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image018_2.jpg)
 
-[![clip_image020](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image020_3be19010-1557-4c7b-8522-f7eb3621d523.jpg "clip_image020")]
+[![clip_image020](/images/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image020_3be19010-1557-4c7b-8522-f7eb3621d523.jpg "clip_image020")]
 
 \- Il devra tenir ses livres de comptabilités avec beaucoup de soins, faire chaque jour la balance des coulées.
 
@@ -152,4 +152,4 @@ Sa femme ne pourra jamais le remplacer dans son travail, ni se mêler des affair
 
 \- **de 1974 à 1976** GUYON Gérard
 
-[![clip_image024](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image024_thumb.jpg "clip_image024")](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image024_2.jpg)[![clip_image022](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image022_thumb.jpg "clip_image022")](https://beguelins.net/blog/public/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image022_2.jpg)
+[![clip_image024](/images/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image024_thumb.jpg "clip_image024")](/images/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image024_2.jpg)[![clip_image022](/images/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image022_thumb.jpg "clip_image022")](/images/Windows-Live-Writer/222ec7ab81d9_144CD/clip_image022_2.jpg)

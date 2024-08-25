@@ -14,7 +14,7 @@ publishedAt: '2014-03-21T12:52:56.000Z'
 
 **LES ORCHIDÉES DE LANTENAY**
 
-![2960.01-Copie.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2960.01_-_Copie_m.jpg "2960.01_-_Copie.JPG, mar. 2014")
+![2960.01-Copie.JPG](/images/images/ORCHIDEES/.2960.01_-_Copie_m.jpg "2960.01_-_Copie.JPG, mar. 2014")
 
 *Exposition proposée par Jacques Marchas – juin 2011*
 
@@ -43,7 +43,7 @@ Le pétale inférieur est plus grand et plus coloré : c'est le labelle.
 
 C'est lui qui fixera les pollinies sur l'insecte pollinisateur.
 
-![numerisation0001.jpg](https://beguelins.net/blog/public/images/ORCHIDEES/.numerisation0001_m.jpg "numerisation0001.jpg, mar. 2014")
+![numerisation0001.jpg](/images/images/ORCHIDEES/.numerisation0001_m.jpg "numerisation0001.jpg, mar. 2014")
 
 ```
         Les orchidées de chez nous sont terrestres
@@ -67,7 +67,7 @@ Les principaux facteurs de raréfaction des orchidées sont :
 
 NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'envahissement par les arbustes.
 
-![numerisation0002.jpg](https://beguelins.net/blog/public/images/ORCHIDEES/.numerisation0002_m.jpg "numerisation0002.jpg, mar. 2014")
+![numerisation0002.jpg](/images/images/ORCHIDEES/.numerisation0002_m.jpg "numerisation0002.jpg, mar. 2014")
 
 ```
     CEPHALANTHERE PALE (Cephalanthera damasonium)
@@ -77,9 +77,9 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
 - Localisation : on peut la trouver en nombre assez important dans quelques bois de résineux.
 - Les fleurs sont d'un blanc jaunâtre et les feuilles sont larges.
 
-![2935.03.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2935.03_m.jpg "2935.03.JPG, mar. 2014")
+![2935.03.JPG](/images/images/ORCHIDEES/.2935.03_m.jpg "2935.03.JPG, mar. 2014")
 
-![2935.01.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2935.01_m.jpg "2935.01.JPG, mar. 2014")
+![2935.01.JPG](/images/images/ORCHIDEES/.2935.01_m.jpg "2935.01.JPG, mar. 2014")
 
 ```
     CEPHALANTHERE A FEUILLES ÉTROITES (Cephalanthera longifolia)
@@ -89,9 +89,9 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
 - Localisation : quelques pieds ici et là dans des endroits ombragés
 - Contrairement à la précédente, ses fleurs sont d'un blanc pur et ses feuilles longues et étroites.
 
-![numerisation0004.jpg](https://beguelins.net/blog/public/images/ORCHIDEES/.numerisation0004_m.jpg "numerisation0004.jpg, mar. 2014")
+![numerisation0004.jpg](/images/images/ORCHIDEES/.numerisation0004_m.jpg "numerisation0004.jpg, mar. 2014")
 
-![2936.01.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2936.01_m.jpg "2936.01.JPG, mar. 2014")
+![2936.01.JPG](/images/images/ORCHIDEES/.2936.01_m.jpg "2936.01.JPG, mar. 2014")
 
 ```
       CEPHALANTHERE ROSE (Cephalanthera rubra)
@@ -100,9 +100,9 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
 - Floraison : fin juin
 - Localisation : plante très rare sur la commune (2 à 5 pieds suivant les années), on la trouve sur les talus ensoleillés.
 
-![numerisation0003.jpg](https://beguelins.net/blog/public/images/ORCHIDEES/.numerisation0003_m.jpg "numerisation0003.jpg, mar. 2014")
+![numerisation0003.jpg](/images/images/ORCHIDEES/.numerisation0003_m.jpg "numerisation0003.jpg, mar. 2014")
 
-![2934.01.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2934.01_m.jpg "2934.01.JPG, mar. 2014")
+![2934.01.JPG](/images/images/ORCHIDEES/.2934.01_m.jpg "2934.01.JPG, mar. 2014")
 
 ```
        EPIPACTIS POURPRE NOIRÂTRE (Epipactis atrorubens)
@@ -112,9 +112,9 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
 - Localisation : plante relativement courante en milieu ombragé
 - Les feuilles sont étroites et opposées.
 
-![2937.02.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2937.02_m.jpg "2937.02.JPG, mar. 2014")
+![2937.02.JPG](/images/images/ORCHIDEES/.2937.02_m.jpg "2937.02.JPG, mar. 2014")
 
-![2937.01.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2937.01_m.jpg "2937.01.JPG, mar. 2014")
+![2937.01.JPG](/images/images/ORCHIDEES/.2937.01_m.jpg "2937.01.JPG, mar. 2014")
 
 ```
         EPIPACTIS DE MÜLLER (Epipactis muelleri)
@@ -123,9 +123,9 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
 - Floraison : mi-juillet
 - Localisation : plante très rare sur la commune (une seule station d'une dizaine de pieds) ; on la trouve dans les endroits très sombres.
 
-![2942.04.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2942.04_m.jpg "2942.04.JPG, mar. 2014")
+![2942.04.JPG](/images/images/ORCHIDEES/.2942.04_m.jpg "2942.04.JPG, mar. 2014")
 
-![2942.01.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2942.01_m.jpg "2942.01.JPG, mar. 2014")
+![2942.01.JPG](/images/images/ORCHIDEES/.2942.01_m.jpg "2942.01.JPG, mar. 2014")
 
 ```
      EPIPACTIS A FEUILLES LARGES (Epipactis helleborine)
@@ -135,9 +135,9 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
 - Localisation : Plante relativement courante
 - Contrairement à la précédente, ses feuilles sont larges et en spirales.
 
-![2941.04.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2941.04_m.jpg "2941.04.JPG, mar. 2014")
+![2941.04.JPG](/images/images/ORCHIDEES/.2941.04_m.jpg "2941.04.JPG, mar. 2014")
 
-![2941.01.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2941.01_m.jpg "2941.01.JPG, mar. 2014")
+![2941.01.JPG](/images/images/ORCHIDEES/.2941.01_m.jpg "2941.01.JPG, mar. 2014")
 
 ```
      NEOTTIE NID D'OISEAU (Neottia nidus-avis)
@@ -146,9 +146,9 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
 - Floraison : mi-mai
 - Localisation : plante sans chlorophylle, elle vit en symbiose avec le hêtre.
 
-![2946.03.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2946.03_m.jpg "2946.03.JPG, mar. 2014")
+![2946.03.JPG](/images/images/ORCHIDEES/.2946.03_m.jpg "2946.03.JPG, mar. 2014")
 
-![2946.01.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2946.01_m.jpg "2946.01.JPG, mar. 2014")
+![2946.01.JPG](/images/images/ORCHIDEES/.2946.01_m.jpg "2946.01.JPG, mar. 2014")
 
 ```
        GOODYERE RAMPANTE (Goodyera repens)
@@ -157,9 +157,9 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
 - Floraison : début août
 - Localisation : rare et minuscule, on la trouve sous les pins.
 
-![2953.02.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2953.02_m.jpg "2953.02.JPG, mar. 2014")
+![2953.02.JPG](/images/images/ORCHIDEES/.2953.02_m.jpg "2953.02.JPG, mar. 2014")
 
-![2953.01.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2953.01_m.jpg "2953.01.JPG, mar. 2014")
+![2953.01.JPG](/images/images/ORCHIDEES/.2953.01_m.jpg "2953.01.JPG, mar. 2014")
 
 ```
       LISTERE A DEUX FEUILLES ( Neottia ovata)
@@ -168,9 +168,9 @@ NE PAS CUEILLIR, NE PAS ARRACHER, FAUCHER ou TONDRE EN AUTOMNE pour éviter l'en
 - Floraison : mi-mai
 - Localisation : plante assez courante, c'est la seule orchidée qui puisse vivre sans symbiose avec un champignon, une fois adulte.
 
-![2949.04.jpg](https://beguelins.net/blog/public/images/ORCHIDEES/.2949.04_m.jpg "2949.04.jpg, mar. 2014")
+![2949.04.jpg](/images/images/ORCHIDEES/.2949.04_m.jpg "2949.04.jpg, mar. 2014")
 
-![2949.01.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2949.01_m.jpg "2949.01.JPG, mar. 2014")
+![2949.01.JPG](/images/images/ORCHIDEES/.2949.01_m.jpg "2949.01.JPG, mar. 2014")
 
 ```
      Les orchidées à éperon long et fin
@@ -189,9 +189,9 @@ Localisation sur la commune :
 
 Floraison : mi-mai
 
-![2955.01.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2955.01_m.jpg "2955.01.JPG, mar. 2014")
+![2955.01.JPG](/images/images/ORCHIDEES/.2955.01_m.jpg "2955.01.JPG, mar. 2014")
 
-![2955.04.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2955.04_m.jpg "2955.04.JPG, mar. 2014")
+![2955.04.JPG](/images/images/ORCHIDEES/.2955.04_m.jpg "2955.04.JPG, mar. 2014")
 
 ```
          Orchis moucheron (Gymnadenia conopsea)
@@ -199,9 +199,9 @@ Floraison : mi-mai
 
 Floraison : début juin
 
-![2957.03.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2957.03_m.jpg "2957.03.JPG, mar. 2014")
+![2957.03.JPG](/images/images/ORCHIDEES/.2957.03_m.jpg "2957.03.JPG, mar. 2014")
 
-![2957.01.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2957.01_m.jpg "2957.01.JPG, mar. 2014")
+![2957.01.JPG](/images/images/ORCHIDEES/.2957.01_m.jpg "2957.01.JPG, mar. 2014")
 
 ```
           Orchis pyramidal (Anacamptis pyramidalis)
@@ -209,9 +209,9 @@ Floraison : début juin
 
 Floraison : mi-juin
 
-![2960.02.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2960.02_m.jpg "2960.02.JPG, mar. 2014")
+![2960.02.JPG](/images/images/ORCHIDEES/.2960.02_m.jpg "2960.02.JPG, mar. 2014")
 
-![2960.01.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2960.01_m.jpg "2960.01.JPG, mar. 2014")
+![2960.01.JPG](/images/images/ORCHIDEES/.2960.01_m.jpg "2960.01.JPG, mar. 2014")
 
 ```
       Les ophrys
@@ -231,9 +231,9 @@ Localisation sur la commune :
 
 Floraison : mi-juin Plante très rare sur la commune, 2 à 5 pieds suivant les années
 
-![2965.02.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2965.02_m.jpg "2965.02.JPG, mar. 2014")
+![2965.02.JPG](/images/images/ORCHIDEES/.2965.02_m.jpg "2965.02.JPG, mar. 2014")
 
-![2965.01.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2965.01_m.jpg "2965.01.JPG, mar. 2014")
+![2965.01.JPG](/images/images/ORCHIDEES/.2965.01_m.jpg "2965.01.JPG, mar. 2014")
 
 ```
         Ophrys petite araignée (Ophrys araneola)
@@ -241,9 +241,9 @@ Floraison : mi-juin Plante très rare sur la commune, 2 à 5 pieds suivant les 
 
 Floraison : début avril Plante très localisée.
 
-![2968.02.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2968.02_m.jpg "2968.02.JPG, mar. 2014")
+![2968.02.JPG](/images/images/ORCHIDEES/.2968.02_m.jpg "2968.02.JPG, mar. 2014")
 
-![2968.01.jpg](https://beguelins.net/blog/public/images/ORCHIDEES/.2968.01_m.jpg "2968.01.jpg, mar. 2014")
+![2968.01.jpg](/images/images/ORCHIDEES/.2968.01_m.jpg "2968.01.jpg, mar. 2014")
 
 ```
         Ophrys mouche (Ophrys insectifera)
@@ -251,9 +251,9 @@ Floraison : début avril Plante très localisée.
 
 Floraison : fin avril Plante disséminée sur les talus.
 
-![2971.02.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2971.02_m.jpg "2971.02.JPG, mar. 2014")
+![2971.02.JPG](/images/images/ORCHIDEES/.2971.02_m.jpg "2971.02.JPG, mar. 2014")
 
-![2971.01.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2971.01_m.jpg "2971.01.JPG, mar. 2014")
+![2971.01.JPG](/images/images/ORCHIDEES/.2971.01_m.jpg "2971.01.JPG, mar. 2014")
 
 ```
             ORCHIS BRÛLÉ (Neotinea ustulata)
@@ -263,9 +263,9 @@ Floraison : fin avril Plante disséminée sur les talus.
 - Localisation : dans quelques prairies sèches
 - C'est l'une des plus petites orchidées
 
-![2984.02.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2984.02_m.jpg "2984.02.JPG, mar. 2014")
+![2984.02.JPG](/images/images/ORCHIDEES/.2984.02_m.jpg "2984.02.JPG, mar. 2014")
 
-![2984.01.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2984.01_m.jpg "2984.01.JPG, mar. 2014")
+![2984.01.JPG](/images/images/ORCHIDEES/.2984.01_m.jpg "2984.01.JPG, mar. 2014")
 
 ```
              ORCHIS BOUC (Himantglossum hircinum)
@@ -275,9 +275,9 @@ Floraison : fin avril Plante disséminée sur les talus.
 - Localisation : quelques pieds par-ci par-là
 - Orchidée à odeur très forte. Elle peut atteindre 80 cm de haut.
 
-![2997.02.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2997.02_m.jpg "2997.02.JPG, mar. 2014")
+![2997.02.JPG](/images/images/ORCHIDEES/.2997.02_m.jpg "2997.02.JPG, mar. 2014")
 
-![2997.01.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2997.01_m.jpg "2997.01.JPG, mar. 2014")
+![2997.01.JPG](/images/images/ORCHIDEES/.2997.01_m.jpg "2997.01.JPG, mar. 2014")
 
 ```
            HOMME PENDU (Orchis anthropophorum)
@@ -287,9 +287,9 @@ Floraison : fin avril Plante disséminée sur les talus.
 - Localisation : plante assez localisée
 - La forme de ses fleurs rappelle la silhouette d'un homme pendu.
 
-![2964.02.jpg](https://beguelins.net/blog/public/images/ORCHIDEES/.2964.02_m.jpg "2964.02.jpg, mar. 2014")
+![2964.02.jpg](/images/images/ORCHIDEES/.2964.02_m.jpg "2964.02.jpg, mar. 2014")
 
-![2964.01.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2964.01_m.jpg "2964.01.JPG, mar. 2014")
+![2964.01.JPG](/images/images/ORCHIDEES/.2964.01_m.jpg "2964.01.JPG, mar. 2014")
 
 ```
            ORCHIS MÂLE (Orchis mascula)
@@ -299,9 +299,9 @@ Floraison : fin avril Plante disséminée sur les talus.
 - Localisation : plante localisée dans quelques endroits ombragés
 - Cette orchidée possède un éperon en forme de phallus.
 
-![2991.03.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2991.03_m.jpg "2991.03.JPG, mar. 2014")
+![2991.03.JPG](/images/images/ORCHIDEES/.2991.03_m.jpg "2991.03.JPG, mar. 2014")
 
-![2991.01.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2991.01_m.jpg "2991.01.JPG, mar. 2014")
+![2991.01.JPG](/images/images/ORCHIDEES/.2991.01_m.jpg "2991.01.JPG, mar. 2014")
 
 ```
         ORCHIS TACHETE (Dactylorhiza maculata)
@@ -310,9 +310,9 @@ Floraison : fin avril Plante disséminée sur les talus.
 - Floraison : début juin
 - Localisation : seule orchidée de la commune à pousser en milieu humide.
 
-![2973.03.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2973.03_m.jpg "2973.03.JPG, mar. 2014")
+![2973.03.JPG](/images/images/ORCHIDEES/.2973.03_m.jpg "2973.03.JPG, mar. 2014")
 
-![2973.01.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2973.01_m.jpg "2973.01.JPG, mar. 2014")
+![2973.01.JPG](/images/images/ORCHIDEES/.2973.01_m.jpg "2973.01.JPG, mar. 2014")
 
 ```
        ORCHIS BOUFFON (Anacamptis morio)
@@ -322,9 +322,9 @@ Floraison : fin avril Plante disséminée sur les talus.
 - Localisation : deux stations en prairie sèche
 - Elle est très semblable à la précédente, mais elle se reconnait facilement par la présence de nervures vertes sur les sépales.
 
-![2982.02.jpg](https://beguelins.net/blog/public/images/ORCHIDEES/.2982.02_m.jpg "2982.02.jpg, mar. 2014")
+![2982.02.jpg](/images/images/ORCHIDEES/.2982.02_m.jpg "2982.02.jpg, mar. 2014")
 
-![2982.01.jpg](https://beguelins.net/blog/public/images/ORCHIDEES/.2982.01_m.jpg "2982.01.jpg, mar. 2014")
+![2982.01.jpg](/images/images/ORCHIDEES/.2982.01_m.jpg "2982.01.jpg, mar. 2014")
 
 ```
       ORCHIS MILITAIRE (Orchis militaris)
@@ -334,7 +334,7 @@ Floraison : fin avril Plante disséminée sur les talus.
 - Localisation : plante relativement courante sur les talus.
 - La silhouette de la fleur fait penser à un homme au garde à vous.
 
-![2987.04.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2987.04_m.jpg "2987.04.JPG, mar. 2014") ![2987.01.jpg](https://beguelins.net/blog/public/images/ORCHIDEES/.2987.01_m.jpg "2987.01.jpg, mar. 2014")
+![2987.04.JPG](/images/images/ORCHIDEES/.2987.04_m.jpg "2987.04.JPG, mar. 2014") ![2987.01.jpg](/images/images/ORCHIDEES/.2987.01_m.jpg "2987.01.jpg, mar. 2014")
 
 ```
       ORCHIS POURPRE (Orchis purpurea)
@@ -343,9 +343,9 @@ Floraison : fin avril Plante disséminée sur les talus.
 - Floraison mi-mai
 - Localisation : plante rare sur la commune, une dizaine de pieds répartis sur deux stations.
 
-![2986.03.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2986.03_m.jpg "2986.03.JPG, mar. 2014")
+![2986.03.JPG](/images/images/ORCHIDEES/.2986.03_m.jpg "2986.03.JPG, mar. 2014")
 
-![2986.01.jpg](https://beguelins.net/blog/public/images/ORCHIDEES/.2986.01_m.jpg "2986.01.jpg, mar. 2014")
+![2986.01.jpg](/images/images/ORCHIDEES/.2986.01_m.jpg "2986.01.jpg, mar. 2014")
 
 ```
       ORCHIS SINGE (Orchis simia)
@@ -355,16 +355,16 @@ Floraison : fin avril Plante disséminée sur les talus.
 - Localisation : plante très rare sur la commune. C'est la seule orchidée française dont la floraison commence par le haut de l'épi
 - Contrairement à la précédente, le bas du labelle et les sépales sont longs, fins et entortillés.
 
-![2988.04.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2988.04_m.jpg "2988.04.JPG, mar. 2014")
+![2988.04.JPG](/images/images/ORCHIDEES/.2988.04_m.jpg "2988.04.JPG, mar. 2014")
 
-![2988.01.jpg](https://beguelins.net/blog/public/images/ORCHIDEES/.2988.01_m.jpg "2988.01.jpg, mar. 2014")
+![2988.01.jpg](/images/images/ORCHIDEES/.2988.01_m.jpg "2988.01.jpg, mar. 2014")
 
 Bien que les orchidées sélectionnent leurs pollinisateurs, il peut arriver qu'une plante naisse des amours improbables entre les fleurs de deux espèces différentes :
 
-![Ophrys_hybride.jpg](https://beguelins.net/blog/public/images/ORCHIDEES/.Ophrys_hybride_m.jpg "Ophrys_hybride.jpg, mar. 2014")
+![Ophrys_hybride.jpg](/images/images/ORCHIDEES/.Ophrys_hybride_m.jpg "Ophrys_hybride.jpg, mar. 2014")
 
 Les parents de cette fleur sont : un ophrys mouche et un ophrys araignée
 
-![2973.04.JPG](https://beguelins.net/blog/public/images/ORCHIDEES/.2973.04_m.jpg "2973.04.JPG, mar. 2014")
+![2973.04.JPG](/images/images/ORCHIDEES/.2973.04_m.jpg "2973.04.JPG, mar. 2014")
 
 Les araignées crabes (thomises) utilisent les fleurs d'orchidées comme affût pour essayer d'attraper les insectes pollinisateurs.

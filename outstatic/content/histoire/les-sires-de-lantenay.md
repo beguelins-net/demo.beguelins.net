@@ -14,7 +14,7 @@ publishedAt: '2011-11-08T16:51:53.000Z'
 
 *(Extraits de la bibliothèque d’Eugène DUBOIS et Travaux de Guichenon : généalogie des Rougemont)*
 
-[![clip_image002](https://beguelins.net/blog/public/Windows-Live-Writer/LES-SIRES-DE-LANTENAY_AE9C/clip_image002_thumb.jpg "clip_image002")](https://beguelins.net/blog/public/Windows-Live-Writer/LES-SIRES-DE-LANTENAY_AE9C/clip_image002_2.jpg)
+[![clip_image002](/images/Windows-Live-Writer/LES-SIRES-DE-LANTENAY_AE9C/clip_image002_thumb.jpg "clip_image002")](/images/Windows-Live-Writer/LES-SIRES-DE-LANTENAY_AE9C/clip_image002_2.jpg)
 
 **800 – 1188.** Sires de Coligny.
 

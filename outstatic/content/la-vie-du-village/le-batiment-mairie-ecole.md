@@ -14,7 +14,7 @@ publishedAt: '2011-11-17T13:24:35.000Z'
 
 Le bâtiment mairie-école est situé en haut du village, il est en pierre de taille à un étage avec un balcon en fer forgé au centre. Sa construction remonte à 1902 (architecte Moinat et Guillot entrepreneur).
 
-[![clip_image003](https://beguelins.net/blog/public/Windows-Live-Writer/dfa60d436474_12EA6/clip_image003_thumb.jpg "clip_image003")](https://beguelins.net/blog/public/Windows-Live-Writer/dfa60d436474_12EA6/clip_image003_2.jpg)
+[![clip_image003](/images/Windows-Live-Writer/dfa60d436474_12EA6/clip_image003_thumb.jpg "clip_image003")](/images/Windows-Live-Writer/dfa60d436474_12EA6/clip_image003_2.jpg)
 
 En 1841, la maison bourgeoise Revoux est rétrocédée à la commune pour l’établissement de l’enseignement public. La dite maison est assez spacieuse, bien éclairée et à la portée de toute la commune.
 
@@ -22,7 +22,7 @@ L’école est déclarée « communale » en 1852 et la commune rétribue les re
 
 En 1862, pour faciliter l’accès à l’école des enfants du hameau d’Outriaz, il a été voté un crédit pour construire un pont entre Lantenay et Outriaz.
 
-[![clip_image005](https://beguelins.net/blog/public/Windows-Live-Writer/dfa60d436474_12EA6/clip_image005_thumb.jpg "clip_image005")](https://beguelins.net/blog/public/Windows-Live-Writer/dfa60d436474_12EA6/clip_image005_2.jpg)
+[![clip_image005](/images/Windows-Live-Writer/dfa60d436474_12EA6/clip_image005_thumb.jpg "clip_image005")](/images/Windows-Live-Writer/dfa60d436474_12EA6/clip_image005_2.jpg)
 
 La commune achète des fusils en bois en 1884, pour armer le bataillon scolaire et faire des exercices militaires.
 
@@ -32,10 +32,10 @@ Le plan au sol assure une distribution des pièces logique ordonnée par le hall
 
 La couverture est d’ardoises d’Angers de grand calibre. La menuiserie est faite de matériaux de premier choix.
 
-[![clip_image007](https://beguelins.net/blog/public/Windows-Live-Writer/dfa60d436474_12EA6/clip_image007_thumb.jpg "clip_image007")](https://beguelins.net/blog/public/Windows-Live-Writer/dfa60d436474_12EA6/clip_image007_2.jpg)
+[![clip_image007](/images/Windows-Live-Writer/dfa60d436474_12EA6/clip_image007_thumb.jpg "clip_image007")](/images/Windows-Live-Writer/dfa60d436474_12EA6/clip_image007_2.jpg)
 
 Dans le hall d’entrée, une grande plaque en marbre à la mémoire des habitants de Lantenay, morts à la guerre, le seul exemple connu dans la région de monument aux morts installé dans un édifice architectural. Remarquons au passage, la belle rampe en fer forgé de l’escalier de pierres de taille
 
-[![clip_image009](https://beguelins.net/blog/public/Windows-Live-Writer/dfa60d436474_12EA6/clip_image009_thumb.jpg "clip_image009")](https://beguelins.net/blog/public/Windows-Live-Writer/dfa60d436474_12EA6/clip_image009_2.jpg) [![clip_image011](https://beguelins.net/blog/public/Windows-Live-Writer/dfa60d436474_12EA6/clip_image011_thumb.jpg "clip_image011")](https://beguelins.net/blog/public/Windows-Live-Writer/dfa60d436474_12EA6/clip_image011_2.jpg)
+[![clip_image009](/images/Windows-Live-Writer/dfa60d436474_12EA6/clip_image009_thumb.jpg "clip_image009")](/images/Windows-Live-Writer/dfa60d436474_12EA6/clip_image009_2.jpg) [![clip_image011](/images/Windows-Live-Writer/dfa60d436474_12EA6/clip_image011_thumb.jpg "clip_image011")](/images/Windows-Live-Writer/dfa60d436474_12EA6/clip_image011_2.jpg)
 
 La réalisation du bâtiment actuel se termine en 1902 et il est réhabilité en 2000 et toute la population a fêté le centenaire et la restauration en 2002.

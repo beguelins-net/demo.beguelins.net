@@ -12,9 +12,9 @@ publishedAt: '2011-11-15T13:46:43.000Z'
 
 Le 15 novembre, 2011, 09 h 37
 
-[**![clip_image002](https://beguelins.net/blog/public/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image002_thumb.jpg "clip_image002")**](https://beguelins.net/blog/public/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image002_2.jpg)
+[**![clip_image002](/images/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image002_thumb.jpg "clip_image002")**](/images/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image002_2.jpg)
 
-[![clip_image004](https://beguelins.net/blog/public/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image004_thumb.jpg "clip_image004")](https://beguelins.net/blog/public/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image004_2.jpg)
+[![clip_image004](/images/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image004_thumb.jpg "clip_image004")](/images/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image004_2.jpg)
 
 *Sortie d’église et communiants – années 1900*
 
@@ -54,13 +54,13 @@ Le 15 novembre, 2011, 09 h 37
 
 **1863 à 1872** : Abbé H.J.M. **GLETTON** (1828 – 1904), c’est lui qui fit installer la plupart des vitraux de l’église. Il était présent à Lantenay pendant la construction de l’actuel presbytère. Il écrivit à Mgr l’Evêque en 1871, pour lui demander de le *« nommer dans un poste moins froid et moins exposé d’avoir de la neige près de la moitié de l’année ».*
 
-[![clip_image006](https://beguelins.net/blog/public/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image006_thumb.jpg "clip_image006")](https://beguelins.net/blog/public/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image006_2.jpg)
+[![clip_image006](/images/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image006_thumb.jpg "clip_image006")](/images/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image006_2.jpg)
 
  
 
 1872 à 1874 : Abbé J.J. **BERNOLLIN** (1836 – 1910), il écrivit à Mgr l’Evêque en 1874 pour lui soumettre la demande des habitants d’Outriaz *« … que cette commune soit érigée en paroisse… »*
 
-[![clip_image008](https://beguelins.net/blog/public/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image008_thumb.jpg "clip_image008")](https://beguelins.net/blog/public/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image008_2.jpg)
+[![clip_image008](/images/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image008_thumb.jpg "clip_image008")](/images/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image008_2.jpg)
 
 1874 à 1909 : Abbé J.F. TRUCHE (1840 – 1909): très estimé curé aux allures un peu rudes mais au cœur d’or…
 
@@ -68,13 +68,13 @@ Le 15 novembre, 2011, 09 h 37
 
 de 1937 à 1956 : Abbé J.M.L. SAINT CYR (1895 – 1967), il a laissé beaucoup d’écrits et son influence a été profonde et durable. Il fit réparer l’église : « … continuez de prendre soin de la belle église que j’ai tant aimée … »
 
-[![clip_image011](https://beguelins.net/blog/public/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image011_thumb.jpg "clip_image011")](https://beguelins.net/blog/public/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image011_2.jpg)
+[![clip_image011](/images/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image011_thumb.jpg "clip_image011")](/images/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image011_2.jpg)
 
 1956 à 1962 : Abbé M. SONTHONNAX (1920 – 2000) - Il a été l’acteur de fêtes sportives et de l’ouverture de la salle paroissiale. *« …nous savons vous et moi, pour y être nés que le Haut – Bugey est le plus beau pays du monde… »*
 
 1962 à 1980 : Abbé R. HUGONNET (né en 1926) - *« … Dieu et l ‘Eglise comptent sur chacun de nous, c’est important pour la réussite de nos vies… »*
 
-[![clip_image013](https://beguelins.net/blog/public/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image013_thumb.jpg "clip_image013")](https://beguelins.net/blog/public/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image013_2.jpg)
+[![clip_image013](/images/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image013_thumb.jpg "clip_image013")](/images/Windows-Live-Writer/6f1b938a1457_12CAB/clip_image013_2.jpg)
 
 *fête de la terre – août 1960*
 
